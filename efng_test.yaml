@@ -1,0 +1,5013 @@
+--- !ruby/object:RedditKit::PaginatedResponse
+before: 
+after: t3_22maen
+results:
+- !ruby/object:RedditKit::Link
+  attributes:
+    :domain: self.HITsWorthTurkingFor
+    :banned_by: 
+    :media_embed: {}
+    :subreddit: HITsWorthTurkingFor
+    :selftext_html: |-
+      &lt;!-- SC_OFF --&gt;&lt;div class="md"&gt;&lt;p&gt;&lt;a href="http://adf.ly/jK9Fn"&gt;http://adf.ly/jK9Fn&lt;/a&gt;&lt;/p&gt;
+      &lt;/div&gt;&lt;!-- SC_ON --&gt;
+    :selftext: http://adf.ly/jK9Fn
+    :likes: 
+    :secure_media: 
+    :link_flair_text: 
+    :id: 22oe7r
+    :gilded: 0
+    :secure_media_embed: {}
+    :clicked: false
+    :stickied: false
+    :author: reydiant
+    :media: 
+    :score: 8
+    :approved_by: 
+    :over_18: false
+    :hidden: false
+    :thumbnail: ''
+    :subreddit_id: t5_2tgoz
+    :edited: false
+    :link_flair_css_class: 
+    :author_flair_css_class: 
+    :downs: 0
+    :saved: false
+    :is_self: true
+    :permalink: "/r/HITsWorthTurkingFor/comments/22oe7r/us_quick_survey_10_cents_for_less_than_1_min_cenk/"
+    :name: t3_22oe7r
+    :created: 1397143451.0
+    :url: http://www.reddit.com/r/HITsWorthTurkingFor/comments/22oe7r/us_quick_survey_10_cents_for_less_than_1_min_cenk/
+    :author_flair_text: 
+    :title: US - Quick Survey (10 cents for less than 1 min) - Cenk Kocas - $.10/30s
+    :created_utc: 1397114651.0
+    :ups: 8
+    :num_comments: 3
+    :visited: false
+    :num_reports: 
+    :distinguished: 
+    :kind: t3
+- !ruby/object:RedditKit::Link
+  attributes:
+    :domain: self.HITsWorthTurkingFor
+    :banned_by: 
+    :media_embed: {}
+    :subreddit: HITsWorthTurkingFor
+    :selftext_html: |-
+      &lt;!-- SC_OFF --&gt;&lt;div class="md"&gt;&lt;p&gt;Quick and easy. Take note of the 3 digit number at the end! If you feel so inclined you can click through the adfly link as well :-) Enjoy.&lt;/p&gt;
+
+      &lt;p&gt;&lt;strong&gt;Adfly Link&lt;/strong&gt; - &lt;a href="http://adf.ly/jK1LO"&gt;http://adf.ly/jK1LO&lt;/a&gt;&lt;/p&gt;
+
+      &lt;p&gt;&lt;strong&gt;Direct Link&lt;/strong&gt; - &lt;a href="https://www.mturk.com/mturk/searchbar?selectedSearchType=hitgroups&amp;amp;searchWords=modern+savvy+clothes&amp;amp;minReward=0.00&amp;amp;x=0&amp;amp;y=0"&gt;https://www.mturk.com/mturk/searchbar?selectedSearchType=hitgroups&amp;amp;searchWords=modern+savvy+clothes&amp;amp;minReward=0.00&amp;amp;x=0&amp;amp;y=0&lt;/a&gt;&lt;/p&gt;
+      &lt;/div&gt;&lt;!-- SC_ON --&gt;
+    :selftext: |-
+      Quick and easy. Take note of the 3 digit number at the end! If you feel so inclined you can click through the adfly link as well :-) Enjoy.
+
+      **Adfly Link** - http://adf.ly/jK1LO
+
+      **Direct Link** - https://www.mturk.com/mturk/searchbar?selectedSearchType=hitgroups&amp;searchWords=modern+savvy+clothes&amp;minReward=0.00&amp;x=0&amp;y=0
+    :likes: 
+    :secure_media: 
+    :link_flair_text: 
+    :id: 22ody4
+    :gilded: 0
+    :secure_media_embed: {}
+    :clicked: false
+    :stickied: false
+    :author: phoenixink
+    :media: 
+    :score: 2
+    :approved_by: 
+    :over_18: false
+    :hidden: false
+    :thumbnail: ''
+    :subreddit_id: t5_2tgoz
+    :edited: false
+    :link_flair_css_class: 
+    :author_flair_css_class: 
+    :downs: 1
+    :saved: false
+    :is_self: true
+    :permalink: "/r/HITsWorthTurkingFor/comments/22ody4/us_brief_survey_regarding_shopping_for_clothes/"
+    :name: t3_22ody4
+    :created: 1397143082.0
+    :url: http://www.reddit.com/r/HITsWorthTurkingFor/comments/22ody4/us_brief_survey_regarding_shopping_for_clothes/
+    :author_flair_text: 
+    :title: US - Brief survey regarding shopping for clothes - Modern Savvy - $.19/2
+      min - (&gt;500 HITs) (&gt;97%)
+    :created_utc: 1397114282.0
+    :ups: 3
+    :num_comments: 2
+    :visited: false
+    :num_reports: 
+    :distinguished: 
+    :kind: t3
+- !ruby/object:RedditKit::Link
+  attributes:
+    :domain: self.HITsWorthTurkingFor
+    :banned_by: 
+    :media_embed: {}
+    :subreddit: HITsWorthTurkingFor
+    :selftext_html: |-
+      &lt;!-- SC_OFF --&gt;&lt;div class="md"&gt;&lt;p&gt;&lt;a href="http://adf.ly/jJwal"&gt;http://adf.ly/jJwal&lt;/a&gt;&lt;/p&gt;
+      &lt;/div&gt;&lt;!-- SC_ON --&gt;
+    :selftext: http://adf.ly/jJwal
+    :likes: 
+    :secure_media: 
+    :link_flair_text: Dead
+    :id: 22ocxj
+    :gilded: 0
+    :secure_media_embed: {}
+    :clicked: false
+    :stickied: false
+    :author: reydiant
+    :media: 
+    :score: 3
+    :approved_by: 
+    :over_18: false
+    :hidden: false
+    :thumbnail: ''
+    :subreddit_id: t5_2tgoz
+    :edited: false
+    :link_flair_css_class: dead
+    :author_flair_css_class: 
+    :downs: 0
+    :saved: false
+    :is_self: true
+    :permalink: "/r/HITsWorthTurkingFor/comments/22ocxj/ica_we_want_to_know_what_you_think_5045m_97/"
+    :name: t3_22ocxj
+    :created: 1397141348.0
+    :url: http://www.reddit.com/r/HITsWorthTurkingFor/comments/22ocxj/ica_we_want_to_know_what_you_think_5045m_97/
+    :author_flair_text: 
+    :title: ICA - We want to know what you think. - $.50/4.5m (&gt;97%)
+    :created_utc: 1397112548.0
+    :ups: 3
+    :num_comments: 3
+    :visited: false
+    :num_reports: 
+    :distinguished: 
+    :kind: t3
+- !ruby/object:RedditKit::Link
+  attributes:
+    :domain: self.HITsWorthTurkingFor
+    :banned_by: 
+    :media_embed: {}
+    :subreddit: HITsWorthTurkingFor
+    :selftext_html: |-
+      &lt;!-- SC_OFF --&gt;&lt;div class="md"&gt;&lt;p&gt;&lt;a href="http://adf.ly/jJuFw"&gt;http://adf.ly/jJuFw&lt;/a&gt;&lt;/p&gt;
+      &lt;/div&gt;&lt;!-- SC_ON --&gt;
+    :selftext: http://adf.ly/jJuFw
+    :likes: 
+    :secure_media: 
+    :link_flair_text: 
+    :id: 22ocdb
+    :gilded: 0
+    :secure_media_embed: {}
+    :clicked: false
+    :stickied: false
+    :author: reydiant
+    :media: 
+    :score: 1
+    :approved_by: 
+    :over_18: false
+    :hidden: false
+    :thumbnail: ''
+    :subreddit_id: t5_2tgoz
+    :edited: false
+    :link_flair_css_class: 
+    :author_flair_css_class: 
+    :downs: 1
+    :saved: false
+    :is_self: true
+    :permalink: "/r/HITsWorthTurkingFor/comments/22ocdb/us_answer_a_quick_survey_about_your_perceptions/"
+    :name: t3_22ocdb
+    :created: 1397140706.0
+    :url: http://www.reddit.com/r/HITsWorthTurkingFor/comments/22ocdb/us_answer_a_quick_survey_about_your_perceptions/
+    :author_flair_text: 
+    :title: US - Answer a quick survey about your perceptions - cindy nordstrom -
+      $.50/3.5m (&gt;95%, &gt;100 hits)
+    :created_utc: 1397111906.0
+    :ups: 2
+    :num_comments: 0
+    :visited: false
+    :num_reports: 
+    :distinguished: 
+    :kind: t3
+- !ruby/object:RedditKit::Link
+  attributes:
+    :domain: self.HITsWorthTurkingFor
+    :banned_by: 
+    :media_embed: {}
+    :subreddit: HITsWorthTurkingFor
+    :selftext_html: |-
+      &lt;!-- SC_OFF --&gt;&lt;div class="md"&gt;&lt;p&gt;&lt;a href="http://adf.ly/jJs7T"&gt;http://adf.ly/jJs7T&lt;/a&gt;&lt;/p&gt;
+
+      &lt;p&gt;Multiple AC&amp;#39;s&lt;/p&gt;
+      &lt;/div&gt;&lt;!-- SC_ON --&gt;
+    :selftext: |-
+      http://adf.ly/jJs7T
+
+      Multiple AC's
+    :likes: 
+    :secure_media: 
+    :link_flair_text: Dead
+    :id: 22obwy
+    :gilded: 0
+    :secure_media_embed: {}
+    :clicked: false
+    :stickied: false
+    :author: rwebb507
+    :media: 
+    :score: 1
+    :approved_by: 
+    :over_18: false
+    :hidden: false
+    :thumbnail: ''
+    :subreddit_id: t5_2tgoz
+    :edited: false
+    :link_flair_css_class: dead
+    :author_flair_css_class: coin
+    :downs: 0
+    :saved: false
+    :is_self: true
+    :permalink: "/r/HITsWorthTurkingFor/comments/22obwy/us_read_a_story_and_answer_questionsashley1008min/"
+    :name: t3_22obwy
+    :created: 1397140177.0
+    :url: http://www.reddit.com/r/HITsWorthTurkingFor/comments/22obwy/us_read_a_story_and_answer_questionsashley1008min/
+    :author_flair_text: Pool Contributor!
+    :title: US Read a story and answer questions-Ashley-$1.00/8min (&gt;97%)(&gt;1000HITS)
+    :created_utc: 1397111377.0
+    :ups: 1
+    :num_comments: 1
+    :visited: false
+    :num_reports: 
+    :distinguished: 
+    :kind: t3
+- !ruby/object:RedditKit::Link
+  attributes:
+    :domain: self.HITsWorthTurkingFor
+    :banned_by: 
+    :media_embed: {}
+    :subreddit: HITsWorthTurkingFor
+    :selftext_html: |-
+      &lt;!-- SC_OFF --&gt;&lt;div class="md"&gt;&lt;p&gt;I will just say that a certain somebody was insistent on carrying on a conversation with me while I was trying to take this. I imagine I could have completed it more quickly minus the distraction. Overall pretty simple though. A smidgen past .10/min but I think it&amp;#39;s close enough. Let me know how long it takes you guys, since my time wasn&amp;#39;t perfect. &lt;/p&gt;
+
+      &lt;p&gt;&lt;strong&gt;Link&lt;/strong&gt; - &lt;a href="http://adf.ly/jJrmr"&gt;http://adf.ly/jJrmr&lt;/a&gt;&lt;/p&gt;
+      &lt;/div&gt;&lt;!-- SC_ON --&gt;
+    :selftext: "I will just say that a certain somebody was insistent on carrying
+      on a conversation with me while I was trying to take this. I imagine I could
+      have completed it more quickly minus the distraction. Overall pretty simple
+      though. A smidgen past .10/min but I think it's close enough. Let me know how
+      long it takes you guys, since my time wasn't perfect. \n\n**Link** - http://adf.ly/jJrmr"
+    :likes: 
+    :secure_media: 
+    :link_flair_text: 
+    :id: 22oc0d
+    :gilded: 0
+    :secure_media_embed: {}
+    :clicked: false
+    :stickied: false
+    :author: phoenixink
+    :media: 
+    :score: 5
+    :approved_by: 
+    :over_18: false
+    :hidden: false
+    :thumbnail: ''
+    :subreddit_id: t5_2tgoz
+    :edited: false
+    :link_flair_css_class: 
+    :author_flair_css_class: 
+    :downs: 0
+    :saved: false
+    :is_self: true
+    :permalink: "/r/HITsWorthTurkingFor/comments/22oc0d/us_answer_a_survey_about_your_preferences_for_a/"
+    :name: t3_22oc0d
+    :created: 1397140263.0
+    :url: http://www.reddit.com/r/HITsWorthTurkingFor/comments/22oc0d/us_answer_a_survey_about_your_preferences_for_a/
+    :author_flair_text: 
+    :title: US - Answer a survey about your preferences for a specific software type
+      (7 minutes). - Chadwick Miller - $.40/5 minutes - (&gt;50 HITs) (&gt;95%)
+    :created_utc: 1397111463.0
+    :ups: 5
+    :num_comments: 5
+    :visited: false
+    :num_reports: 
+    :distinguished: 
+    :kind: t3
+- !ruby/object:RedditKit::Link
+  attributes:
+    :domain: self.HITsWorthTurkingFor
+    :banned_by: 
+    :media_embed: {}
+    :subreddit: HITsWorthTurkingFor
+    :selftext_html: |-
+      &lt;!-- SC_OFF --&gt;&lt;div class="md"&gt;&lt;p&gt;AC, Have your ID ready. Painless and easy! Enjoy!&lt;/p&gt;
+
+      &lt;p&gt;Adfly link: - &lt;a href="http://adf.ly/jJi2q"&gt;http://adf.ly/jJi2q&lt;/a&gt;&lt;/p&gt;
+
+      &lt;p&gt;Direct link: - &lt;a href="https://www.mturk.com/mturk/searchbar?selectedSearchType=hitgroups&amp;amp;searchWords=christina+rader+job&amp;amp;minReward=0.00&amp;amp;x=0&amp;amp;y=0"&gt;https://www.mturk.com/mturk/searchbar?selectedSearchType=hitgroups&amp;amp;searchWords=christina+rader+job&amp;amp;minReward=0.00&amp;amp;x=0&amp;amp;y=0&lt;/a&gt;&lt;/p&gt;
+      &lt;/div&gt;&lt;!-- SC_ON --&gt;
+    :selftext: |-
+      AC, Have your ID ready. Painless and easy! Enjoy!
+
+      Adfly link: - http://adf.ly/jJi2q
+
+      Direct link: - https://www.mturk.com/mturk/searchbar?selectedSearchType=hitgroups&amp;searchWords=christina+rader+job&amp;minReward=0.00&amp;x=0&amp;y=0
+    :likes: 
+    :secure_media: 
+    :link_flair_text: 
+    :id: 22oa62
+    :gilded: 0
+    :secure_media_embed: {}
+    :clicked: false
+    :stickied: false
+    :author: phoenixink
+    :media: 
+    :score: 6
+    :approved_by: 
+    :over_18: false
+    :hidden: false
+    :thumbnail: ''
+    :subreddit_id: t5_2tgoz
+    :edited: false
+    :link_flair_css_class: 
+    :author_flair_css_class: 
+    :downs: 0
+    :saved: false
+    :is_self: true
+    :permalink: "/r/HITsWorthTurkingFor/comments/22oa62/us_5minute_survey_about_your_job_christina_rader/"
+    :name: t3_22oa62
+    :created: 1397138110.0
+    :url: http://www.reddit.com/r/HITsWorthTurkingFor/comments/22oa62/us_5minute_survey_about_your_job_christina_rader/
+    :author_flair_text: 
+    :title: US - 5-minute survey about your job - Christina Rader - $.30/2.5 minutes
+      - (&gt;95%)
+    :created_utc: 1397109310.0
+    :ups: 6
+    :num_comments: 4
+    :visited: false
+    :num_reports: 
+    :distinguished: 
+    :kind: t3
+- !ruby/object:RedditKit::Link
+  attributes:
+    :domain: self.HITsWorthTurkingFor
+    :banned_by: 
+    :media_embed: {}
+    :subreddit: HITsWorthTurkingFor
+    :selftext_html: |-
+      &lt;!-- SC_OFF --&gt;&lt;div class="md"&gt;&lt;p&gt;&lt;a href="http://adf.ly/jJZjw"&gt;http://adf.ly/jJZjw&lt;/a&gt;&lt;/p&gt;
+      &lt;/div&gt;&lt;!-- SC_ON --&gt;
+    :selftext: http://adf.ly/jJZjw
+    :likes: 
+    :secure_media: 
+    :link_flair_text: 
+    :id: 22o8my
+    :gilded: 0
+    :secure_media_embed: {}
+    :clicked: false
+    :stickied: false
+    :author: reydiant
+    :media: 
+    :score: 3
+    :approved_by: 
+    :over_18: false
+    :hidden: false
+    :thumbnail: ''
+    :subreddit_id: t5_2tgoz
+    :edited: false
+    :link_flair_css_class: 
+    :author_flair_css_class: 
+    :downs: 2
+    :saved: false
+    :is_self: true
+    :permalink: "/r/HITsWorthTurkingFor/comments/22o8my/us_answer_opinion_survey_bb_lab_454m/"
+    :name: t3_22o8my
+    :created: 1397136553.0
+    :url: http://www.reddit.com/r/HITsWorthTurkingFor/comments/22o8my/us_answer_opinion_survey_bb_lab_454m/
+    :author_flair_text: 
+    :title: US - Answer opinion survey - BB Lab - $.45/4m
+    :created_utc: 1397107753.0
+    :ups: 5
+    :num_comments: 8
+    :visited: false
+    :num_reports: 
+    :distinguished: 
+    :kind: t3
+- !ruby/object:RedditKit::Link
+  attributes:
+    :domain: self.HITsWorthTurkingFor
+    :banned_by: 
+    :media_embed: {}
+    :subreddit: HITsWorthTurkingFor
+    :selftext_html: |-
+      &lt;!-- SC_OFF --&gt;&lt;div class="md"&gt;&lt;p&gt;&lt;a href="http://adf.ly/jJYNo"&gt;http://adf.ly/jJYNo&lt;/a&gt;&lt;/p&gt;
+
+      &lt;p&gt;Dont miss your survey code&lt;/p&gt;
+      &lt;/div&gt;&lt;!-- SC_ON --&gt;
+    :selftext: |-
+      http://adf.ly/jJYNo
+
+      Dont miss your survey code
+    :likes: 
+    :secure_media: 
+    :link_flair_text: Dead
+    :id: 22o89o
+    :gilded: 0
+    :secure_media_embed: {}
+    :clicked: false
+    :stickied: false
+    :author: rwebb507
+    :media: 
+    :score: 12
+    :approved_by: 
+    :over_18: false
+    :hidden: false
+    :thumbnail: ''
+    :subreddit_id: t5_2tgoz
+    :edited: false
+    :link_flair_css_class: dead
+    :author_flair_css_class: coin
+    :downs: 0
+    :saved: false
+    :is_self: true
+    :permalink: "/r/HITsWorthTurkingFor/comments/22o89o/us_short_study_12_minutesdengfeng_yan0101min_95/"
+    :name: t3_22o89o
+    :created: 1397136181.0
+    :url: http://www.reddit.com/r/HITsWorthTurkingFor/comments/22o89o/us_short_study_12_minutesdengfeng_yan0101min_95/
+    :author_flair_text: Pool Contributor!
+    :title: US Short Study; 1-2 Minutes-Dengfeng Yan-$0.10/1min (&gt;95%)
+    :created_utc: 1397107381.0
+    :ups: 12
+    :num_comments: 3
+    :visited: false
+    :num_reports: 
+    :distinguished: 
+    :kind: t3
+- !ruby/object:RedditKit::Link
+  attributes:
+    :domain: self.HITsWorthTurkingFor
+    :banned_by: 
+    :media_embed: {}
+    :subreddit: HITsWorthTurkingFor
+    :selftext_html: |-
+      &lt;!-- SC_OFF --&gt;&lt;div class="md"&gt;&lt;p&gt;&lt;a href="http://adf.ly/jJWiw"&gt;http://adf.ly/jJWiw&lt;/a&gt;&lt;/p&gt;
+      &lt;/div&gt;&lt;!-- SC_ON --&gt;
+    :selftext: http://adf.ly/jJWiw
+    :likes: 
+    :secure_media: 
+    :link_flair_text: Dead
+    :id: 22o80t
+    :gilded: 0
+    :secure_media_embed: {}
+    :clicked: false
+    :stickied: false
+    :author: reydiant
+    :media: 
+    :score: 6
+    :approved_by: 
+    :over_18: false
+    :hidden: false
+    :thumbnail: ''
+    :subreddit_id: t5_2tgoz
+    :edited: false
+    :link_flair_css_class: dead
+    :author_flair_css_class: 
+    :downs: 0
+    :saved: false
+    :is_self: true
+    :permalink: "/r/HITsWorthTurkingFor/comments/22o80t/us_feelings_perceptions_3_minutes_mpm_laboratory/"
+    :name: t3_22o80t
+    :created: 1397135941.0
+    :url: http://www.reddit.com/r/HITsWorthTurkingFor/comments/22o80t/us_feelings_perceptions_3_minutes_mpm_laboratory/
+    :author_flair_text: 
+    :title: US - Feelings &amp; Perceptions (3 minutes) - MPM Laboratory - $.20/2m
+      (&gt;76%)
+    :created_utc: 1397107141.0
+    :ups: 6
+    :num_comments: 3
+    :visited: false
+    :num_reports: 
+    :distinguished: 
+    :kind: t3
+- !ruby/object:RedditKit::Link
+  attributes:
+    :domain: self.HITsWorthTurkingFor
+    :banned_by: 
+    :media_embed: {}
+    :subreddit: HITsWorthTurkingFor
+    :selftext_html: |-
+      &lt;!-- SC_OFF --&gt;&lt;div class="md"&gt;&lt;p&gt;&lt;a href="http://adf.ly/jJGDT"&gt;http://adf.ly/jJGDT&lt;/a&gt;&lt;/p&gt;
+      &lt;/div&gt;&lt;!-- SC_ON --&gt;
+    :selftext: http://adf.ly/jJGDT
+    :likes: 
+    :secure_media: 
+    :link_flair_text: Dead
+    :id: 22o3x3
+    :gilded: 0
+    :secure_media_embed: {}
+    :clicked: false
+    :stickied: false
+    :author: rwebb507
+    :media: 
+    :score: 4
+    :approved_by: 
+    :over_18: false
+    :hidden: false
+    :thumbnail: ''
+    :subreddit_id: t5_2tgoz
+    :edited: false
+    :link_flair_css_class: dead
+    :author_flair_css_class: coin
+    :downs: 0
+    :saved: false
+    :is_self: true
+    :permalink: "/r/HITsWorthTurkingFor/comments/22o3x3/us_easy_10second_task_test_picture_for_kids/"
+    :name: t3_22o3x3
+    :created: 1397132347.0
+    :url: http://www.reddit.com/r/HITsWorthTurkingFor/comments/22o3x3/us_easy_10second_task_test_picture_for_kids/
+    :author_flair_text: Pool Contributor!
+    :title: 'US Easy 10-second task: Test picture for kids game-Robin Melnick-$0.11/&lt;20sec
+      (&gt;95%)'
+    :created_utc: 1397103547.0
+    :ups: 4
+    :num_comments: 4
+    :visited: false
+    :num_reports: 
+    :distinguished: 
+    :kind: t3
+- !ruby/object:RedditKit::Link
+  attributes:
+    :domain: self.HITsWorthTurkingFor
+    :banned_by: 
+    :media_embed: {}
+    :subreddit: HITsWorthTurkingFor
+    :selftext_html: |-
+      &lt;!-- SC_OFF --&gt;&lt;div class="md"&gt;&lt;p&gt;Great TO.&lt;/p&gt;
+
+      &lt;p&gt;&lt;a href="http://adf.ly/jJ4WE"&gt;http://adf.ly/jJ4WE&lt;/a&gt;&lt;/p&gt;
+      &lt;/div&gt;&lt;!-- SC_ON --&gt;
+    :selftext: |-
+      Great TO.
+
+      http://adf.ly/jJ4WE
+    :likes: 
+    :secure_media: 
+    :link_flair_text: Dead
+    :id: 22o0mn
+    :gilded: 0
+    :secure_media_embed: {}
+    :clicked: false
+    :stickied: false
+    :author: suuserx
+    :media: 
+    :score: 10
+    :approved_by: 
+    :over_18: false
+    :hidden: false
+    :thumbnail: ''
+    :subreddit_id: t5_2tgoz
+    :edited: false
+    :link_flair_css_class: dead
+    :author_flair_css_class: 
+    :downs: 0
+    :saved: false
+    :is_self: true
+    :permalink: "/r/HITsWorthTurkingFor/comments/22o0mn/ica_complete_a_short_online_survey_yue_0252_min/"
+    :name: t3_22o0mn
+    :created: 1397129801.0
+    :url: http://www.reddit.com/r/HITsWorthTurkingFor/comments/22o0mn/ica_complete_a_short_online_survey_yue_0252_min/
+    :author_flair_text: 
+    :title: ICA - Complete a short Online Survey - Yue - $0.25/2 min
+    :created_utc: 1397101001.0
+    :ups: 10
+    :num_comments: 3
+    :visited: false
+    :num_reports: 
+    :distinguished: 
+    :kind: t3
+- !ruby/object:RedditKit::Link
+  attributes:
+    :domain: self.HITsWorthTurkingFor
+    :banned_by: 
+    :media_embed: {}
+    :subreddit: HITsWorthTurkingFor
+    :selftext_html: |-
+      &lt;!-- SC_OFF --&gt;&lt;div class="md"&gt;&lt;p&gt;&lt;a href="http://adf.ly/jJ47T"&gt;http://adf.ly/jJ47T&lt;/a&gt;&lt;/p&gt;
+
+      &lt;p&gt;AC&lt;/p&gt;
+      &lt;/div&gt;&lt;!-- SC_ON --&gt;
+    :selftext: |-
+      http://adf.ly/jJ47T
+
+      AC
+    :likes: 
+    :secure_media: 
+    :link_flair_text: Dead
+    :id: 22o0it
+    :gilded: 0
+    :secure_media_embed: {}
+    :clicked: false
+    :stickied: false
+    :author: rwebb507
+    :media: 
+    :score: 3
+    :approved_by: 
+    :over_18: false
+    :hidden: false
+    :thumbnail: ''
+    :subreddit_id: t5_2tgoz
+    :edited: false
+    :link_flair_css_class: dead
+    :author_flair_css_class: coin
+    :downs: 1
+    :saved: false
+    :is_self: true
+    :permalink: "/r/HITsWorthTurkingFor/comments/22o0it/us_consumer_product_surveyjeff_lee0404min95/"
+    :name: t3_22o0it
+    :created: 1397129723.0
+    :url: http://www.reddit.com/r/HITsWorthTurkingFor/comments/22o0it/us_consumer_product_surveyjeff_lee0404min95/
+    :author_flair_text: Pool Contributor!
+    :title: US Consumer Product Survey-Jeff Lee-$0.40/4min(&gt;95%)
+    :created_utc: 1397100923.0
+    :ups: 4
+    :num_comments: 4
+    :visited: false
+    :num_reports: 
+    :distinguished: 
+    :kind: t3
+- !ruby/object:RedditKit::Link
+  attributes:
+    :domain: self.HITsWorthTurkingFor
+    :banned_by: 
+    :media_embed: {}
+    :subreddit: HITsWorthTurkingFor
+    :selftext_html: |-
+      &lt;!-- SC_OFF --&gt;&lt;div class="md"&gt;&lt;p&gt;&lt;a href="http://adf.ly/jIzyd"&gt;http://adf.ly/jIzyd&lt;/a&gt;&lt;/p&gt;
+      &lt;/div&gt;&lt;!-- SC_ON --&gt;
+    :selftext: http://adf.ly/jIzyd
+    :likes: 
+    :secure_media: 
+    :link_flair_text: 
+    :id: 22nzc2
+    :gilded: 0
+    :secure_media_embed: {}
+    :clicked: false
+    :stickied: false
+    :author: rwebb507
+    :media: 
+    :score: 12
+    :approved_by: 
+    :over_18: false
+    :hidden: false
+    :thumbnail: ''
+    :subreddit_id: t5_2tgoz
+    :edited: false
+    :link_flair_css_class: 
+    :author_flair_css_class: coin
+    :downs: 0
+    :saved: false
+    :is_self: true
+    :permalink: "/r/HITsWorthTurkingFor/comments/22nzc2/us_look_at_a_logo_then_answer_3_short_questions/"
+    :name: t3_22nzc2
+    :created: 1397128879.0
+    :url: http://www.reddit.com/r/HITsWorthTurkingFor/comments/22nzc2/us_look_at_a_logo_then_answer_3_short_questions/
+    :author_flair_text: Pool Contributor!
+    :title: US Look at a logo then answer 3 short questions about it-Events-$0.08/&lt;40sec
+      (no quals)
+    :created_utc: 1397100079.0
+    :ups: 12
+    :num_comments: 3
+    :visited: false
+    :num_reports: 
+    :distinguished: 
+    :kind: t3
+- !ruby/object:RedditKit::Link
+  attributes:
+    :domain: self.HITsWorthTurkingFor
+    :banned_by: 
+    :media_embed: {}
+    :subreddit: HITsWorthTurkingFor
+    :selftext_html: |-
+      &lt;!-- SC_OFF --&gt;&lt;div class="md"&gt;&lt;p&gt;Good TO. Some math here.&lt;/p&gt;
+
+      &lt;p&gt;&lt;a href="http://adf.ly/jIskm"&gt;http://adf.ly/jIskm&lt;/a&gt;&lt;/p&gt;
+      &lt;/div&gt;&lt;!-- SC_ON --&gt;
+    :selftext: |-
+      Good TO. Some math here.
+
+      http://adf.ly/jIskm
+    :likes: 
+    :secure_media: 
+    :link_flair_text: Dead
+    :id: 22nxa2
+    :gilded: 0
+    :secure_media_embed: {}
+    :clicked: false
+    :stickied: false
+    :author: suuserx
+    :media: 
+    :score: 4
+    :approved_by: 
+    :over_18: false
+    :hidden: false
+    :thumbnail: ''
+    :subreddit_id: t5_2tgoz
+    :edited: false
+    :link_flair_css_class: dead
+    :author_flair_css_class: 
+    :downs: 1
+    :saved: false
+    :is_self: true
+    :permalink: "/r/HITsWorthTurkingFor/comments/22nxa2/us_participate_in_a_34_min_short_online_study_for/"
+    :name: t3_22nxa2
+    :created: 1397127487.0
+    :url: http://www.reddit.com/r/HITsWorthTurkingFor/comments/22nxa2/us_participate_in_a_34_min_short_online_study_for/
+    :author_flair_text: 
+    :title: US - Participate in a 3-4 min short online study for $.4 - Alex Williams
+      - $0.40/2.5 min - (&gt;95%)
+    :created_utc: 1397098687.0
+    :ups: 5
+    :num_comments: 3
+    :visited: false
+    :num_reports: 
+    :distinguished: 
+    :kind: t3
+- !ruby/object:RedditKit::Link
+  attributes:
+    :domain: self.HITsWorthTurkingFor
+    :banned_by: 
+    :media_embed: {}
+    :subreddit: HITsWorthTurkingFor
+    :selftext_html: |-
+      &lt;!-- SC_OFF --&gt;&lt;div class="md"&gt;&lt;p&gt;Decent TO. Lots of ACs here. Different HITs available for younger/older. &lt;/p&gt;
+
+      &lt;p&gt;&lt;a href="http://adf.ly/jIqZZ"&gt;http://adf.ly/jIqZZ&lt;/a&gt;&lt;/p&gt;
+      &lt;/div&gt;&lt;!-- SC_ON --&gt;
+    :selftext: "Decent TO. Lots of ACs here. Different HITs available for younger/older.
+      \n\nhttp://adf.ly/jIqZZ"
+    :likes: 
+    :secure_media: 
+    :link_flair_text: 
+    :id: 22nwdz
+    :gilded: 0
+    :secure_media_embed: {}
+    :clicked: false
+    :stickied: false
+    :author: suuserx
+    :media: 
+    :score: 7
+    :approved_by: 
+    :over_18: false
+    :hidden: false
+    :thumbnail: ''
+    :subreddit_id: t5_2tgoz
+    :edited: false
+    :link_flair_css_class: 
+    :author_flair_css_class: 
+    :downs: 0
+    :saved: false
+    :is_self: true
+    :permalink: "/r/HITsWorthTurkingFor/comments/22nwdz/us_survey_about_workplace_experiences_for_ages/"
+    :name: t3_22nwdz
+    :created: 1397126869.0
+    :url: http://www.reddit.com/r/HITsWorthTurkingFor/comments/22nwdz/us_survey_about_workplace_experiences_for_ages/
+    :author_flair_text: 
+    :title: US - Survey about workplace experiences for AGES [18-29, 50+] - Marchiando
+      Lab - $1.00/8 min - (&gt;99%, must be 18-29 OR 50+, work &gt;20 a week)
+    :created_utc: 1397098069.0
+    :ups: 7
+    :num_comments: 9
+    :visited: false
+    :num_reports: 
+    :distinguished: 
+    :kind: t3
+- !ruby/object:RedditKit::Link
+  attributes:
+    :domain: self.HITsWorthTurkingFor
+    :banned_by: 
+    :media_embed: {}
+    :subreddit: HITsWorthTurkingFor
+    :selftext_html: |-
+      &lt;!-- SC_OFF --&gt;&lt;div class="md"&gt;&lt;p&gt;&lt;a href="http://adf.ly/jIoaC"&gt;http://adf.ly/jIoaC&lt;/a&gt;&lt;/p&gt;
+      &lt;/div&gt;&lt;!-- SC_ON --&gt;
+    :selftext: http://adf.ly/jIoaC
+    :likes: 
+    :secure_media: 
+    :link_flair_text: Dead
+    :id: 22nvo4
+    :gilded: 0
+    :secure_media_embed: {}
+    :clicked: false
+    :stickied: false
+    :author: rwebb507
+    :media: 
+    :score: 8
+    :approved_by: 
+    :over_18: false
+    :hidden: false
+    :thumbnail: ''
+    :subreddit_id: t5_2tgoz
+    :edited: false
+    :link_flair_css_class: dead
+    :author_flair_css_class: coin
+    :downs: 0
+    :saved: false
+    :is_self: true
+    :permalink: "/r/HITsWorthTurkingFor/comments/22nvo4/us_product_studytina0252min_95/"
+    :name: t3_22nvo4
+    :created: 1397126417.0
+    :url: http://www.reddit.com/r/HITsWorthTurkingFor/comments/22nvo4/us_product_studytina0252min_95/
+    :author_flair_text: Pool Contributor!
+    :title: US Product Study-Tina-$0.25/2min (&gt;95%)
+    :created_utc: 1397097617.0
+    :ups: 8
+    :num_comments: 2
+    :visited: false
+    :num_reports: 
+    :distinguished: 
+    :kind: t3
+- !ruby/object:RedditKit::Link
+  attributes:
+    :domain: self.HITsWorthTurkingFor
+    :banned_by: 
+    :media_embed: {}
+    :subreddit: HITsWorthTurkingFor
+    :selftext_html: |-
+      &lt;!-- SC_OFF --&gt;&lt;div class="md"&gt;&lt;p&gt;&lt;a href="http://adf.ly/jImf0"&gt;http://adf.ly/jImf0&lt;/a&gt;&lt;/p&gt;
+
+      &lt;p&gt;Easy&lt;/p&gt;
+
+      &lt;p&gt;Good TO&lt;/p&gt;
+      &lt;/div&gt;&lt;!-- SC_ON --&gt;
+    :selftext: |-
+      http://adf.ly/jImf0
+
+      Easy
+
+      Good TO
+    :likes: 
+    :secure_media: 
+    :link_flair_text: Dead
+    :id: 22nv0h
+    :gilded: 0
+    :secure_media_embed: {}
+    :clicked: false
+    :stickied: false
+    :author: bmassa1
+    :media: 
+    :score: 8
+    :approved_by: 
+    :over_18: false
+    :hidden: false
+    :thumbnail: ''
+    :subreddit_id: t5_2tgoz
+    :edited: false
+    :link_flair_css_class: dead
+    :author_flair_css_class: 
+    :downs: 2
+    :saved: false
+    :is_self: true
+    :permalink: "/r/HITsWorthTurkingFor/comments/22nv0h/us_answer_some_fun_questions_about_food_written/"
+    :name: t3_22nv0h
+    :created: 1397125994.0
+    :url: http://www.reddit.com/r/HITsWorthTurkingFor/comments/22nv0h/us_answer_some_fun_questions_about_food_written/
+    :author_flair_text: 
+    :title: US - Answer some fun questions about food written for preschoolers - Taylor
+      Holubar - $0.25/2 mins - (&gt;95%)
+    :created_utc: 1397097194.0
+    :ups: 10
+    :num_comments: 4
+    :visited: false
+    :num_reports: 
+    :distinguished: 
+    :kind: t3
+- !ruby/object:RedditKit::Link
+  attributes:
+    :domain: self.HITsWorthTurkingFor
+    :banned_by: 
+    :media_embed: {}
+    :subreddit: HITsWorthTurkingFor
+    :selftext_html: |-
+      &lt;!-- SC_OFF --&gt;&lt;div class="md"&gt;&lt;p&gt;Easy. Good TO.&lt;/p&gt;
+
+      &lt;p&gt;&lt;a href="http://adf.ly/jIfcF"&gt;http://adf.ly/jIfcF&lt;/a&gt;&lt;/p&gt;
+      &lt;/div&gt;&lt;!-- SC_ON --&gt;
+    :selftext: |-
+      Easy. Good TO.
+
+      http://adf.ly/jIfcF
+    :likes: 
+    :secure_media: 
+    :link_flair_text: Dead
+    :id: 22nsl8
+    :gilded: 0
+    :secure_media_embed: {}
+    :clicked: false
+    :stickied: false
+    :author: suuserx
+    :media: 
+    :score: 2
+    :approved_by: 
+    :over_18: false
+    :hidden: false
+    :thumbnail: ''
+    :subreddit_id: t5_2tgoz
+    :edited: false
+    :link_flair_css_class: dead
+    :author_flair_css_class: 
+    :downs: 2
+    :saved: false
+    :is_self: true
+    :permalink: "/r/HITsWorthTurkingFor/comments/22nsl8/ica_the_leaves_are_green_mind_and_language_01030/"
+    :name: t3_22nsl8
+    :created: 1397124419.0
+    :url: http://www.reddit.com/r/HITsWorthTurkingFor/comments/22nsl8/ica_the_leaves_are_green_mind_and_language_01030/
+    :author_flair_text: 
+    :title: ICA - The leaves are green. - Mind and Language - $0.10/30 sec - (&gt;95%)
+    :created_utc: 1397095619.0
+    :ups: 4
+    :num_comments: 3
+    :visited: false
+    :num_reports: 
+    :distinguished: 
+    :kind: t3
+- !ruby/object:RedditKit::Link
+  attributes:
+    :domain: self.HITsWorthTurkingFor
+    :banned_by: 
+    :media_embed: {}
+    :subreddit: HITsWorthTurkingFor
+    :selftext_html: |-
+      &lt;!-- SC_OFF --&gt;&lt;div class="md"&gt;&lt;p&gt;&lt;a href="http://adf.ly/jIcHy"&gt;http://adf.ly/jIcHy&lt;/a&gt;&lt;/p&gt;
+
+      &lt;p&gt;very easy questions.&lt;/p&gt;
+
+      &lt;p&gt;AC&lt;/p&gt;
+
+      &lt;p&gt;1 review, good.&lt;/p&gt;
+      &lt;/div&gt;&lt;!-- SC_ON --&gt;
+    :selftext: |-
+      http://adf.ly/jIcHy
+
+      very easy questions.
+
+      AC
+
+      1 review, good.
+    :likes: 
+    :secure_media: 
+    :link_flair_text: 
+    :id: 22ns4p
+    :gilded: 0
+    :secure_media_embed: {}
+    :clicked: false
+    :stickied: false
+    :author: bmassa1
+    :media: 
+    :score: 35
+    :approved_by: 
+    :over_18: false
+    :hidden: false
+    :thumbnail: ''
+    :subreddit_id: t5_2tgoz
+    :edited: false
+    :link_flair_css_class: 
+    :author_flair_css_class: 
+    :downs: 1
+    :saved: false
+    :is_self: true
+    :permalink: "/r/HITsWorthTurkingFor/comments/22ns4p/us_answer_a_survey_about_the_olympics_stefan/"
+    :name: t3_22ns4p
+    :created: 1397124108.0
+    :url: http://www.reddit.com/r/HITsWorthTurkingFor/comments/22ns4p/us_answer_a_survey_about_the_olympics_stefan/
+    :author_flair_text: 
+    :title: US - Answer a survey about the Olympics - Stefan Szymanski - $0.10/~ 40
+      secs - (US)
+    :created_utc: 1397095308.0
+    :ups: 36
+    :num_comments: 5
+    :visited: false
+    :num_reports: 
+    :distinguished: 
+    :kind: t3
+- !ruby/object:RedditKit::Link
+  attributes:
+    :domain: self.HITsWorthTurkingFor
+    :banned_by: 
+    :media_embed: {}
+    :subreddit: HITsWorthTurkingFor
+    :selftext_html: |-
+      &lt;!-- SC_OFF --&gt;&lt;div class="md"&gt;&lt;p&gt;&lt;a href="http://adf.ly/jIalH"&gt;http://adf.ly/jIalH&lt;/a&gt;&lt;/p&gt;
+
+      &lt;p&gt;Easy&lt;/p&gt;
+
+      &lt;p&gt;Great TO&lt;/p&gt;
+
+      &lt;p&gt;AC&amp;#39;s&lt;/p&gt;
+
+      &lt;p&gt;providing email for raffle is optional.&lt;/p&gt;
+
+      &lt;p&gt;Don&amp;#39;t forget to fully submit at the end. I literally just did it after I thought I&amp;#39;ve been done with this for a few mins.&lt;/p&gt;
+      &lt;/div&gt;&lt;!-- SC_ON --&gt;
+    :selftext: |-
+      http://adf.ly/jIalH
+
+      Easy
+
+      Great TO
+
+      AC's
+
+      providing email for raffle is optional.
+
+      Don't forget to fully submit at the end. I literally just did it after I thought I've been done with this for a few mins.
+    :likes: 
+    :secure_media: 
+    :link_flair_text: Dead
+    :id: 22nr6w
+    :gilded: 0
+    :secure_media_embed: {}
+    :clicked: false
+    :stickied: false
+    :author: bmassa1
+    :media: 
+    :score: 14
+    :approved_by: 
+    :over_18: false
+    :hidden: false
+    :thumbnail: ''
+    :subreddit_id: t5_2tgoz
+    :edited: false
+    :link_flair_css_class: dead
+    :author_flair_css_class: 
+    :downs: 0
+    :saved: false
+    :is_self: true
+    :permalink: "/r/HITsWorthTurkingFor/comments/22nr6w/us_preference_survey_cbresearchlab_035320_95/"
+    :name: t3_22nr6w
+    :created: 1397123508.0
+    :url: http://www.reddit.com/r/HITsWorthTurkingFor/comments/22nr6w/us_preference_survey_cbresearchlab_035320_95/
+    :author_flair_text: 
+    :title: US - Preference Survey - cbresearchlab - $0.35/3:20 - (&gt;95%)
+    :created_utc: 1397094708.0
+    :ups: 14
+    :num_comments: 3
+    :visited: false
+    :num_reports: 
+    :distinguished: 
+    :kind: t3
+- !ruby/object:RedditKit::Link
+  attributes:
+    :domain: self.HITsWorthTurkingFor
+    :banned_by: 
+    :media_embed: {}
+    :subreddit: HITsWorthTurkingFor
+    :selftext_html: |-
+      &lt;!-- SC_OFF --&gt;&lt;div class="md"&gt;&lt;p&gt;&lt;a href="http://adf.ly/jIZA3"&gt;http://adf.ly/jIZA3&lt;/a&gt;&lt;/p&gt;
+
+      &lt;p&gt;Super easy&lt;/p&gt;
+
+      &lt;p&gt;1 good review.&lt;/p&gt;
+      &lt;/div&gt;&lt;!-- SC_ON --&gt;
+    :selftext: |-
+      http://adf.ly/jIZA3
+
+      Super easy
+
+      1 good review.
+    :likes: 
+    :secure_media: 
+    :link_flair_text: 
+    :id: 22nq7n
+    :gilded: 0
+    :secure_media_embed: {}
+    :clicked: false
+    :stickied: false
+    :author: bmassa1
+    :media: 
+    :score: 24
+    :approved_by: 
+    :over_18: false
+    :hidden: false
+    :thumbnail: ''
+    :subreddit_id: t5_2tgoz
+    :edited: false
+    :link_flair_css_class: 
+    :author_flair_css_class: 
+    :downs: 0
+    :saved: false
+    :is_self: true
+    :permalink: "/r/HITsWorthTurkingFor/comments/22nq7n/ica_survey_on_the_perceived_gender_of_1_face/"
+    :name: t3_22nq7n
+    :created: 1397122903.0
+    :url: http://www.reddit.com/r/HITsWorthTurkingFor/comments/22nq7n/ica_survey_on_the_perceived_gender_of_1_face/
+    :author_flair_text: 
+    :title: ICA - Survey on the Perceived Gender of 1 Face - Dennis Küster - $0.05/~
+      25 sec - (none)
+    :created_utc: 1397094103.0
+    :ups: 24
+    :num_comments: 3
+    :visited: false
+    :num_reports: 
+    :distinguished: 
+    :kind: t3
+- !ruby/object:RedditKit::Link
+  attributes:
+    :domain: self.HITsWorthTurkingFor
+    :banned_by: 
+    :media_embed: {}
+    :subreddit: HITsWorthTurkingFor
+    :selftext_html: |-
+      &lt;!-- SC_OFF --&gt;&lt;div class="md"&gt;&lt;p&gt;Great TO.&lt;/p&gt;
+
+      &lt;p&gt;&lt;a href="http://adf.ly/jIaKh"&gt;http://adf.ly/jIaKh&lt;/a&gt;&lt;/p&gt;
+      &lt;/div&gt;&lt;!-- SC_ON --&gt;
+    :selftext: |-
+      Great TO.
+
+      http://adf.ly/jIaKh
+    :likes: 
+    :secure_media: 
+    :link_flair_text: Dead
+    :id: 22nqnk
+    :gilded: 0
+    :secure_media_embed: {}
+    :clicked: false
+    :stickied: false
+    :author: suuserx
+    :media: 
+    :score: 2
+    :approved_by: 
+    :over_18: false
+    :hidden: false
+    :thumbnail: ''
+    :subreddit_id: t5_2tgoz
+    :edited: false
+    :link_flair_css_class: dead
+    :author_flair_css_class: 
+    :downs: 1
+    :saved: false
+    :is_self: true
+    :permalink: "/r/HITsWorthTurkingFor/comments/22nqnk/ica_3min_survey_answer_a_survey_about_your/"
+    :name: t3_22nqnk
+    :created: 1397123174.0
+    :url: http://www.reddit.com/r/HITsWorthTurkingFor/comments/22nqnk/ica_3min_survey_answer_a_survey_about_your/
+    :author_flair_text: 
+    :title: ICA - [3min survey] Answer a survey about your feelings about your work
+      - Boram Do - $0.50/1.5 min - (&gt;98%, &gt;1000)
+    :created_utc: 1397094374.0
+    :ups: 3
+    :num_comments: 3
+    :visited: false
+    :num_reports: 
+    :distinguished: 
+    :kind: t3
+- !ruby/object:RedditKit::Link
+  attributes:
+    :domain: self.HITsWorthTurkingFor
+    :banned_by: 
+    :media_embed: {}
+    :subreddit: HITsWorthTurkingFor
+    :selftext_html: |-
+      &lt;!-- SC_OFF --&gt;&lt;div class="md"&gt;&lt;p&gt;&lt;a href="http://adf.ly/jIWHZ"&gt;http://adf.ly/jIWHZ&lt;/a&gt;&lt;/p&gt;
+      &lt;/div&gt;&lt;!-- SC_ON --&gt;
+    :selftext: http://adf.ly/jIWHZ
+    :likes: 
+    :secure_media: 
+    :link_flair_text: 
+    :id: 22npax
+    :gilded: 0
+    :secure_media_embed: {}
+    :clicked: false
+    :stickied: false
+    :author: reydiant
+    :media: 
+    :score: 1
+    :approved_by: 
+    :over_18: false
+    :hidden: false
+    :thumbnail: ''
+    :subreddit_id: t5_2tgoz
+    :edited: false
+    :link_flair_css_class: 
+    :author_flair_css_class: 
+    :downs: 1
+    :saved: false
+    :is_self: true
+    :permalink: "/r/HITsWorthTurkingFor/comments/22npax/us_read_and_rate_facebook_posts_mary_murphy_405m/"
+    :name: t3_22npax
+    :created: 1397122325.0
+    :url: http://www.reddit.com/r/HITsWorthTurkingFor/comments/22npax/us_read_and_rate_facebook_posts_mary_murphy_405m/
+    :author_flair_text: 
+    :title: US - Read and rate Facebook posts - Mary Murphy - $.40/5m (&gt;95%)
+    :created_utc: 1397093525.0
+    :ups: 2
+    :num_comments: 1
+    :visited: false
+    :num_reports: 
+    :distinguished: 
+    :kind: t3
+- !ruby/object:RedditKit::Link
+  attributes:
+    :domain: self.HITsWorthTurkingFor
+    :banned_by: 
+    :media_embed: {}
+    :subreddit: HITsWorthTurkingFor
+    :selftext_html: |-
+      &lt;!-- SC_OFF --&gt;&lt;div class="md"&gt;&lt;p&gt;Great TO, really easy&lt;/p&gt;
+
+      &lt;p&gt;&lt;a href="http://adf.ly/jIVow"&gt;http://adf.ly/jIVow&lt;/a&gt;&lt;/p&gt;
+      &lt;/div&gt;&lt;!-- SC_ON --&gt;
+    :selftext: |-
+      Great TO, really easy
+
+      http://adf.ly/jIVow
+    :likes: 
+    :secure_media: 
+    :link_flair_text: Dead
+    :id: 22noza
+    :gilded: 0
+    :secure_media_embed: {}
+    :clicked: false
+    :stickied: false
+    :author: LFryo
+    :media: 
+    :score: 5
+    :approved_by: 
+    :over_18: false
+    :hidden: false
+    :thumbnail: ''
+    :subreddit_id: t5_2tgoz
+    :edited: false
+    :link_flair_css_class: dead
+    :author_flair_css_class: star4
+    :downs: 1
+    :saved: false
+    :is_self: true
+    :permalink: "/r/HITsWorthTurkingFor/comments/22noza/us_find_the_vicepresidents_birthday_project_endor/"
+    :name: t3_22noza
+    :created: 1397122115.0
+    :url: http://www.reddit.com/r/HITsWorthTurkingFor/comments/22noza/us_find_the_vicepresidents_birthday_project_endor/
+    :author_flair_text: Top Contributor!
+    :title: US - Find the vice-president's birthday - Project Endor - .15/30sec -
+      &gt;90%,&gt;1hit
+    :created_utc: 1397093315.0
+    :ups: 6
+    :num_comments: 7
+    :visited: false
+    :num_reports: 
+    :distinguished: 
+    :kind: t3
+- !ruby/object:RedditKit::Link
+  attributes:
+    :domain: self.HITsWorthTurkingFor
+    :banned_by: 
+    :media_embed: {}
+    :subreddit: HITsWorthTurkingFor
+    :selftext_html: |-
+      &lt;!-- SC_OFF --&gt;&lt;div class="md"&gt;&lt;p&gt;&lt;a href="http://adf.ly/jIS4K"&gt;http://adf.ly/jIS4K&lt;/a&gt;&lt;/p&gt;
+
+      &lt;p&gt;AC MC&lt;/p&gt;
+
+      &lt;p&gt;bad comm otherwise good.&lt;/p&gt;
+      &lt;/div&gt;&lt;!-- SC_ON --&gt;
+    :selftext: |-
+      http://adf.ly/jIS4K
+
+      AC MC
+
+      bad comm otherwise good.
+    :likes: 
+    :secure_media: 
+    :link_flair_text: Dead
+    :id: 22nodc
+    :gilded: 0
+    :secure_media_embed: {}
+    :clicked: false
+    :stickied: false
+    :author: bmassa1
+    :media: 
+    :score: 4
+    :approved_by: 
+    :over_18: false
+    :hidden: false
+    :thumbnail: ''
+    :subreddit_id: t5_2tgoz
+    :edited: false
+    :link_flair_css_class: dead
+    :author_flair_css_class: 
+    :downs: 0
+    :saved: false
+    :is_self: true
+    :permalink: "/r/HITsWorthTurkingFor/comments/22nodc/us_questions_about_an_article_3_minutes_mpm/"
+    :name: t3_22nodc
+    :created: 1397121731.0
+    :url: http://www.reddit.com/r/HITsWorthTurkingFor/comments/22nodc/us_questions_about_an_article_3_minutes_mpm/
+    :author_flair_text: 
+    :title: US - Questions about an Article (~3 minutes) - MPM Laboratory - $0.15/1:30
+      - (Location is not IN - &gt;85%)
+    :created_utc: 1397092931.0
+    :ups: 4
+    :num_comments: 5
+    :visited: false
+    :num_reports: 
+    :distinguished: 
+    :kind: t3
+- !ruby/object:RedditKit::Link
+  attributes:
+    :domain: self.HITsWorthTurkingFor
+    :banned_by: 
+    :media_embed: {}
+    :subreddit: HITsWorthTurkingFor
+    :selftext_html: |-
+      &lt;!-- SC_OFF --&gt;&lt;div class="md"&gt;&lt;p&gt;&lt;a href="http://adf.ly/jIQsF"&gt;http://adf.ly/jIQsF&lt;/a&gt;&lt;/p&gt;
+
+      &lt;p&gt;Very easy. Very short writing.&lt;/p&gt;
+
+      &lt;p&gt;Good TO&lt;/p&gt;
+      &lt;/div&gt;&lt;!-- SC_ON --&gt;
+    :selftext: |-
+      http://adf.ly/jIQsF
+
+      Very easy. Very short writing.
+
+      Good TO
+    :likes: 
+    :secure_media: 
+    :link_flair_text: Dead
+    :id: 22nneg
+    :gilded: 0
+    :secure_media_embed: {}
+    :clicked: false
+    :stickied: false
+    :author: bmassa1
+    :media: 
+    :score: 3
+    :approved_by: 
+    :over_18: false
+    :hidden: false
+    :thumbnail: ''
+    :subreddit_id: t5_2tgoz
+    :edited: false
+    :link_flair_css_class: dead
+    :author_flair_css_class: 
+    :downs: 2
+    :saved: false
+    :is_self: true
+    :permalink: "/r/HITsWorthTurkingFor/comments/22nneg/us_consumer_perceptions_id_113_m_foster_01550/"
+    :name: t3_22nneg
+    :created: 1397121122.0
+    :url: http://www.reddit.com/r/HITsWorthTurkingFor/comments/22nneg/us_consumer_perceptions_id_113_m_foster_01550/
+    :author_flair_text: 
+    :title: 'US - Consumer perceptions (ID #113) - M. Foster - $0.15/50 secs - (&gt;95%)'
+    :created_utc: 1397092322.0
+    :ups: 5
+    :num_comments: 4
+    :visited: false
+    :num_reports: 
+    :distinguished: 
+    :kind: t3
+- !ruby/object:RedditKit::Link
+  attributes:
+    :domain: self.HITsWorthTurkingFor
+    :banned_by: 
+    :media_embed: {}
+    :subreddit: HITsWorthTurkingFor
+    :selftext_html: |-
+      &lt;!-- SC_OFF --&gt;&lt;div class="md"&gt;&lt;p&gt;Good TO. Real easy.&lt;/p&gt;
+
+      &lt;p&gt;&lt;a href="http://adf.ly/jIRRz"&gt;http://adf.ly/jIRRz&lt;/a&gt;&lt;/p&gt;
+      &lt;/div&gt;&lt;!-- SC_ON --&gt;
+    :selftext: |-
+      Good TO. Real easy.
+
+      http://adf.ly/jIRRz
+    :likes: 
+    :secure_media: 
+    :link_flair_text: 
+    :id: 22nn3o
+    :gilded: 0
+    :secure_media_embed: {}
+    :clicked: false
+    :stickied: false
+    :author: suuserx
+    :media: 
+    :score: 31
+    :approved_by: 
+    :over_18: false
+    :hidden: false
+    :thumbnail: ''
+    :subreddit_id: t5_2tgoz
+    :edited: false
+    :link_flair_css_class: 
+    :author_flair_css_class: 
+    :downs: 0
+    :saved: false
+    :is_self: true
+    :permalink: "/r/HITsWorthTurkingFor/comments/22nn3o/us_short_questionnaire_about_occupation_and/"
+    :name: t3_22nn3o
+    :created: 1397120935.0
+    :url: http://www.reddit.com/r/HITsWorthTurkingFor/comments/22nn3o/us_short_questionnaire_about_occupation_and/
+    :author_flair_text: 
+    :title: US - Short Questionnaire About Occupation and Education Level - Sumit
+      Basu - $0.05/15 sec - (&gt;80%)
+    :created_utc: 1397092135.0
+    :ups: 31
+    :num_comments: 3
+    :visited: false
+    :num_reports: 
+    :distinguished: 
+    :kind: t3
+- !ruby/object:RedditKit::Link
+  attributes:
+    :domain: self.HITsWorthTurkingFor
+    :banned_by: 
+    :media_embed: {}
+    :subreddit: HITsWorthTurkingFor
+    :selftext_html: |-
+      &lt;!-- SC_OFF --&gt;&lt;div class="md"&gt;&lt;p&gt;&lt;a href="http://adf.ly/jIPgf"&gt;http://adf.ly/jIPgf&lt;/a&gt;&lt;/p&gt;
+
+      &lt;p&gt;MC, took me 4 minutes on the dot. It may not be worth it if you&amp;#39;re a slow reader.&lt;/p&gt;
+      &lt;/div&gt;&lt;!-- SC_ON --&gt;
+    :selftext: |-
+      http://adf.ly/jIPgf
+
+      MC, took me 4 minutes on the dot. It may not be worth it if you're a slow reader.
+    :likes: 
+    :secure_media: 
+    :link_flair_text: Dead
+    :id: 22nmdz
+    :gilded: 0
+    :secure_media_embed: {}
+    :clicked: false
+    :stickied: false
+    :author: bmassa1
+    :media: 
+    :score: 5
+    :approved_by: 
+    :over_18: false
+    :hidden: false
+    :thumbnail: ''
+    :subreddit_id: t5_2tgoz
+    :edited: false
+    :link_flair_css_class: dead
+    :author_flair_css_class: 
+    :downs: 0
+    :saved: false
+    :is_self: true
+    :permalink: "/r/HITsWorthTurkingFor/comments/22nmdz/us_answer_a_survey_about_moral_responsibility_and/"
+    :name: t3_22nmdz
+    :created: 1397120501.0
+    :url: http://www.reddit.com/r/HITsWorthTurkingFor/comments/22nmdz/us_answer_a_survey_about_moral_responsibility_and/
+    :author_flair_text: 
+    :title: US - Answer a survey about moral responsibility and moral rights - Philip
+      A. Robbins - $0.40/4 mins - ( Total approved HITs is not less than 50 - &gt;95%)
+    :created_utc: 1397091701.0
+    :ups: 5
+    :num_comments: 4
+    :visited: false
+    :num_reports: 
+    :distinguished: 
+    :kind: t3
+- !ruby/object:RedditKit::Link
+  attributes:
+    :domain: self.HITsWorthTurkingFor
+    :banned_by: 
+    :media_embed: {}
+    :subreddit: HITsWorthTurkingFor
+    :selftext_html: |-
+      &lt;!-- SC_OFF --&gt;&lt;div class="md"&gt;&lt;p&gt;&lt;a href="http://adf.ly/jIP0A"&gt;http://adf.ly/jIP0A&lt;/a&gt; &lt;/p&gt;
+
+      &lt;p&gt;writing is involved&lt;/p&gt;
+      &lt;/div&gt;&lt;!-- SC_ON --&gt;
+    :selftext: "http://adf.ly/jIP0A \n\nwriting is involved"
+    :likes: 
+    :secure_media: 
+    :link_flair_text: Dead
+    :id: 22nmi0
+    :gilded: 0
+    :secure_media_embed: {}
+    :clicked: false
+    :stickied: false
+    :author: reydiant
+    :media: 
+    :score: 3
+    :approved_by: 
+    :over_18: false
+    :hidden: false
+    :thumbnail: ''
+    :subreddit_id: t5_2tgoz
+    :edited: false
+    :link_flair_css_class: dead
+    :author_flair_css_class: 
+    :downs: 0
+    :saved: false
+    :is_self: true
+    :permalink: "/r/HITsWorthTurkingFor/comments/22nmi0/us_social_cognition_research_social_cognition_lab/"
+    :name: t3_22nmi0
+    :created: 1397120568.0
+    :url: http://www.reddit.com/r/HITsWorthTurkingFor/comments/22nmi0/us_social_cognition_research_social_cognition_lab/
+    :author_flair_text: 
+    :title: US - Social Cognition Research - Social Cognition Lab - $.50/4m (&gt;95%)
+    :created_utc: 1397091768.0
+    :ups: 3
+    :num_comments: 6
+    :visited: false
+    :num_reports: 
+    :distinguished: 
+    :kind: t3
+- !ruby/object:RedditKit::Link
+  attributes:
+    :domain: self.HITsWorthTurkingFor
+    :banned_by: 
+    :media_embed: {}
+    :subreddit: HITsWorthTurkingFor
+    :selftext_html: |-
+      &lt;!-- SC_OFF --&gt;&lt;div class="md"&gt;&lt;p&gt;&lt;a href="http://adf.ly/jINJA"&gt;http://adf.ly/jINJA&lt;/a&gt;&lt;/p&gt;
+
+      &lt;p&gt;some writing&lt;/p&gt;
+      &lt;/div&gt;&lt;!-- SC_ON --&gt;
+    :selftext: |-
+      http://adf.ly/jINJA
+
+      some writing
+    :likes: 
+    :secure_media: 
+    :link_flair_text: Dead
+    :id: 22nljc
+    :gilded: 0
+    :secure_media_embed: {}
+    :clicked: false
+    :stickied: false
+    :author: reydiant
+    :media: 
+    :score: 1
+    :approved_by: 
+    :over_18: false
+    :hidden: false
+    :thumbnail: ''
+    :subreddit_id: t5_2tgoz
+    :edited: false
+    :link_flair_css_class: dead
+    :author_flair_css_class: 
+    :downs: 1
+    :saved: false
+    :is_self: true
+    :permalink: "/r/HITsWorthTurkingFor/comments/22nljc/us_10_minute_research_survey_brian_lucas_515m_96/"
+    :name: t3_22nljc
+    :created: 1397119940.0
+    :url: http://www.reddit.com/r/HITsWorthTurkingFor/comments/22nljc/us_10_minute_research_survey_brian_lucas_515m_96/
+    :author_flair_text: 
+    :title: US - 10 minute research survey - Brian Lucas - $.51/5m (&gt;96%)
+    :created_utc: 1397091140.0
+    :ups: 2
+    :num_comments: 2
+    :visited: false
+    :num_reports: 
+    :distinguished: 
+    :kind: t3
+- !ruby/object:RedditKit::Link
+  attributes:
+    :domain: self.HITsWorthTurkingFor
+    :banned_by: 
+    :media_embed: {}
+    :subreddit: HITsWorthTurkingFor
+    :selftext_html: |-
+      &lt;!-- SC_OFF --&gt;&lt;div class="md"&gt;&lt;p&gt;&lt;a href="http://adf.ly/jIMRI"&gt;http://adf.ly/jIMRI&lt;/a&gt;&lt;/p&gt;
+
+      &lt;p&gt;One very very simple question&lt;/p&gt;
+
+      &lt;p&gt;&lt;strong&gt;NO TO&lt;/strong&gt;&lt;/p&gt;
+      &lt;/div&gt;&lt;!-- SC_ON --&gt;
+    :selftext: |-
+      http://adf.ly/jIMRI
+
+      One very very simple question
+
+      **NO TO**
+    :likes: 
+    :secure_media: 
+    :link_flair_text: Dead
+    :id: 22nl3o
+    :gilded: 0
+    :secure_media_embed: {}
+    :clicked: false
+    :stickied: false
+    :author: bmassa1
+    :media: 
+    :score: 1
+    :approved_by: 
+    :over_18: false
+    :hidden: false
+    :thumbnail: ''
+    :subreddit_id: t5_2tgoz
+    :edited: false
+    :link_flair_css_class: dead
+    :author_flair_css_class: 
+    :downs: 1
+    :saved: false
+    :is_self: true
+    :permalink: "/r/HITsWorthTurkingFor/comments/22nl3o/ica_best_buy_walmart_and_sears_moving_into_online/"
+    :name: t3_22nl3o
+    :created: 1397119667.0
+    :url: http://www.reddit.com/r/HITsWorthTurkingFor/comments/22nl3o/ica_best_buy_walmart_and_sears_moving_into_online/
+    :author_flair_text: 
+    :title: ICA - Best Buy, Walmart, and Sears moving into online - Matuszczyk Tomasz
+      - $0.10/5 sec - (None)
+    :created_utc: 1397090867.0
+    :ups: 2
+    :num_comments: 2
+    :visited: false
+    :num_reports: 
+    :distinguished: 
+    :kind: t3
+- !ruby/object:RedditKit::Link
+  attributes:
+    :domain: self.HITsWorthTurkingFor
+    :banned_by: 
+    :media_embed: {}
+    :subreddit: HITsWorthTurkingFor
+    :selftext_html: |-
+      &lt;!-- SC_OFF --&gt;&lt;div class="md"&gt;&lt;p&gt;&lt;a href="http://adf.ly/jIIue"&gt;http://adf.ly/jIIue&lt;/a&gt;&lt;/p&gt;
+      &lt;/div&gt;&lt;!-- SC_ON --&gt;
+    :selftext: http://adf.ly/jIIue
+    :likes: 
+    :secure_media: 
+    :link_flair_text: Dead
+    :id: 22njo8
+    :gilded: 0
+    :secure_media_embed: {}
+    :clicked: false
+    :stickied: false
+    :author: reydiant
+    :media: 
+    :score: 4
+    :approved_by: 
+    :over_18: false
+    :hidden: false
+    :thumbnail: ''
+    :subreddit_id: t5_2tgoz
+    :edited: false
+    :link_flair_css_class: dead
+    :author_flair_css_class: 
+    :downs: 1
+    :saved: false
+    :is_self: true
+    :permalink: "/r/HITsWorthTurkingFor/comments/22njo8/us_very_short_3_minute_survey_elizabeth_keenan/"
+    :name: t3_22njo8
+    :created: 1397118734.0
+    :url: http://www.reddit.com/r/HITsWorthTurkingFor/comments/22njo8/us_very_short_3_minute_survey_elizabeth_keenan/
+    :author_flair_text: 
+    :title: US - Very short (3 minute) survey - elizabeth keenan - $.25/2.5m (&gt;97%)
+    :created_utc: 1397089934.0
+    :ups: 5
+    :num_comments: 3
+    :visited: false
+    :num_reports: 
+    :distinguished: 
+    :kind: t3
+- !ruby/object:RedditKit::Link
+  attributes:
+    :domain: self.HITsWorthTurkingFor
+    :banned_by: 
+    :media_embed: {}
+    :subreddit: HITsWorthTurkingFor
+    :selftext_html: |-
+      &lt;!-- SC_OFF --&gt;&lt;div class="md"&gt;&lt;p&gt;&lt;a href="http://adf.ly/jIIP6"&gt;http://adf.ly/jIIP6&lt;/a&gt;&lt;/p&gt;
+
+      &lt;p&gt;His HITs are back up ;)&lt;/p&gt;
+      &lt;/div&gt;&lt;!-- SC_ON --&gt;
+    :selftext: |-
+      http://adf.ly/jIIP6
+
+      His HITs are back up ;)
+    :likes: 
+    :secure_media: 
+    :link_flair_text: 
+    :id: 22njc0
+    :gilded: 0
+    :secure_media_embed: {}
+    :clicked: false
+    :stickied: false
+    :author: bmassa1
+    :media: 
+    :score: 13
+    :approved_by: 
+    :over_18: false
+    :hidden: false
+    :thumbnail: ''
+    :subreddit_id: t5_2tgoz
+    :edited: false
+    :link_flair_css_class: 
+    :author_flair_css_class: 
+    :downs: 1
+    :saved: false
+    :is_self: true
+    :permalink: "/r/HITsWorthTurkingFor/comments/22njc0/us_visit_a_website_and_provide_feedback_christian/"
+    :name: t3_22njc0
+    :created: 1397118523.0
+    :url: http://www.reddit.com/r/HITsWorthTurkingFor/comments/22njc0/us_visit_a_website_and_provide_feedback_christian/
+    :author_flair_text: 
+    :title: US - Visit a Website and Provide Feedback - Christian Lewis - $0.08/20
+      sec - (Total approved HITs is not less than 100 - &gt;90%)
+    :created_utc: 1397089723.0
+    :ups: 14
+    :num_comments: 4
+    :visited: false
+    :num_reports: 
+    :distinguished: 
+    :kind: t3
+- !ruby/object:RedditKit::Link
+  attributes:
+    :domain: self.HITsWorthTurkingFor
+    :banned_by: 
+    :media_embed: {}
+    :subreddit: HITsWorthTurkingFor
+    :selftext_html: |-
+      &lt;!-- SC_OFF --&gt;&lt;div class="md"&gt;&lt;p&gt;&lt;a href="http://adf.ly/jIGLX"&gt;http://adf.ly/jIGLX&lt;/a&gt;&lt;/p&gt;
+      &lt;/div&gt;&lt;!-- SC_ON --&gt;
+    :selftext: http://adf.ly/jIGLX
+    :likes: 
+    :secure_media: 
+    :link_flair_text: Dead
+    :id: 22nimx
+    :gilded: 0
+    :secure_media_embed: {}
+    :clicked: false
+    :stickied: false
+    :author: reydiant
+    :media: 
+    :score: 5
+    :approved_by: 
+    :over_18: false
+    :hidden: false
+    :thumbnail: ''
+    :subreddit_id: t5_2tgoz
+    :edited: false
+    :link_flair_css_class: dead
+    :author_flair_css_class: 
+    :downs: 0
+    :saved: false
+    :is_self: true
+    :permalink: "/r/HITsWorthTurkingFor/comments/22nimx/us_short_survey_about_science_and_politics_james/"
+    :name: t3_22nimx
+    :created: 1397118057.0
+    :url: http://www.reddit.com/r/HITsWorthTurkingFor/comments/22nimx/us_short_survey_about_science_and_politics_james/
+    :author_flair_text: 
+    :title: US - Short survey about Science and Politics - James Zink - $.75/6m (&gt;70%)
+    :created_utc: 1397089257.0
+    :ups: 5
+    :num_comments: 3
+    :visited: false
+    :num_reports: 
+    :distinguished: 
+    :kind: t3
+- !ruby/object:RedditKit::Link
+  attributes:
+    :domain: self.HITsWorthTurkingFor
+    :banned_by: 
+    :media_embed: {}
+    :subreddit: HITsWorthTurkingFor
+    :selftext_html: |-
+      &lt;!-- SC_OFF --&gt;&lt;div class="md"&gt;&lt;p&gt;&lt;a href="http://adf.ly/jID2F"&gt;http://adf.ly/jID2F&lt;/a&gt;&lt;/p&gt;
+
+      &lt;p&gt;Good TO, bad COMM&lt;/p&gt;
+
+      &lt;p&gt;Easy. Maybe more questions depending on answers.&lt;/p&gt;
+      &lt;/div&gt;&lt;!-- SC_ON --&gt;
+    :selftext: |-
+      http://adf.ly/jID2F
+
+      Good TO, bad COMM
+
+      Easy. Maybe more questions depending on answers.
+    :likes: 
+    :secure_media: 
+    :link_flair_text: Dead
+    :id: 22nhgo
+    :gilded: 0
+    :secure_media_embed: {}
+    :clicked: false
+    :stickied: false
+    :author: bmassa1
+    :media: 
+    :score: 26
+    :approved_by: 
+    :over_18: false
+    :hidden: false
+    :thumbnail: ''
+    :subreddit_id: t5_2tgoz
+    :edited: false
+    :link_flair_css_class: dead
+    :author_flair_css_class: 
+    :downs: 4
+    :saved: false
+    :is_self: true
+    :permalink: "/r/HITsWorthTurkingFor/comments/22nhgo/us_video_game_survey_jason_anderson_0252_mins_95/"
+    :name: t3_22nhgo
+    :created: 1397117300.0
+    :url: http://www.reddit.com/r/HITsWorthTurkingFor/comments/22nhgo/us_video_game_survey_jason_anderson_0252_mins_95/
+    :author_flair_text: 
+    :title: US - Video game survey - Jason Anderson - $0.25/2 mins - (&gt;95%)
+    :created_utc: 1397088500.0
+    :ups: 30
+    :num_comments: 9
+    :visited: false
+    :num_reports: 
+    :distinguished: 
+    :kind: t3
+- !ruby/object:RedditKit::Link
+  attributes:
+    :domain: self.HITsWorthTurkingFor
+    :banned_by: 
+    :media_embed: {}
+    :subreddit: HITsWorthTurkingFor
+    :selftext_html: |-
+      &lt;!-- SC_OFF --&gt;&lt;div class="md"&gt;&lt;p&gt;&lt;a href="http://adf.ly/jHahN"&gt;http://adf.ly/jHahN&lt;/a&gt;&lt;/p&gt;
+      &lt;/div&gt;&lt;!-- SC_ON --&gt;
+    :selftext: http://adf.ly/jHahN
+    :likes: 
+    :secure_media: 
+    :link_flair_text: 
+    :id: 22nhk6
+    :gilded: 0
+    :secure_media_embed: {}
+    :clicked: false
+    :stickied: false
+    :author: SM373
+    :media: 
+    :score: 8
+    :approved_by: 
+    :over_18: false
+    :hidden: false
+    :thumbnail: ''
+    :subreddit_id: t5_2tgoz
+    :edited: false
+    :link_flair_css_class: 
+    :author_flair_css_class: 
+    :downs: 0
+    :saved: false
+    :is_self: true
+    :permalink: "/r/HITsWorthTurkingFor/comments/22nhk6/us_opinion_survey_income_inequality_1006_mins_500/"
+    :name: t3_22nhk6
+    :created: 1397117373.0
+    :url: http://www.reddit.com/r/HITsWorthTurkingFor/comments/22nhk6/us_opinion_survey_income_inequality_1006_mins_500/
+    :author_flair_text: 
+    :title: US - Opinion Survey - Income Inequality - $1.00/6 mins - (&gt;500, &gt;95%)
+    :created_utc: 1397088573.0
+    :ups: 8
+    :num_comments: 2
+    :visited: false
+    :num_reports: 
+    :distinguished: 
+    :kind: t3
+- !ruby/object:RedditKit::Link
+  attributes:
+    :domain: self.HITsWorthTurkingFor
+    :banned_by: 
+    :media_embed: {}
+    :subreddit: HITsWorthTurkingFor
+    :selftext_html: |-
+      &lt;!-- SC_OFF --&gt;&lt;div class="md"&gt;&lt;p&gt;&lt;a href="http://adf.ly/jIEIb"&gt;http://adf.ly/jIEIb&lt;/a&gt;&lt;/p&gt;
+
+      &lt;p&gt;No TO&lt;/p&gt;
+      &lt;/div&gt;&lt;!-- SC_ON --&gt;
+    :selftext: |-
+      http://adf.ly/jIEIb
+
+      No TO
+    :likes: 
+    :secure_media: 
+    :link_flair_text: 
+    :id: 22nhmg
+    :gilded: 0
+    :secure_media_embed: {}
+    :clicked: false
+    :stickied: false
+    :author: rwebb507
+    :media: 
+    :score: 3
+    :approved_by: 
+    :over_18: false
+    :hidden: false
+    :thumbnail: ''
+    :subreddit_id: t5_2tgoz
+    :edited: false
+    :link_flair_css_class: 
+    :author_flair_css_class: coin
+    :downs: 0
+    :saved: false
+    :is_self: true
+    :permalink: "/r/HITsWorthTurkingFor/comments/22nhmg/ica_show_me_your_handspaper/"
+    :name: t3_22nhmg
+    :created: 1397117418.0
+    :url: http://www.reddit.com/r/HITsWorthTurkingFor/comments/22nhmg/ica_show_me_your_handspaper/
+    :author_flair_text: Pool Contributor!
+    :title: ICA Show me your hands!-paper vest-$0.35/3min(&gt;96%)(&gt;1000HITS)(upload
+      photo of your hand)
+    :created_utc: 1397088618.0
+    :ups: 3
+    :num_comments: 2
+    :visited: false
+    :num_reports: 
+    :distinguished: 
+    :kind: t3
+- !ruby/object:RedditKit::Link
+  attributes:
+    :domain: self.HITsWorthTurkingFor
+    :banned_by: 
+    :media_embed: {}
+    :subreddit: HITsWorthTurkingFor
+    :selftext_html: |-
+      &lt;!-- SC_OFF --&gt;&lt;div class="md"&gt;&lt;p&gt;&lt;a href="http://adf.ly/jIBGi"&gt;http://adf.ly/jIBGi&lt;/a&gt;&lt;/p&gt;
+
+      &lt;p&gt;Remember they number they tell you to enter before the end of the survey.&lt;/p&gt;
+
+      &lt;p&gt;Easy&lt;/p&gt;
+
+      &lt;p&gt;Two reviews, good.&lt;/p&gt;
+      &lt;/div&gt;&lt;!-- SC_ON --&gt;
+    :selftext: |-
+      http://adf.ly/jIBGi
+
+      Remember they number they tell you to enter before the end of the survey.
+
+      Easy
+
+      Two reviews, good.
+    :likes: 
+    :secure_media: 
+    :link_flair_text: 
+    :id: 22ngiw
+    :gilded: 0
+    :secure_media_embed: {}
+    :clicked: false
+    :stickied: false
+    :author: bmassa1
+    :media: 
+    :score: 9
+    :approved_by: 
+    :over_18: false
+    :hidden: false
+    :thumbnail: ''
+    :subreddit_id: t5_2tgoz
+    :edited: false
+    :link_flair_css_class: 
+    :author_flair_css_class: 
+    :downs: 0
+    :saved: false
+    :is_self: true
+    :permalink: "/r/HITsWorthTurkingFor/comments/22ngiw/us_brief_survey_regarding_shopping_for_clothes/"
+    :name: t3_22ngiw
+    :created: 1397116684.0
+    :url: http://www.reddit.com/r/HITsWorthTurkingFor/comments/22ngiw/us_brief_survey_regarding_shopping_for_clothes/
+    :author_flair_text: 
+    :title: US - Brief survey regarding shopping for clothes - Modern Savvy - $0.19/1:50
+      - (Total approved HITs is not less than 500 - &gt;97%)
+    :created_utc: 1397087884.0
+    :ups: 9
+    :num_comments: 3
+    :visited: false
+    :num_reports: 
+    :distinguished: 
+    :kind: t3
+- !ruby/object:RedditKit::Link
+  attributes:
+    :domain: self.HITsWorthTurkingFor
+    :banned_by: 
+    :media_embed: {}
+    :subreddit: HITsWorthTurkingFor
+    :selftext_html: |-
+      &lt;!-- SC_OFF --&gt;&lt;div class="md"&gt;&lt;p&gt;Quick and easy. Good TO.&lt;/p&gt;
+
+      &lt;p&gt;&lt;a href="http://adf.ly/jIBo0"&gt;http://adf.ly/jIBo0&lt;/a&gt;&lt;/p&gt;
+      &lt;/div&gt;&lt;!-- SC_ON --&gt;
+    :selftext: |-
+      Quick and easy. Good TO.
+
+      http://adf.ly/jIBo0
+    :likes: 
+    :secure_media: 
+    :link_flair_text: Dead
+    :id: 22ngcj
+    :gilded: 0
+    :secure_media_embed: {}
+    :clicked: false
+    :stickied: false
+    :author: suuserx
+    :media: 
+    :score: 7
+    :approved_by: 
+    :over_18: false
+    :hidden: false
+    :thumbnail: ''
+    :subreddit_id: t5_2tgoz
+    :edited: false
+    :link_flair_css_class: dead
+    :author_flair_css_class: 
+    :downs: 0
+    :saved: false
+    :is_self: true
+    :permalink: "/r/HITsWorthTurkingFor/comments/22ngcj/us_answer_a_6_question_survey_about_your_high/"
+    :name: t3_22ngcj
+    :created: 1397116562.0
+    :url: http://www.reddit.com/r/HITsWorthTurkingFor/comments/22ngcj/us_answer_a_6_question_survey_about_your_high/
+    :author_flair_text: 
+    :title: US - Answer a 6 question survey about your high school when you were a
+      student - IntentDetect - $0.10/1 min - (&gt;95%, &gt;1000)
+    :created_utc: 1397087762.0
+    :ups: 7
+    :num_comments: 4
+    :visited: false
+    :num_reports: 
+    :distinguished: 
+    :kind: t3
+- !ruby/object:RedditKit::Link
+  attributes:
+    :domain: self.HITsWorthTurkingFor
+    :banned_by: 
+    :media_embed: {}
+    :subreddit: HITsWorthTurkingFor
+    :selftext_html: |-
+      &lt;!-- SC_OFF --&gt;&lt;div class="md"&gt;&lt;p&gt;&lt;a href="http://adf.ly/jI9dY"&gt;http://adf.ly/jI9dY&lt;/a&gt;&lt;/p&gt;
+
+      &lt;p&gt;Easy&lt;/p&gt;
+
+      &lt;p&gt;One sentence of writing.&lt;/p&gt;
+      &lt;/div&gt;&lt;!-- SC_ON --&gt;
+    :selftext: |-
+      http://adf.ly/jI9dY
+
+      Easy
+
+      One sentence of writing.
+    :likes: 
+    :secure_media: 
+    :link_flair_text: Dead
+    :id: 22nfnt
+    :gilded: 0
+    :secure_media_embed: {}
+    :clicked: false
+    :stickied: false
+    :author: bmassa1
+    :media: 
+    :score: 5
+    :approved_by: 
+    :over_18: false
+    :hidden: false
+    :thumbnail: ''
+    :subreddit_id: t5_2tgoz
+    :edited: false
+    :link_flair_css_class: dead
+    :author_flair_css_class: 
+    :downs: 1
+    :saved: false
+    :is_self: true
+    :permalink: "/r/HITsWorthTurkingFor/comments/22nfnt/us_read_short_passages_and_answer_a_few_simple/"
+    :name: t3_22nfnt
+    :created: 1397116079.0
+    :url: http://www.reddit.com/r/HITsWorthTurkingFor/comments/22nfnt/us_read_short_passages_and_answer_a_few_simple/
+    :author_flair_text: 
+    :title: US - Read short passages and answer a few simple questions - Joshua Knobe
+      - $0.25/1:50 - (&gt;95%)
+    :created_utc: 1397087279.0
+    :ups: 6
+    :num_comments: 3
+    :visited: false
+    :num_reports: 
+    :distinguished: 
+    :kind: t3
+- !ruby/object:RedditKit::Link
+  attributes:
+    :domain: self.HITsWorthTurkingFor
+    :banned_by: 
+    :media_embed: {}
+    :subreddit: HITsWorthTurkingFor
+    :selftext_html: |-
+      &lt;!-- SC_OFF --&gt;&lt;div class="md"&gt;&lt;p&gt;Pretty straightforward. Good TO. Video is about 40 seconds. &lt;/p&gt;
+
+      &lt;p&gt;&lt;a href="http://adf.ly/jI9KU"&gt;http://adf.ly/jI9KU&lt;/a&gt;&lt;/p&gt;
+      &lt;/div&gt;&lt;!-- SC_ON --&gt;
+    :selftext: "Pretty straightforward. Good TO. Video is about 40 seconds. \n\nhttp://adf.ly/jI9KU"
+    :likes: 
+    :secure_media: 
+    :link_flair_text: Dead
+    :id: 22nf6s
+    :gilded: 0
+    :secure_media_embed: {}
+    :clicked: false
+    :stickied: false
+    :author: suuserx
+    :media: 
+    :score: 12
+    :approved_by: 
+    :over_18: false
+    :hidden: false
+    :thumbnail: ''
+    :subreddit_id: t5_2tgoz
+    :edited: false
+    :link_flair_css_class: dead
+    :author_flair_css_class: 
+    :downs: 0
+    :saved: false
+    :is_self: true
+    :permalink: "/r/HITsWorthTurkingFor/comments/22nf6s/ica_witnessing_a_mock_crime_warning_this_hit_may/"
+    :name: t3_22nf6s
+    :created: 1397115774.0
+    :url: http://www.reddit.com/r/HITsWorthTurkingFor/comments/22nf6s/ica_witnessing_a_mock_crime_warning_this_hit_may/
+    :author_flair_text: 
+    :title: 'ICA - Witnessing a Mock Crime. WARNING: This HIT may contain adult content
+      (a staged robbery). Worker discretion is advised. - Richard Guest - $0.40/3
+      min - (&gt;95%, &gt;1000, AC=1)'
+    :created_utc: 1397086974.0
+    :ups: 12
+    :num_comments: 7
+    :visited: false
+    :num_reports: 
+    :distinguished: 
+    :kind: t3
+- !ruby/object:RedditKit::Link
+  attributes:
+    :domain: self.HITsWorthTurkingFor
+    :banned_by: 
+    :media_embed: {}
+    :subreddit: HITsWorthTurkingFor
+    :selftext_html: |-
+      &lt;!-- SC_OFF --&gt;&lt;div class="md"&gt;&lt;p&gt;&lt;a href="http://adf.ly/jI8Rg"&gt;http://adf.ly/jI8Rg&lt;/a&gt;&lt;/p&gt;
+
+      &lt;p&gt;Easy&lt;/p&gt;
+      &lt;/div&gt;&lt;!-- SC_ON --&gt;
+    :selftext: |-
+      http://adf.ly/jI8Rg
+
+      Easy
+    :likes: 
+    :secure_media: 
+    :link_flair_text: Dead
+    :id: 22neqe
+    :gilded: 0
+    :secure_media_embed: {}
+    :clicked: false
+    :stickied: false
+    :author: bmassa1
+    :media: 
+    :score: 1
+    :approved_by: 
+    :over_18: false
+    :hidden: false
+    :thumbnail: ''
+    :subreddit_id: t5_2tgoz
+    :edited: false
+    :link_flair_css_class: dead
+    :author_flair_css_class: 
+    :downs: 1
+    :saved: false
+    :is_self: true
+    :permalink: "/r/HITsWorthTurkingFor/comments/22neqe/us_read_a_short_story_and_answer_a_single/"
+    :name: t3_22neqe
+    :created: 1397115477.0
+    :url: http://www.reddit.com/r/HITsWorthTurkingFor/comments/22neqe/us_read_a_short_story_and_answer_a_single/
+    :author_flair_text: 
+    :title: US - Read a short story and answer a single question about the story -
+      Joshua Knobe - $0.10/~ 1 min - (&gt;95%)
+    :created_utc: 1397086677.0
+    :ups: 2
+    :num_comments: 3
+    :visited: false
+    :num_reports: 
+    :distinguished: 
+    :kind: t3
+- !ruby/object:RedditKit::Link
+  attributes:
+    :domain: self.HITsWorthTurkingFor
+    :banned_by: 
+    :media_embed: {}
+    :subreddit: HITsWorthTurkingFor
+    :selftext_html: |-
+      &lt;!-- SC_OFF --&gt;&lt;div class="md"&gt;&lt;p&gt;&lt;a href="http://adf.ly/jI8Wm"&gt;http://adf.ly/jI8Wm&lt;/a&gt;&lt;/p&gt;
+
+      &lt;p&gt;New TO&lt;/p&gt;
+      &lt;/div&gt;&lt;!-- SC_ON --&gt;
+    :selftext: |-
+      http://adf.ly/jI8Wm
+
+      New TO
+    :likes: 
+    :secure_media: 
+    :link_flair_text: Dead
+    :id: 22nesr
+    :gilded: 0
+    :secure_media_embed: {}
+    :clicked: false
+    :stickied: false
+    :author: dovaidu
+    :media: 
+    :score: 10
+    :approved_by: 
+    :over_18: false
+    :hidden: false
+    :thumbnail: ''
+    :subreddit_id: t5_2tgoz
+    :edited: false
+    :link_flair_css_class: dead
+    :author_flair_css_class: 
+    :downs: 2
+    :saved: false
+    :is_self: true
+    :permalink: "/r/HITsWorthTurkingFor/comments/22nesr/us_5question_survey_for_015_qualify_for_135_bonus/"
+    :name: t3_22nesr
+    :created: 1397115519.0
+    :url: http://www.reddit.com/r/HITsWorthTurkingFor/comments/22nesr/us_5question_survey_for_015_qualify_for_135_bonus/
+    :author_flair_text: 
+    :title: US - 5-question survey for $0.15. Qualify for $1.35 bonus survey. (Up
+      to $1.50 total) - El Labs - 15c/&lt;1 (bonus survey takes 8-10 minutes) (&gt;95%)
+    :created_utc: 1397086719.0
+    :ups: 12
+    :num_comments: 8
+    :visited: false
+    :num_reports: 
+    :distinguished: 
+    :kind: t3
+- !ruby/object:RedditKit::Link
+  attributes:
+    :domain: self.HITsWorthTurkingFor
+    :banned_by: 
+    :media_embed: {}
+    :subreddit: HITsWorthTurkingFor
+    :selftext_html: |-
+      &lt;!-- SC_OFF --&gt;&lt;div class="md"&gt;&lt;p&gt;&lt;a href="http://adf.ly/jI5Sq"&gt;http://adf.ly/jI5Sq&lt;/a&gt;&lt;/p&gt;
+
+      &lt;p&gt;AC&lt;/p&gt;
+      &lt;/div&gt;&lt;!-- SC_ON --&gt;
+    :selftext: |-
+      http://adf.ly/jI5Sq
+
+      AC
+    :likes: 
+    :secure_media: 
+    :link_flair_text: Dead
+    :id: 22ndhz
+    :gilded: 0
+    :secure_media_embed: {}
+    :clicked: false
+    :stickied: false
+    :author: rwebb507
+    :media: 
+    :score: 0
+    :approved_by: 
+    :over_18: false
+    :hidden: false
+    :thumbnail: ''
+    :subreddit_id: t5_2tgoz
+    :edited: false
+    :link_flair_css_class: dead
+    :author_flair_css_class: coin
+    :downs: 1
+    :saved: false
+    :is_self: true
+    :permalink: "/r/HITsWorthTurkingFor/comments/22ndhz/us_4_minutes_survey_about_consumer/"
+    :name: t3_22ndhz
+    :created: 1397114681.0
+    :url: http://www.reddit.com/r/HITsWorthTurkingFor/comments/22ndhz/us_4_minutes_survey_about_consumer/
+    :author_flair_text: Pool Contributor!
+    :title: US 4 minutes survey about Consumer Purchases-georgetownmsbresearch-$0.30/3min
+      (&gt;90%)
+    :created_utc: 1397085881.0
+    :ups: 1
+    :num_comments: 2
+    :visited: false
+    :num_reports: 
+    :distinguished: 
+    :kind: t3
+- !ruby/object:RedditKit::Link
+  attributes:
+    :domain: self.HITsWorthTurkingFor
+    :banned_by: 
+    :media_embed: {}
+    :subreddit: HITsWorthTurkingFor
+    :selftext_html: |-
+      &lt;!-- SC_OFF --&gt;&lt;div class="md"&gt;&lt;p&gt;&lt;a href="http://adf.ly/jI3ah"&gt;http://adf.ly/jI3ah&lt;/a&gt;&lt;/p&gt;
+      &lt;/div&gt;&lt;!-- SC_ON --&gt;
+    :selftext: http://adf.ly/jI3ah
+    :likes: 
+    :secure_media: 
+    :link_flair_text: 
+    :id: 22ncsa
+    :gilded: 0
+    :secure_media_embed: {}
+    :clicked: false
+    :stickied: false
+    :author: dovaidu
+    :media: 
+    :score: 6
+    :approved_by: 
+    :over_18: false
+    :hidden: false
+    :thumbnail: ''
+    :subreddit_id: t5_2tgoz
+    :edited: false
+    :link_flair_css_class: 
+    :author_flair_css_class: 
+    :downs: 1
+    :saved: false
+    :is_self: true
+    :permalink: "/r/HITsWorthTurkingFor/comments/22ncsa/us_which_home_would_you_pick_ozgun_atasoy_30c2/"
+    :name: t3_22ncsa
+    :created: 1397114213.0
+    :url: http://www.reddit.com/r/HITsWorthTurkingFor/comments/22ncsa/us_which_home_would_you_pick_ozgun_atasoy_30c2/
+    :author_flair_text: 
+    :title: US - Which home would you pick? - Ozgun Atasoy - 30c/&lt;2 minutes
+    :created_utc: 1397085413.0
+    :ups: 7
+    :num_comments: 2
+    :visited: false
+    :num_reports: 
+    :distinguished: 
+    :kind: t3
+- !ruby/object:RedditKit::Link
+  attributes:
+    :domain: self.HITsWorthTurkingFor
+    :banned_by: 
+    :media_embed: {}
+    :subreddit: HITsWorthTurkingFor
+    :selftext_html: |-
+      &lt;!-- SC_OFF --&gt;&lt;div class="md"&gt;&lt;p&gt;&lt;a href="http://adf.ly/jI32a"&gt;http://adf.ly/jI32a&lt;/a&gt;&lt;/p&gt;
+      &lt;/div&gt;&lt;!-- SC_ON --&gt;
+    :selftext: http://adf.ly/jI32a
+    :likes: 
+    :secure_media: 
+    :link_flair_text: Dead
+    :id: 22nchb
+    :gilded: 0
+    :secure_media_embed: {}
+    :clicked: false
+    :stickied: false
+    :author: rwebb507
+    :media: 
+    :score: 2
+    :approved_by: 
+    :over_18: false
+    :hidden: false
+    :thumbnail: ''
+    :subreddit_id: t5_2tgoz
+    :edited: false
+    :link_flair_css_class: dead
+    :author_flair_css_class: coin
+    :downs: 1
+    :saved: false
+    :is_self: true
+    :permalink: "/r/HITsWorthTurkingFor/comments/22nchb/us_making_hypothetical_decisionssimone/"
+    :name: t3_22nchb
+    :created: 1397114025.0
+    :url: http://www.reddit.com/r/HITsWorthTurkingFor/comments/22nchb/us_making_hypothetical_decisionssimone/
+    :author_flair_text: Pool Contributor!
+    :title: US Making hypothetical decisions-Simone Tang-$0.50/2min (&gt;95%)
+    :created_utc: 1397085225.0
+    :ups: 3
+    :num_comments: 5
+    :visited: false
+    :num_reports: 
+    :distinguished: 
+    :kind: t3
+- !ruby/object:RedditKit::Link
+  attributes:
+    :domain: self.HITsWorthTurkingFor
+    :banned_by: 
+    :media_embed: {}
+    :subreddit: HITsWorthTurkingFor
+    :selftext_html: |-
+      &lt;!-- SC_OFF --&gt;&lt;div class="md"&gt;&lt;p&gt;&lt;a href="http://adf.ly/jI1mE"&gt;http://adf.ly/jI1mE&lt;/a&gt;&lt;/p&gt;
+
+      &lt;p&gt;Two hits listed under this one link, total of 55c for 3 minutes or so of work&lt;/p&gt;
+      &lt;/div&gt;&lt;!-- SC_ON --&gt;
+    :selftext: |-
+      http://adf.ly/jI1mE
+
+      Two hits listed under this one link, total of 55c for 3 minutes or so of work
+    :likes: 
+    :secure_media: 
+    :link_flair_text: Dead
+    :id: 22nbzo
+    :gilded: 0
+    :secure_media_embed: {}
+    :clicked: false
+    :stickied: false
+    :author: dovaidu
+    :media: 
+    :score: 11
+    :approved_by: 
+    :over_18: false
+    :hidden: false
+    :thumbnail: ''
+    :subreddit_id: t5_2tgoz
+    :edited: false
+    :link_flair_css_class: dead
+    :author_flair_css_class: 
+    :downs: 1
+    :saved: false
+    :is_self: true
+    :permalink: "/r/HITsWorthTurkingFor/comments/22nbzo/us_rate_a_retailer_brand_survey_giver_20c1_minute/"
+    :name: t3_22nbzo
+    :created: 1397113717.0
+    :url: http://www.reddit.com/r/HITsWorthTurkingFor/comments/22nbzo/us_rate_a_retailer_brand_survey_giver_20c1_minute/
+    :author_flair_text: 
+    :title: US - Rate a retailer brand - Survey Giver - 20c/&lt;1 minute (&gt;100,
+      &gt;95%)
+    :created_utc: 1397084917.0
+    :ups: 12
+    :num_comments: 7
+    :visited: false
+    :num_reports: 
+    :distinguished: 
+    :kind: t3
+- !ruby/object:RedditKit::Link
+  attributes:
+    :domain: self.HITsWorthTurkingFor
+    :banned_by: 
+    :media_embed: {}
+    :subreddit: HITsWorthTurkingFor
+    :selftext_html: |-
+      &lt;!-- SC_OFF --&gt;&lt;div class="md"&gt;&lt;p&gt;&lt;a href="http://adf.ly/jI0SW"&gt;http://adf.ly/jI0SW&lt;/a&gt;&lt;/p&gt;
+      &lt;/div&gt;&lt;!-- SC_ON --&gt;
+    :selftext: http://adf.ly/jI0SW
+    :likes: 
+    :secure_media: 
+    :link_flair_text: 
+    :id: 22nb37
+    :gilded: 0
+    :secure_media_embed: {}
+    :clicked: false
+    :stickied: false
+    :author: Derek573
+    :media: 
+    :score: 9
+    :approved_by: 
+    :over_18: false
+    :hidden: false
+    :thumbnail: ''
+    :subreddit_id: t5_2tgoz
+    :edited: false
+    :link_flair_css_class: 
+    :author_flair_css_class: 
+    :downs: 2
+    :saved: false
+    :is_self: true
+    :permalink: "/r/HITsWorthTurkingFor/comments/22nb37/us_choose_the_best_emotion_for_this_expression/"
+    :name: t3_22nb37
+    :created: 1397113163.0
+    :url: http://www.reddit.com/r/HITsWorthTurkingFor/comments/22nb37/us_choose_the_best_emotion_for_this_expression/
+    :author_flair_text: 
+    :title: 'US - Choose the best emotion for this expression... ::::Please wait two
+      hours between HITs:::: - Jennifer Snow - $0.05/&lt;.5 Mins - None'
+    :created_utc: 1397084363.0
+    :ups: 11
+    :num_comments: 8
+    :visited: false
+    :num_reports: 
+    :distinguished: 
+    :kind: t3
+- !ruby/object:RedditKit::Link
+  attributes:
+    :domain: self.HITsWorthTurkingFor
+    :banned_by: 
+    :media_embed: {}
+    :subreddit: HITsWorthTurkingFor
+    :selftext_html: |-
+      &lt;!-- SC_OFF --&gt;&lt;div class="md"&gt;&lt;p&gt;&lt;a href="http://adf.ly/jHznm"&gt;http://adf.ly/jHznm&lt;/a&gt;&lt;/p&gt;
+
+      &lt;p&gt;Some writing, but open ended.&lt;/p&gt;
+
+      &lt;p&gt;Good TO&lt;/p&gt;
+      &lt;/div&gt;&lt;!-- SC_ON --&gt;
+    :selftext: |-
+      http://adf.ly/jHznm
+
+      Some writing, but open ended.
+
+      Good TO
+    :likes: 
+    :secure_media: 
+    :link_flair_text: Dead
+    :id: 22nat5
+    :gilded: 0
+    :secure_media_embed: {}
+    :clicked: false
+    :stickied: false
+    :author: bmassa1
+    :media: 
+    :score: 6
+    :approved_by: 
+    :over_18: false
+    :hidden: false
+    :thumbnail: ''
+    :subreddit_id: t5_2tgoz
+    :edited: false
+    :link_flair_css_class: dead
+    :author_flair_css_class: 
+    :downs: 1
+    :saved: false
+    :is_self: true
+    :permalink: "/r/HITsWorthTurkingFor/comments/22nat5/us_answer_questions_about_friends_family_and/"
+    :name: t3_22nat5
+    :created: 1397112974.0
+    :url: http://www.reddit.com/r/HITsWorthTurkingFor/comments/22nat5/us_answer_questions_about_friends_family_and/
+    :author_flair_text: 
+    :title: US - Answer questions about friends, family and behavior change - Columbia
+      University Research - $0.50/3:20 - (Total approved HITs is not less than 500
+      - &gt;95%)
+    :created_utc: 1397084174.0
+    :ups: 7
+    :num_comments: 2
+    :visited: false
+    :num_reports: 
+    :distinguished: 
+    :kind: t3
+- !ruby/object:RedditKit::Link
+  attributes:
+    :domain: self.HITsWorthTurkingFor
+    :banned_by: 
+    :media_embed: {}
+    :subreddit: HITsWorthTurkingFor
+    :selftext_html: |-
+      &lt;!-- SC_OFF --&gt;&lt;div class="md"&gt;&lt;p&gt;A little repetitive and boring. Good TO. ACs.&lt;/p&gt;
+
+      &lt;p&gt;&lt;a href="http://adf.ly/jHy84"&gt;http://adf.ly/jHy84&lt;/a&gt;&lt;/p&gt;
+      &lt;/div&gt;&lt;!-- SC_ON --&gt;
+    :selftext: |-
+      A little repetitive and boring. Good TO. ACs.
+
+      http://adf.ly/jHy84
+    :likes: 
+    :secure_media: 
+    :link_flair_text: Dead
+    :id: 22na28
+    :gilded: 0
+    :secure_media_embed: {}
+    :clicked: false
+    :stickied: false
+    :author: suuserx
+    :media: 
+    :score: 1
+    :approved_by: 
+    :over_18: false
+    :hidden: false
+    :thumbnail: ''
+    :subreddit_id: t5_2tgoz
+    :edited: false
+    :link_flair_css_class: dead
+    :author_flair_css_class: 
+    :downs: 1
+    :saved: false
+    :is_self: true
+    :permalink: "/r/HITsWorthTurkingFor/comments/22na28/us_answer_a_survey_about_your_opinions_and/"
+    :name: t3_22na28
+    :created: 1397112452.0
+    :url: http://www.reddit.com/r/HITsWorthTurkingFor/comments/22na28/us_answer_a_survey_about_your_opinions_and/
+    :author_flair_text: 
+    :title: US - Answer a survey about your opinions and feelings - Meredith David
+      - $1.00/8 min - (&gt;93%)
+    :created_utc: 1397083652.0
+    :ups: 2
+    :num_comments: 10
+    :visited: false
+    :num_reports: 
+    :distinguished: 
+    :kind: t3
+- !ruby/object:RedditKit::Link
+  attributes:
+    :domain: self.HITsWorthTurkingFor
+    :banned_by: 
+    :media_embed: {}
+    :subreddit: HITsWorthTurkingFor
+    :selftext_html: |-
+      &lt;!-- SC_OFF --&gt;&lt;div class="md"&gt;&lt;p&gt;&lt;a href="http://adf.ly/jHyij"&gt;http://adf.ly/jHyij&lt;/a&gt;&lt;/p&gt;
+
+      &lt;p&gt;AC&amp;#39;s&lt;/p&gt;
+      &lt;/div&gt;&lt;!-- SC_ON --&gt;
+    :selftext: |-
+      http://adf.ly/jHyij
+
+      AC's
+    :likes: 
+    :secure_media: 
+    :link_flair_text: Dead
+    :id: 22nac8
+    :gilded: 0
+    :secure_media_embed: {}
+    :clicked: false
+    :stickied: false
+    :author: rwebb507
+    :media: 
+    :score: 2
+    :approved_by: 
+    :over_18: false
+    :hidden: false
+    :thumbnail: ''
+    :subreddit_id: t5_2tgoz
+    :edited: false
+    :link_flair_css_class: dead
+    :author_flair_css_class: coin
+    :downs: 1
+    :saved: false
+    :is_self: true
+    :permalink: "/r/HITsWorthTurkingFor/comments/22nac8/us_brief_perception_surveybella/"
+    :name: t3_22nac8
+    :created: 1397112654.0
+    :url: http://www.reddit.com/r/HITsWorthTurkingFor/comments/22nac8/us_brief_perception_surveybella/
+    :author_flair_text: Pool Contributor!
+    :title: US Brief perception survey.-Bella Rozenkrants-$0.70/&lt;3min (&gt;98%)(under
+      56 years old)
+    :created_utc: 1397083854.0
+    :ups: 3
+    :num_comments: 3
+    :visited: false
+    :num_reports: 
+    :distinguished: 
+    :kind: t3
+- !ruby/object:RedditKit::Link
+  attributes:
+    :domain: self.HITsWorthTurkingFor
+    :banned_by: 
+    :media_embed: {}
+    :subreddit: HITsWorthTurkingFor
+    :selftext_html: |-
+      &lt;!-- SC_OFF --&gt;&lt;div class="md"&gt;&lt;p&gt;&lt;a href="http://adf.ly/jHx95"&gt;http://adf.ly/jHx95&lt;/a&gt;&lt;/p&gt;
+      &lt;/div&gt;&lt;!-- SC_ON --&gt;
+    :selftext: http://adf.ly/jHx95
+    :likes: 
+    :secure_media: 
+    :link_flair_text: Dead
+    :id: 22n9kf
+    :gilded: 0
+    :secure_media_embed: {}
+    :clicked: false
+    :stickied: false
+    :author: rwebb507
+    :media: 
+    :score: 17
+    :approved_by: 
+    :over_18: false
+    :hidden: false
+    :thumbnail: ''
+    :subreddit_id: t5_2tgoz
+    :edited: false
+    :link_flair_css_class: dead
+    :author_flair_css_class: coin
+    :downs: 1
+    :saved: false
+    :is_self: true
+    :permalink: "/r/HITsWorthTurkingFor/comments/22n9kf/us_take_survey_earn_75_cents_easypssurveys0755min/"
+    :name: t3_22n9kf
+    :created: 1397112126.0
+    :url: http://www.reddit.com/r/HITsWorthTurkingFor/comments/22n9kf/us_take_survey_earn_75_cents_easypssurveys0755min/
+    :author_flair_text: Pool Contributor!
+    :title: US Take Survey -- Earn 75 Cents. Easy!-pssurveys-$0.75/&lt;5min (&gt;95%)
+    :created_utc: 1397083326.0
+    :ups: 18
+    :num_comments: 7
+    :visited: false
+    :num_reports: 
+    :distinguished: 
+    :kind: t3
+- !ruby/object:RedditKit::Link
+  attributes:
+    :domain: self.HITsWorthTurkingFor
+    :banned_by: 
+    :media_embed: {}
+    :subreddit: HITsWorthTurkingFor
+    :selftext_html: |-
+      &lt;!-- SC_OFF --&gt;&lt;div class="md"&gt;&lt;p&gt;&lt;a href="https://www.mturk.com/mturk/searchbar?selectedSearchType=hitgroups&amp;amp;searchWords=pssurveys&amp;amp;minReward=0.00&amp;amp;x=0&amp;amp;y=0"&gt;https://www.mturk.com/mturk/searchbar?selectedSearchType=hitgroups&amp;amp;searchWords=pssurveys&amp;amp;minReward=0.00&amp;amp;x=0&amp;amp;y=0&lt;/a&gt;&lt;/p&gt;
+
+      &lt;p&gt;Good TO, Quite a bit of reading, no writing, not too many bubbles&lt;/p&gt;
+      &lt;/div&gt;&lt;!-- SC_ON --&gt;
+    :selftext: |-
+      https://www.mturk.com/mturk/searchbar?selectedSearchType=hitgroups&amp;searchWords=pssurveys&amp;minReward=0.00&amp;x=0&amp;y=0
+
+      Good TO, Quite a bit of reading, no writing, not too many bubbles
+    :likes: 
+    :secure_media: 
+    :link_flair_text: Dead
+    :id: 22n9xa
+    :gilded: 0
+    :secure_media_embed: {}
+    :clicked: false
+    :stickied: false
+    :author: srobert316
+    :media: 
+    :score: 29
+    :approved_by: 
+    :over_18: false
+    :hidden: false
+    :thumbnail: ''
+    :subreddit_id: t5_2tgoz
+    :edited: false
+    :link_flair_css_class: dead
+    :author_flair_css_class: 
+    :downs: 2
+    :saved: false
+    :is_self: true
+    :permalink: "/r/HITsWorthTurkingFor/comments/22n9xa/us_take_survey_earn_75_cents_easy_pssurveys_756/"
+    :name: t3_22n9xa
+    :created: 1397112354.0
+    :url: http://www.reddit.com/r/HITsWorthTurkingFor/comments/22n9xa/us_take_survey_earn_75_cents_easy_pssurveys_756/
+    :author_flair_text: 
+    :title: US - Take Survey -- Earn 75 Cents. Easy! - pssurveys - $.75/6 - (not &lt;95%)
+    :created_utc: 1397083554.0
+    :ups: 31
+    :num_comments: 10
+    :visited: false
+    :num_reports: 
+    :distinguished: 
+    :kind: t3
+- !ruby/object:RedditKit::Link
+  attributes:
+    :domain: self.HITsWorthTurkingFor
+    :banned_by: 
+    :media_embed: {}
+    :subreddit: HITsWorthTurkingFor
+    :selftext_html: |-
+      &lt;!-- SC_OFF --&gt;&lt;div class="md"&gt;&lt;p&gt;&lt;a href="http://adf.ly/jHqfy"&gt;http://adf.ly/jHqfy&lt;/a&gt;&lt;/p&gt;
+      &lt;/div&gt;&lt;!-- SC_ON --&gt;
+    :selftext: http://adf.ly/jHqfy
+    :likes: 
+    :secure_media: 
+    :link_flair_text: Dead
+    :id: 22n69o
+    :gilded: 0
+    :secure_media_embed: {}
+    :clicked: false
+    :stickied: false
+    :author: Derek573
+    :media: 
+    :score: 4
+    :approved_by: 
+    :over_18: false
+    :hidden: false
+    :thumbnail: ''
+    :subreddit_id: t5_2tgoz
+    :edited: false
+    :link_flair_css_class: dead
+    :author_flair_css_class: 
+    :downs: 1
+    :saved: false
+    :is_self: true
+    :permalink: "/r/HITsWorthTurkingFor/comments/22n69o/us_10_minute_survey_pbj_lab_0505_mins_100_95/"
+    :name: t3_22n69o
+    :created: 1397110036.0
+    :url: http://www.reddit.com/r/HITsWorthTurkingFor/comments/22n69o/us_10_minute_survey_pbj_lab_0505_mins_100_95/
+    :author_flair_text: 
+    :title: US - 10 Minute Survey - PBJ Lab - $0.50/5 Mins - ( &gt;100, &gt;95%)
+    :created_utc: 1397081236.0
+    :ups: 5
+    :num_comments: 4
+    :visited: false
+    :num_reports: 
+    :distinguished: 
+    :kind: t3
+- !ruby/object:RedditKit::Link
+  attributes:
+    :domain: self.HITsWorthTurkingFor
+    :banned_by: 
+    :media_embed: {}
+    :subreddit: HITsWorthTurkingFor
+    :selftext_html: |-
+      &lt;!-- SC_OFF --&gt;&lt;div class="md"&gt;&lt;p&gt;Good TO. Quick and easy.&lt;/p&gt;
+
+      &lt;p&gt;&lt;a href="http://adf.ly/jHpga"&gt;http://adf.ly/jHpga&lt;/a&gt;&lt;/p&gt;
+      &lt;/div&gt;&lt;!-- SC_ON --&gt;
+    :selftext: |-
+      Good TO. Quick and easy.
+
+      http://adf.ly/jHpga
+    :likes: 
+    :secure_media: 
+    :link_flair_text: Dead
+    :id: 22n5ny
+    :gilded: 0
+    :secure_media_embed: {}
+    :clicked: false
+    :stickied: false
+    :author: suuserx
+    :media: 
+    :score: 3
+    :approved_by: 
+    :over_18: false
+    :hidden: false
+    :thumbnail: ''
+    :subreddit_id: t5_2tgoz
+    :edited: false
+    :link_flair_css_class: dead
+    :author_flair_css_class: 
+    :downs: 1
+    :saved: false
+    :is_self: true
+    :permalink: "/r/HITsWorthTurkingFor/comments/22n5ny/us_easy_10second_task_test_picture_for_kids_game/"
+    :name: t3_22n5ny
+    :created: 1397109670.0
+    :url: http://www.reddit.com/r/HITsWorthTurkingFor/comments/22n5ny/us_easy_10second_task_test_picture_for_kids_game/
+    :author_flair_text: 
+    :title: 'US - Easy 10-second task: Test picture for kids game - Robin Melnick
+      - $0.11/30 sec - (&gt;95%)'
+    :created_utc: 1397080870.0
+    :ups: 4
+    :num_comments: 2
+    :visited: false
+    :num_reports: 
+    :distinguished: 
+    :kind: t3
+- !ruby/object:RedditKit::Link
+  attributes:
+    :domain: self.HITsWorthTurkingFor
+    :banned_by: 
+    :media_embed: {}
+    :subreddit: HITsWorthTurkingFor
+    :selftext_html: |-
+      &lt;!-- SC_OFF --&gt;&lt;div class="md"&gt;&lt;p&gt;&lt;a href="http://adf.ly/jHnGs"&gt;http://adf.ly/jHnGs&lt;/a&gt;&lt;/p&gt;
+
+      &lt;p&gt;Can only do one &lt;/p&gt;
+      &lt;/div&gt;&lt;!-- SC_ON --&gt;
+    :selftext: "http://adf.ly/jHnGs\n\nCan only do one "
+    :likes: 
+    :secure_media: 
+    :link_flair_text: Dead
+    :id: 22n46w
+    :gilded: 0
+    :secure_media_embed: {}
+    :clicked: false
+    :stickied: false
+    :author: Derek573
+    :media: 
+    :score: 2
+    :approved_by: 
+    :over_18: false
+    :hidden: false
+    :thumbnail: ''
+    :subreddit_id: t5_2tgoz
+    :edited: false
+    :link_flair_css_class: dead
+    :author_flair_css_class: 
+    :downs: 0
+    :saved: false
+    :is_self: true
+    :permalink: "/r/HITsWorthTurkingFor/comments/22n46w/us_identifying_parts_of_scientific_inquiry_kyle_r/"
+    :name: t3_22n46w
+    :created: 1397108768.0
+    :url: http://www.reddit.com/r/HITsWorthTurkingFor/comments/22n46w/us_identifying_parts_of_scientific_inquiry_kyle_r/
+    :author_flair_text: 
+    :title: US - Identifying parts of scientific inquiry. - Kyle R. Cheney - $0.20/~2
+      Mins - (&gt;80%)
+    :created_utc: 1397079968.0
+    :ups: 2
+    :num_comments: 3
+    :visited: false
+    :num_reports: 
+    :distinguished: 
+    :kind: t3
+- !ruby/object:RedditKit::Link
+  attributes:
+    :domain: self.HITsWorthTurkingFor
+    :banned_by: 
+    :media_embed: {}
+    :subreddit: HITsWorthTurkingFor
+    :selftext_html: |-
+      &lt;!-- SC_OFF --&gt;&lt;div class="md"&gt;&lt;p&gt;&lt;a href="http://adf.ly/jHlDj"&gt;http://adf.ly/jHlDj&lt;/a&gt;&lt;/p&gt;
+
+      &lt;p&gt;Havent seen these much for a while &lt;/p&gt;
+      &lt;/div&gt;&lt;!-- SC_ON --&gt;
+    :selftext: "http://adf.ly/jHlDj\n\nHavent seen these much for a while "
+    :likes: 
+    :secure_media: 
+    :link_flair_text: 
+    :id: 22n364
+    :gilded: 0
+    :secure_media_embed: {}
+    :clicked: false
+    :stickied: false
+    :author: Derek573
+    :media: 
+    :score: 6
+    :approved_by: 
+    :over_18: false
+    :hidden: false
+    :thumbnail: ''
+    :subreddit_id: t5_2tgoz
+    :edited: false
+    :link_flair_css_class: 
+    :author_flair_css_class: 
+    :downs: 0
+    :saved: false
+    :is_self: true
+    :permalink: "/r/HITsWorthTurkingFor/comments/22n364/us_research_project_on_negative_online/"
+    :name: t3_22n364
+    :created: 1397108129.0
+    :url: http://www.reddit.com/r/HITsWorthTurkingFor/comments/22n364/us_research_project_on_negative_online/
+    :author_flair_text: 
+    :title: US - Research project on negative online experiences - troo.ly - $1.50/&lt;5
+      Mins - &gt;90%
+    :created_utc: 1397079329.0
+    :ups: 6
+    :num_comments: 9
+    :visited: false
+    :num_reports: 
+    :distinguished: 
+    :kind: t3
+- !ruby/object:RedditKit::Link
+  attributes:
+    :domain: self.HITsWorthTurkingFor
+    :banned_by: 
+    :media_embed: {}
+    :subreddit: HITsWorthTurkingFor
+    :selftext_html: |-
+      &lt;!-- SC_OFF --&gt;&lt;div class="md"&gt;&lt;p&gt;No TO. A few ACs.&lt;/p&gt;
+
+      &lt;p&gt;&lt;a href="http://adf.ly/jHigl"&gt;http://adf.ly/jHigl&lt;/a&gt;&lt;/p&gt;
+      &lt;/div&gt;&lt;!-- SC_ON --&gt;
+    :selftext: |-
+      No TO. A few ACs.
+
+      http://adf.ly/jHigl
+    :likes: 
+    :secure_media: 
+    :link_flair_text: Dead
+    :id: 22n1q4
+    :gilded: 0
+    :secure_media_embed: {}
+    :clicked: false
+    :stickied: false
+    :author: suuserx
+    :media: 
+    :score: 1
+    :approved_by: 
+    :over_18: false
+    :hidden: false
+    :thumbnail: ''
+    :subreddit_id: t5_2tgoz
+    :edited: false
+    :link_flair_css_class: dead
+    :author_flair_css_class: 
+    :downs: 1
+    :saved: false
+    :is_self: true
+    :permalink: "/r/HITsWorthTurkingFor/comments/22n1q4/us_opinion_survey_easy_sarah_townsend_research/"
+    :name: t3_22n1q4
+    :created: 1397107285.0
+    :url: http://www.reddit.com/r/HITsWorthTurkingFor/comments/22n1q4/us_opinion_survey_easy_sarah_townsend_research/
+    :author_flair_text: 
+    :title: US - Opinion Survey (easy) - Sarah Townsend (research) - $0.70/5 min -
+      (&gt;95%, &gt;50)
+    :created_utc: 1397078485.0
+    :ups: 2
+    :num_comments: 3
+    :visited: false
+    :num_reports: 
+    :distinguished: 
+    :kind: t3
+- !ruby/object:RedditKit::Link
+  attributes:
+    :domain: self.HITsWorthTurkingFor
+    :banned_by: 
+    :media_embed: {}
+    :subreddit: HITsWorthTurkingFor
+    :selftext_html: |-
+      &lt;!-- SC_OFF --&gt;&lt;div class="md"&gt;&lt;p&gt;&lt;a href="http://adf.ly/jHiDo"&gt;http://adf.ly/jHiDo&lt;/a&gt;&lt;/p&gt;
+
+      &lt;p&gt;AC Fairly boring&lt;/p&gt;
+      &lt;/div&gt;&lt;!-- SC_ON --&gt;
+    :selftext: |-
+      http://adf.ly/jHiDo
+
+      AC Fairly boring
+    :likes: 
+    :secure_media: 
+    :link_flair_text: Dead
+    :id: 22n1h7
+    :gilded: 0
+    :secure_media_embed: {}
+    :clicked: false
+    :stickied: false
+    :author: Derek573
+    :media: 
+    :score: 4
+    :approved_by: 
+    :over_18: false
+    :hidden: false
+    :thumbnail: ''
+    :subreddit_id: t5_2tgoz
+    :edited: false
+    :link_flair_css_class: dead
+    :author_flair_css_class: 
+    :downs: 2
+    :saved: false
+    :is_self: true
+    :permalink: "/r/HITsWorthTurkingFor/comments/22n1h7/us_short_survey_about_science_and_politics_james/"
+    :name: t3_22n1h7
+    :created: 1397107140.0
+    :url: http://www.reddit.com/r/HITsWorthTurkingFor/comments/22n1h7/us_short_survey_about_science_and_politics_james/
+    :author_flair_text: 
+    :title: US - Short survey about Science and Politics - James Zink - $0.75/~7 Mins
+      - ( &gt;0, &gt;70%)
+    :created_utc: 1397078340.0
+    :ups: 6
+    :num_comments: 9
+    :visited: false
+    :num_reports: 
+    :distinguished: 
+    :kind: t3
+- !ruby/object:RedditKit::Link
+  attributes:
+    :domain: self.HITsWorthTurkingFor
+    :banned_by: 
+    :media_embed: {}
+    :subreddit: HITsWorthTurkingFor
+    :selftext_html: |-
+      &lt;!-- SC_OFF --&gt;&lt;div class="md"&gt;&lt;p&gt;&lt;a href="http://adf.ly/jHgO7"&gt;http://adf.ly/jHgO7&lt;/a&gt; &lt;/p&gt;
+      &lt;/div&gt;&lt;!-- SC_ON --&gt;
+    :selftext: 'http://adf.ly/jHgO7 '
+    :likes: 
+    :secure_media: 
+    :link_flair_text: Dead
+    :id: 22n0bk
+    :gilded: 0
+    :secure_media_embed: {}
+    :clicked: false
+    :stickied: false
+    :author: Derek573
+    :media: 
+    :score: 8
+    :approved_by: 
+    :over_18: false
+    :hidden: false
+    :thumbnail: ''
+    :subreddit_id: t5_2tgoz
+    :edited: false
+    :link_flair_css_class: dead
+    :author_flair_css_class: 
+    :downs: 1
+    :saved: false
+    :is_self: true
+    :permalink: "/r/HITsWorthTurkingFor/comments/22n0bk/us_deal_survey_mturk_research_0202_mins_97/"
+    :name: t3_22n0bk
+    :created: 1397106460.0
+    :url: http://www.reddit.com/r/HITsWorthTurkingFor/comments/22n0bk/us_deal_survey_mturk_research_0202_mins_97/
+    :author_flair_text: 
+    :title: US - Deal Survey - MTurk Research - $0.20/&lt;2 Mins - (&gt;97%)
+    :created_utc: 1397077660.0
+    :ups: 9
+    :num_comments: 6
+    :visited: false
+    :num_reports: 
+    :distinguished: 
+    :kind: t3
+- !ruby/object:RedditKit::Link
+  attributes:
+    :domain: self.HITsWorthTurkingFor
+    :banned_by: 
+    :media_embed: {}
+    :subreddit: HITsWorthTurkingFor
+    :selftext_html: |-
+      &lt;!-- SC_OFF --&gt;&lt;div class="md"&gt;&lt;p&gt;&lt;a href="http://adf.ly/j2GaQ"&gt;http://adf.ly/j2GaQ&lt;/a&gt;&lt;/p&gt;
+
+      &lt;p&gt;Gives you 2 search results and after 30 seconds you just click on the one that you like best. Enjoy :)&lt;/p&gt;
+      &lt;/div&gt;&lt;!-- SC_ON --&gt;
+    :selftext: |-
+      http://adf.ly/j2GaQ
+
+      Gives you 2 search results and after 30 seconds you just click on the one that you like best. Enjoy :)
+    :likes: 
+    :secure_media: 
+    :link_flair_text: Dead
+    :id: 22n0cr
+    :gilded: 0
+    :secure_media_embed: {}
+    :clicked: false
+    :stickied: false
+    :author: tylerbronson1216
+    :media: 
+    :score: 2
+    :approved_by: 
+    :over_18: false
+    :hidden: false
+    :thumbnail: ''
+    :subreddit_id: t5_2tgoz
+    :edited: false
+    :link_flair_css_class: dead
+    :author_flair_css_class: 
+    :downs: 1
+    :saved: false
+    :is_self: true
+    :permalink: "/r/HITsWorthTurkingFor/comments/22n0cr/usgooglecom_advertising_survey_for_pool_rules/"
+    :name: t3_22n0cr
+    :created: 1397106478.0
+    :url: http://www.reddit.com/r/HITsWorthTurkingFor/comments/22n0cr/usgooglecom_advertising_survey_for_pool_rules/
+    :author_flair_text: 
+    :title: US-Google.com Advertising Survey for Pool Rules Signs-AdProof-.15/40sec-(no
+      qual) BATCH
+    :created_utc: 1397077678.0
+    :ups: 3
+    :num_comments: 3
+    :visited: false
+    :num_reports: 
+    :distinguished: 
+    :kind: t3
+- !ruby/object:RedditKit::Link
+  attributes:
+    :domain: self.HITsWorthTurkingFor
+    :banned_by: 
+    :media_embed: {}
+    :subreddit: HITsWorthTurkingFor
+    :selftext_html: |-
+      &lt;!-- SC_OFF --&gt;&lt;div class="md"&gt;&lt;p&gt;&lt;a href="http://adf.ly/jHfxR"&gt;http://adf.ly/jHfxR&lt;/a&gt;&lt;/p&gt;
+
+      &lt;p&gt;One question didnt load but didnt seem to matter&lt;/p&gt;
+      &lt;/div&gt;&lt;!-- SC_ON --&gt;
+    :selftext: |-
+      http://adf.ly/jHfxR
+
+      One question didnt load but didnt seem to matter
+    :likes: 
+    :secure_media: 
+    :link_flair_text: Dead
+    :id: 22n02h
+    :gilded: 0
+    :secure_media_embed: {}
+    :clicked: false
+    :stickied: false
+    :author: Derek573
+    :media: 
+    :score: 7
+    :approved_by: 
+    :over_18: false
+    :hidden: false
+    :thumbnail: ''
+    :subreddit_id: t5_2tgoz
+    :edited: false
+    :link_flair_css_class: dead
+    :author_flair_css_class: 
+    :downs: 1
+    :saved: false
+    :is_self: true
+    :permalink: "/r/HITsWorthTurkingFor/comments/22n02h/us_consumer_survey_irene_0202_mins_500_95/"
+    :name: t3_22n02h
+    :created: 1397106297.0
+    :url: http://www.reddit.com/r/HITsWorthTurkingFor/comments/22n02h/us_consumer_survey_irene_0202_mins_500_95/
+    :author_flair_text: 
+    :title: US - Consumer survey - Irene - $0.20/&lt;2 Mins - ( &gt;500, &gt;95%)
+    :created_utc: 1397077497.0
+    :ups: 8
+    :num_comments: 5
+    :visited: false
+    :num_reports: 
+    :distinguished: 
+    :kind: t3
+- !ruby/object:RedditKit::Link
+  attributes:
+    :domain: self.HITsWorthTurkingFor
+    :banned_by: 
+    :media_embed: {}
+    :subreddit: HITsWorthTurkingFor
+    :selftext_html: |-
+      &lt;!-- SC_OFF --&gt;&lt;div class="md"&gt;&lt;p&gt;&lt;a href="https://www.mturk.com/mturk/searchbar?selectedSearchType=hitgroups&amp;amp;searchWords=lambotte&amp;amp;minReward=0.00&amp;amp;x=0&amp;amp;y=0"&gt;https://www.mturk.com/mturk/searchbar?selectedSearchType=hitgroups&amp;amp;searchWords=lambotte&amp;amp;minReward=0.00&amp;amp;x=0&amp;amp;y=0&lt;/a&gt;&lt;/p&gt;
+
+      &lt;p&gt;Great TO, Easy HIT&lt;/p&gt;
+      &lt;/div&gt;&lt;!-- SC_ON --&gt;
+    :selftext: |-
+      https://www.mturk.com/mturk/searchbar?selectedSearchType=hitgroups&amp;searchWords=lambotte&amp;minReward=0.00&amp;x=0&amp;y=0
+
+      Great TO, Easy HIT
+    :likes: 
+    :secure_media: 
+    :link_flair_text: Dead
+    :id: 22mzq9
+    :gilded: 0
+    :secure_media_embed: {}
+    :clicked: false
+    :stickied: false
+    :author: srobert316
+    :media: 
+    :score: 0
+    :approved_by: 
+    :over_18: false
+    :hidden: false
+    :thumbnail: ''
+    :subreddit_id: t5_2tgoz
+    :edited: false
+    :link_flair_css_class: dead
+    :author_flair_css_class: 
+    :downs: 1
+    :saved: false
+    :is_self: true
+    :permalink: "/r/HITsWorthTurkingFor/comments/22mzq9/us_consumer_survey_soraya_lambotte_60430_not_1000/"
+    :name: t3_22mzq9
+    :created: 1397106076.0
+    :url: http://www.reddit.com/r/HITsWorthTurkingFor/comments/22mzq9/us_consumer_survey_soraya_lambotte_60430_not_1000/
+    :author_flair_text: 
+    :title: US - Consumer Survey - Soraya Lambotte - $.60/4:30 - (not &lt;1,000, not
+      &lt;95%)
+    :created_utc: 1397077276.0
+    :ups: 1
+    :num_comments: 5
+    :visited: false
+    :num_reports: 
+    :distinguished: 
+    :kind: t3
+- !ruby/object:RedditKit::Link
+  attributes:
+    :domain: self.HITsWorthTurkingFor
+    :banned_by: 
+    :media_embed: {}
+    :subreddit: HITsWorthTurkingFor
+    :selftext_html: |-
+      &lt;!-- SC_OFF --&gt;&lt;div class="md"&gt;&lt;p&gt;Good TO. Pretty straightforward. 2 HITs posted but looks like you can only do 1.&lt;/p&gt;
+
+      &lt;p&gt;&lt;a href="http://adf.ly/jHe5A"&gt;http://adf.ly/jHe5A&lt;/a&gt;&lt;/p&gt;
+      &lt;/div&gt;&lt;!-- SC_ON --&gt;
+    :selftext: |-
+      Good TO. Pretty straightforward. 2 HITs posted but looks like you can only do 1.
+
+      http://adf.ly/jHe5A
+    :likes: 
+    :secure_media: 
+    :link_flair_text: Dead
+    :id: 22myqy
+    :gilded: 0
+    :secure_media_embed: {}
+    :clicked: false
+    :stickied: false
+    :author: suuserx
+    :media: 
+    :score: 2
+    :approved_by: 
+    :over_18: false
+    :hidden: false
+    :thumbnail: ''
+    :subreddit_id: t5_2tgoz
+    :edited: false
+    :link_flair_css_class: dead
+    :author_flair_css_class: 
+    :downs: 1
+    :saved: false
+    :is_self: true
+    :permalink: "/r/HITsWorthTurkingFor/comments/22myqy/us_two_verbal_creativity_tests_pontus_strimling/"
+    :name: t3_22myqy
+    :created: 1397105503.0
+    :url: http://www.reddit.com/r/HITsWorthTurkingFor/comments/22myqy/us_two_verbal_creativity_tests_pontus_strimling/
+    :author_flair_text: 
+    :title: US - Two verbal creativity tests - Pontus Strimling - $1.00/5 min - (&gt;95%)
+    :created_utc: 1397076703.0
+    :ups: 3
+    :num_comments: 7
+    :visited: false
+    :num_reports: 
+    :distinguished: 
+    :kind: t3
+- !ruby/object:RedditKit::Link
+  attributes:
+    :domain: self.HITsWorthTurkingFor
+    :banned_by: 
+    :media_embed: {}
+    :subreddit: HITsWorthTurkingFor
+    :selftext_html: |-
+      &lt;!-- SC_OFF --&gt;&lt;div class="md"&gt;&lt;p&gt;&lt;a href="http://adf.ly/jHedD"&gt;http://adf.ly/jHedD&lt;/a&gt;&lt;/p&gt;
+      &lt;/div&gt;&lt;!-- SC_ON --&gt;
+    :selftext: http://adf.ly/jHedD
+    :likes: 
+    :secure_media: 
+    :link_flair_text: Dead
+    :id: 22mz3o
+    :gilded: 0
+    :secure_media_embed: {}
+    :clicked: false
+    :stickied: false
+    :author: hottovix
+    :media: 
+    :score: 0
+    :approved_by: 
+    :over_18: false
+    :hidden: false
+    :thumbnail: ''
+    :subreddit_id: t5_2tgoz
+    :edited: false
+    :link_flair_css_class: dead
+    :author_flair_css_class: coin
+    :downs: 1
+    :saved: false
+    :is_self: true
+    :permalink: "/r/HITsWorthTurkingFor/comments/22mz3o/ustwo_verbal_creativity_tasks_pontus_strimling/"
+    :name: t3_22mz3o
+    :created: 1397105718.0
+    :url: http://www.reddit.com/r/HITsWorthTurkingFor/comments/22mz3o/ustwo_verbal_creativity_tasks_pontus_strimling/
+    :author_flair_text: " Pool Contributor!"
+    :title: US-two verbal creativity tasks- Pontus Strimling- $1.00/5 min (&gt;95%)
+    :created_utc: 1397076918.0
+    :ups: 1
+    :num_comments: 3
+    :visited: false
+    :num_reports: 
+    :distinguished: 
+    :kind: t3
+- !ruby/object:RedditKit::Link
+  attributes:
+    :domain: self.HITsWorthTurkingFor
+    :banned_by: 
+    :media_embed: {}
+    :subreddit: HITsWorthTurkingFor
+    :selftext_html: |-
+      &lt;!-- SC_OFF --&gt;&lt;div class="md"&gt;&lt;p&gt;&lt;a href="http://adf.ly/jHdbg"&gt;http://adf.ly/jHdbg&lt;/a&gt;&lt;/p&gt;
+
+      &lt;p&gt;AC&lt;/p&gt;
+      &lt;/div&gt;&lt;!-- SC_ON --&gt;
+    :selftext: |+
+      http://adf.ly/jHdbg
+
+      AC
+
+    :likes: 
+    :secure_media: 
+    :link_flair_text: Dead
+    :id: 22mybt
+    :gilded: 0
+    :secure_media_embed: {}
+    :clicked: false
+    :stickied: false
+    :author: Derek573
+    :media: 
+    :score: 1
+    :approved_by: 
+    :over_18: false
+    :hidden: false
+    :thumbnail: ''
+    :subreddit_id: t5_2tgoz
+    :edited: false
+    :link_flair_css_class: dead
+    :author_flair_css_class: 
+    :downs: 1
+    :saved: false
+    :is_self: true
+    :permalink: "/r/HITsWorthTurkingFor/comments/22mybt/us_how_do_you_perceive_other_people_chadly_stern/"
+    :name: t3_22mybt
+    :created: 1397105265.0
+    :url: http://www.reddit.com/r/HITsWorthTurkingFor/comments/22mybt/us_how_do_you_perceive_other_people_chadly_stern/
+    :author_flair_text: 
+    :title: US - How do you perceive other people? - Chadly Stern - $0.50/~5 Mins
+      - (&gt;95%)
+    :created_utc: 1397076465.0
+    :ups: 2
+    :num_comments: 3
+    :visited: false
+    :num_reports: 
+    :distinguished: 
+    :kind: t3
+- !ruby/object:RedditKit::Link
+  attributes:
+    :domain: self.HITsWorthTurkingFor
+    :banned_by: 
+    :media_embed: {}
+    :subreddit: HITsWorthTurkingFor
+    :selftext_html: |-
+      &lt;!-- SC_OFF --&gt;&lt;div class="md"&gt;&lt;p&gt;&lt;a href="http://adf.ly/jHcG6"&gt;http://adf.ly/jHcG6&lt;/a&gt;&lt;/p&gt;
+
+      &lt;p&gt;MC AC&lt;/p&gt;
+      &lt;/div&gt;&lt;!-- SC_ON --&gt;
+    :selftext: |-
+      http://adf.ly/jHcG6
+
+      MC AC
+    :likes: 
+    :secure_media: 
+    :link_flair_text: Dead
+    :id: 22mx88
+    :gilded: 0
+    :secure_media_embed: {}
+    :clicked: false
+    :stickied: false
+    :author: Derek573
+    :media: 
+    :score: 9
+    :approved_by: 
+    :over_18: false
+    :hidden: false
+    :thumbnail: ''
+    :subreddit_id: t5_2tgoz
+    :edited: false
+    :link_flair_css_class: dead
+    :author_flair_css_class: 
+    :downs: 1
+    :saved: false
+    :is_self: true
+    :permalink: "/r/HITsWorthTurkingFor/comments/22mx88/us_social_attitudes_azim_shariff_0505_mins_90/"
+    :name: t3_22mx88
+    :created: 1397104622.0
+    :url: http://www.reddit.com/r/HITsWorthTurkingFor/comments/22mx88/us_social_attitudes_azim_shariff_0505_mins_90/
+    :author_flair_text: 
+    :title: US - Social Attitudes - Azim Shariff - $0.50/5 Mins - (&gt;90%)
+    :created_utc: 1397075822.0
+    :ups: 10
+    :num_comments: 4
+    :visited: false
+    :num_reports: 
+    :distinguished: 
+    :kind: t3
+- !ruby/object:RedditKit::Link
+  attributes:
+    :domain: self.HITsWorthTurkingFor
+    :banned_by: 
+    :media_embed: {}
+    :subreddit: HITsWorthTurkingFor
+    :selftext_html: |-
+      &lt;!-- SC_OFF --&gt;&lt;div class="md"&gt;&lt;p&gt;&lt;a href="http://adf.ly/jHcZV"&gt;http://adf.ly/jHcZV&lt;/a&gt;&lt;/p&gt;
+      &lt;/div&gt;&lt;!-- SC_ON --&gt;
+    :selftext: |+
+      http://adf.ly/jHcZV
+
+    :likes: 
+    :secure_media: 
+    :link_flair_text: Dead
+    :id: 22mxfz
+    :gilded: 0
+    :secure_media_embed: {}
+    :clicked: false
+    :stickied: false
+    :author: Derek573
+    :media: 
+    :score: 18
+    :approved_by: 
+    :over_18: false
+    :hidden: false
+    :thumbnail: ''
+    :subreddit_id: t5_2tgoz
+    :edited: false
+    :link_flair_css_class: dead
+    :author_flair_css_class: 
+    :downs: 0
+    :saved: false
+    :is_self: true
+    :permalink: "/r/HITsWorthTurkingFor/comments/22mxfz/us_3minute_survey_males_only_please_pbj_lab_02515/"
+    :name: t3_22mxfz
+    :created: 1397104765.0
+    :url: http://www.reddit.com/r/HITsWorthTurkingFor/comments/22mxfz/us_3minute_survey_males_only_please_pbj_lab_02515/
+    :author_flair_text: 
+    :title: US - 3-Minute Survey (Males only please) - PBJ Lab - $0.25/1.5 Mins -
+      ( &gt;500, &gt;95%)
+    :created_utc: 1397075965.0
+    :ups: 18
+    :num_comments: 4
+    :visited: false
+    :num_reports: 
+    :distinguished: 
+    :kind: t3
+- !ruby/object:RedditKit::Link
+  attributes:
+    :domain: self.HITsWorthTurkingFor
+    :banned_by: 
+    :media_embed: {}
+    :subreddit: HITsWorthTurkingFor
+    :selftext_html: |-
+      &lt;!-- SC_OFF --&gt;&lt;div class="md"&gt;&lt;p&gt;&lt;a href="http://adf.ly/aVBuf"&gt;http://adf.ly/aVBuf&lt;/a&gt;&lt;/p&gt;
+
+      &lt;p&gt;Must be in a relationship&lt;/p&gt;
+      &lt;/div&gt;&lt;!-- SC_ON --&gt;
+    :selftext: |-
+      http://adf.ly/aVBuf
+
+      Must be in a relationship
+    :likes: 
+    :secure_media: 
+    :link_flair_text: Dead
+    :id: 22murl
+    :gilded: 0
+    :secure_media_embed: {}
+    :clicked: false
+    :stickied: false
+    :author: calpie
+    :media: 
+    :score: 5
+    :approved_by: 
+    :over_18: false
+    :hidden: false
+    :thumbnail: ''
+    :subreddit_id: t5_2tgoz
+    :edited: false
+    :link_flair_css_class: dead
+    :author_flair_css_class: star4
+    :downs: 1
+    :saved: false
+    :is_self: true
+    :permalink: "/r/HITsWorthTurkingFor/comments/22murl/us_5_minute_survey_about_food_choices_duke_center/"
+    :name: t3_22murl
+    :created: 1397103136.0
+    :url: http://www.reddit.com/r/HITsWorthTurkingFor/comments/22murl/us_5_minute_survey_about_food_choices_duke_center/
+    :author_flair_text: Top Contributor!
+    :title: US - 5 Minute Survey about Food Choices - Duke Center for Behavioral Economics
+      - $0.50/2.5 min (&gt;88%)
+    :created_utc: 1397074336.0
+    :ups: 6
+    :num_comments: 4
+    :visited: false
+    :num_reports: 
+    :distinguished: 
+    :kind: t3
+- !ruby/object:RedditKit::Link
+  attributes:
+    :domain: self.HITsWorthTurkingFor
+    :banned_by: 
+    :media_embed: {}
+    :subreddit: HITsWorthTurkingFor
+    :selftext_html: |-
+      &lt;!-- SC_OFF --&gt;&lt;div class="md"&gt;&lt;p&gt;&lt;a href="http://adf.ly/jHZfV"&gt;http://adf.ly/jHZfV&lt;/a&gt;&lt;/p&gt;
+      &lt;/div&gt;&lt;!-- SC_ON --&gt;
+    :selftext: http://adf.ly/jHZfV
+    :likes: 
+    :secure_media: 
+    :link_flair_text: 
+    :id: 22mv4t
+    :gilded: 0
+    :secure_media_embed: {}
+    :clicked: false
+    :stickied: false
+    :author: calpie
+    :media: 
+    :score: 18
+    :approved_by: 
+    :over_18: false
+    :hidden: false
+    :thumbnail: ''
+    :subreddit_id: t5_2tgoz
+    :edited: false
+    :link_flair_css_class: 
+    :author_flair_css_class: star4
+    :downs: 0
+    :saved: false
+    :is_self: true
+    :permalink: "/r/HITsWorthTurkingFor/comments/22mv4t/us_answer_a_short_survey_about_perceptions_of/"
+    :name: t3_22mv4t
+    :created: 1397103370.0
+    :url: http://www.reddit.com/r/HITsWorthTurkingFor/comments/22mv4t/us_answer_a_short_survey_about_perceptions_of/
+    :author_flair_text: Top Contributor!
+    :title: US - Answer a short survey about perceptions of sales results - Felipe
+      Araujo - $0.30/2 min (&gt;1000, &gt;95%)
+    :created_utc: 1397074570.0
+    :ups: 18
+    :num_comments: 4
+    :visited: false
+    :num_reports: 
+    :distinguished: 
+    :kind: t3
+- !ruby/object:RedditKit::Link
+  attributes:
+    :domain: self.HITsWorthTurkingFor
+    :banned_by: 
+    :media_embed: {}
+    :subreddit: HITsWorthTurkingFor
+    :selftext_html: |-
+      &lt;!-- SC_OFF --&gt;&lt;div class="md"&gt;&lt;p&gt;Good TO. This is... really repetitive, but good pay. Think there was an AC or two. &lt;/p&gt;
+
+      &lt;p&gt;Two available, but others with quals. Can only take one.&lt;/p&gt;
+
+      &lt;p&gt;&lt;a href="http://adf.ly/jHXGO"&gt;http://adf.ly/jHXGO&lt;/a&gt;&lt;/p&gt;
+      &lt;/div&gt;&lt;!-- SC_ON --&gt;
+    :selftext: "Good TO. This is... really repetitive, but good pay. Think there was
+      an AC or two. \n\nTwo available, but others with quals. Can only take one.\n\nhttp://adf.ly/jHXGO"
+    :likes: 
+    :secure_media: 
+    :link_flair_text: 
+    :id: 22mtjd
+    :gilded: 0
+    :secure_media_embed: {}
+    :clicked: false
+    :stickied: false
+    :author: suuserx
+    :media: 
+    :score: 19
+    :approved_by: 
+    :over_18: false
+    :hidden: false
+    :thumbnail: ''
+    :subreddit_id: t5_2tgoz
+    :edited: false
+    :link_flair_css_class: 
+    :author_flair_css_class: 
+    :downs: 2
+    :saved: false
+    :is_self: true
+    :permalink: "/r/HITsWorthTurkingFor/comments/22mtjd/us_biodata_survey_heather_walters_1509_min/"
+    :name: t3_22mtjd
+    :created: 1397102413.0
+    :url: http://www.reddit.com/r/HITsWorthTurkingFor/comments/22mtjd/us_biodata_survey_heather_walters_1509_min/
+    :author_flair_text: 
+    :title: US - BioData Survey - heather walters - $1.50/9 min -
+    :created_utc: 1397073613.0
+    :ups: 21
+    :num_comments: 8
+    :visited: false
+    :num_reports: 
+    :distinguished: 
+    :kind: t3
+- !ruby/object:RedditKit::Link
+  attributes:
+    :domain: self.HITsWorthTurkingFor
+    :banned_by: 
+    :media_embed: {}
+    :subreddit: HITsWorthTurkingFor
+    :selftext_html: |-
+      &lt;!-- SC_OFF --&gt;&lt;div class="md"&gt;&lt;p&gt;Good TO, pretty simple reading a scenario and answering questions about it&lt;/p&gt;
+
+      &lt;p&gt;&lt;a href="http://adf.ly/ZtnEH"&gt;http://adf.ly/ZtnEH&lt;/a&gt;&lt;/p&gt;
+      &lt;/div&gt;&lt;!-- SC_ON --&gt;
+    :selftext: |-
+      Good TO, pretty simple reading a scenario and answering questions about it
+
+      http://adf.ly/ZtnEH
+    :likes: 
+    :secure_media: 
+    :link_flair_text: Dead
+    :id: 22msu7
+    :gilded: 0
+    :secure_media_embed: {}
+    :clicked: false
+    :stickied: false
+    :author: LFryo
+    :media: 
+    :score: 20
+    :approved_by: 
+    :over_18: false
+    :hidden: false
+    :thumbnail: ''
+    :subreddit_id: t5_2tgoz
+    :edited: false
+    :link_flair_css_class: dead
+    :author_flair_css_class: star4
+    :downs: 1
+    :saved: false
+    :is_self: true
+    :permalink: "/r/HITsWorthTurkingFor/comments/22msu7/us_survey_itay_sisso_2525min_500hits95/"
+    :name: t3_22msu7
+    :created: 1397101994.0
+    :url: http://www.reddit.com/r/HITsWorthTurkingFor/comments/22msu7/us_survey_itay_sisso_2525min_500hits95/
+    :author_flair_text: Top Contributor!
+    :title: US - Survey - Itay Sisso - .25/2.5min - &gt;500hits,&gt;95%
+    :created_utc: 1397073194.0
+    :ups: 21
+    :num_comments: 3
+    :visited: false
+    :num_reports: 
+    :distinguished: 
+    :kind: t3
+- !ruby/object:RedditKit::Link
+  attributes:
+    :domain: self.HITsWorthTurkingFor
+    :banned_by: 
+    :media_embed: {}
+    :subreddit: HITsWorthTurkingFor
+    :selftext_html: |-
+      &lt;!-- SC_OFF --&gt;&lt;div class="md"&gt;&lt;p&gt;Good TO. &lt;/p&gt;
+
+      &lt;p&gt;Now different HITs for different age/gender groups. &lt;/p&gt;
+
+      &lt;p&gt;&lt;a href="http://adf.ly/jHUKT"&gt;http://adf.ly/jHUKT&lt;/a&gt;&lt;/p&gt;
+      &lt;/div&gt;&lt;!-- SC_ON --&gt;
+    :selftext: "Good TO. \n\nNow different HITs for different age/gender groups. \n\nhttp://adf.ly/jHUKT"
+    :likes: 
+    :secure_media: 
+    :link_flair_text: Dead
+    :id: 22mrln
+    :gilded: 0
+    :secure_media_embed: {}
+    :clicked: false
+    :stickied: false
+    :author: suuserx
+    :media: 
+    :score: 16
+    :approved_by: 
+    :over_18: false
+    :hidden: false
+    :thumbnail: ''
+    :subreddit_id: t5_2tgoz
+    :edited: 1397073989.0
+    :link_flair_css_class: dead
+    :author_flair_css_class: 
+    :downs: 1
+    :saved: false
+    :is_self: true
+    :permalink: "/r/HITsWorthTurkingFor/comments/22mrln/us_5_minute_survey_martial_media_0514_min_90/"
+    :name: t3_22mrln
+    :created: 1397101276.0
+    :url: http://www.reddit.com/r/HITsWorthTurkingFor/comments/22mrln/us_5_minute_survey_martial_media_0514_min_90/
+    :author_flair_text: 
+    :title: US - 5 minute survey - Martial Media - $0.51/4 min - (&gt;90%)
+    :created_utc: 1397072476.0
+    :ups: 17
+    :num_comments: 8
+    :visited: false
+    :num_reports: 
+    :distinguished: 
+    :kind: t3
+- !ruby/object:RedditKit::Link
+  attributes:
+    :domain: self.HITsWorthTurkingFor
+    :banned_by: 
+    :media_embed: {}
+    :subreddit: HITsWorthTurkingFor
+    :selftext_html: |-
+      &lt;!-- SC_OFF --&gt;&lt;div class="md"&gt;&lt;p&gt;&lt;a href="http://adf.ly/jHSPH"&gt;http://adf.ly/jHSPH&lt;/a&gt;&lt;/p&gt;
+
+      &lt;p&gt;This one is filled with typing, but still easy.&lt;/p&gt;
+      &lt;/div&gt;&lt;!-- SC_ON --&gt;
+    :selftext: |-
+      http://adf.ly/jHSPH
+
+      This one is filled with typing, but still easy.
+    :likes: 
+    :secure_media: 
+    :link_flair_text: Dead
+    :id: 22mqnb
+    :gilded: 0
+    :secure_media_embed: {}
+    :clicked: false
+    :stickied: false
+    :author: dovaidu
+    :media: 
+    :score: 4
+    :approved_by: 
+    :over_18: false
+    :hidden: false
+    :thumbnail: ''
+    :subreddit_id: t5_2tgoz
+    :edited: false
+    :link_flair_css_class: dead
+    :author_flair_css_class: 
+    :downs: 1
+    :saved: false
+    :is_self: true
+    :permalink: "/r/HITsWorthTurkingFor/comments/22mqnb/us_35_minute_survey_for_030_the_wharton_school/"
+    :name: t3_22mqnb
+    :created: 1397100663.0
+    :url: http://www.reddit.com/r/HITsWorthTurkingFor/comments/22mqnb/us_35_minute_survey_for_030_the_wharton_school/
+    :author_flair_text: 
+    :title: US- 3-5 Minute survey for $0.30 - The Wharton School - 30c/2 minutes (&gt;95%)
+    :created_utc: 1397071863.0
+    :ups: 5
+    :num_comments: 10
+    :visited: false
+    :num_reports: 
+    :distinguished: 
+    :kind: t3
+- !ruby/object:RedditKit::Link
+  attributes:
+    :domain: self.HITsWorthTurkingFor
+    :banned_by: 
+    :media_embed: {}
+    :subreddit: HITsWorthTurkingFor
+    :selftext_html: |-
+      &lt;!-- SC_OFF --&gt;&lt;div class="md"&gt;&lt;p&gt;Writing&lt;/p&gt;
+
+      &lt;p&gt;&lt;a href="http://adf.ly/jHSEE"&gt;http://adf.ly/jHSEE&lt;/a&gt;&lt;/p&gt;
+
+      &lt;p&gt;Kinda dickish but easy if you can think of something.&lt;/p&gt;
+      &lt;/div&gt;&lt;!-- SC_ON --&gt;
+    :selftext: |-
+      Writing
+
+      http://adf.ly/jHSEE
+
+      Kinda dickish but easy if you can think of something.
+    :likes: 
+    :secure_media: 
+    :link_flair_text: Dead
+    :id: 22mqin
+    :gilded: 0
+    :secure_media_embed: {}
+    :clicked: false
+    :stickied: false
+    :author: Derek573
+    :media: 
+    :score: 7
+    :approved_by: 
+    :over_18: false
+    :hidden: false
+    :thumbnail: ''
+    :subreddit_id: t5_2tgoz
+    :edited: 1397072004.0
+    :link_flair_css_class: dead
+    :author_flair_css_class: 
+    :downs: 0
+    :saved: false
+    :is_self: true
+    :permalink: "/r/HITsWorthTurkingFor/comments/22mqin/us_35_minute_survey_for_030_the_wharton_school/"
+    :name: t3_22mqin
+    :created: 1397100565.0
+    :url: http://www.reddit.com/r/HITsWorthTurkingFor/comments/22mqin/us_35_minute_survey_for_030_the_wharton_school/
+    :author_flair_text: 
+    :title: US - 3-5 minute survey for $0.30 - The Wharton School - $0.30/&lt;3 Mins
+      - (&gt;95%)
+    :created_utc: 1397071765.0
+    :ups: 7
+    :num_comments: 4
+    :visited: false
+    :num_reports: 
+    :distinguished: 
+    :kind: t3
+- !ruby/object:RedditKit::Link
+  attributes:
+    :domain: self.HITsWorthTurkingFor
+    :banned_by: 
+    :media_embed: {}
+    :subreddit: HITsWorthTurkingFor
+    :selftext_html: |-
+      &lt;!-- SC_OFF --&gt;&lt;div class="md"&gt;&lt;p&gt;Great TO. Super easy.&lt;/p&gt;
+
+      &lt;p&gt;&lt;a href="http://adf.ly/jHQin"&gt;http://adf.ly/jHQin&lt;/a&gt;&lt;/p&gt;
+      &lt;/div&gt;&lt;!-- SC_ON --&gt;
+    :selftext: |-
+      Great TO. Super easy.
+
+      http://adf.ly/jHQin
+    :likes: 
+    :secure_media: 
+    :link_flair_text: Dead
+    :id: 22mpja
+    :gilded: 0
+    :secure_media_embed: {}
+    :clicked: false
+    :stickied: false
+    :author: suuserx
+    :media: 
+    :score: 1
+    :approved_by: 
+    :over_18: false
+    :hidden: false
+    :thumbnail: ''
+    :subreddit_id: t5_2tgoz
+    :edited: false
+    :link_flair_css_class: dead
+    :author_flair_css_class: 
+    :downs: 1
+    :saved: false
+    :is_self: true
+    :permalink: "/r/HITsWorthTurkingFor/comments/22mpja/us_rate_6_app_icons_mg_research_02030_sec_95/"
+    :name: t3_22mpja
+    :created: 1397099964.0
+    :url: http://www.reddit.com/r/HITsWorthTurkingFor/comments/22mpja/us_rate_6_app_icons_mg_research_02030_sec_95/
+    :author_flair_text: 
+    :title: US - Rate 6 app icons - MG Research - $0.20/30 sec - (&gt;95%)
+    :created_utc: 1397071164.0
+    :ups: 2
+    :num_comments: 4
+    :visited: false
+    :num_reports: 
+    :distinguished: 
+    :kind: t3
+- !ruby/object:RedditKit::Link
+  attributes:
+    :domain: self.HITsWorthTurkingFor
+    :banned_by: 
+    :media_embed: {}
+    :subreddit: HITsWorthTurkingFor
+    :selftext_html: |-
+      &lt;!-- SC_OFF --&gt;&lt;div class="md"&gt;&lt;p&gt;&lt;a href="http://adf.ly/jHNah"&gt;http://adf.ly/jHNah&lt;/a&gt;&lt;/p&gt;
+
+      &lt;p&gt;You can get to under 3 mins after a few of them.&lt;/p&gt;
+      &lt;/div&gt;&lt;!-- SC_ON --&gt;
+    :selftext: |-
+      http://adf.ly/jHNah
+
+      You can get to under 3 mins after a few of them.
+    :likes: 
+    :secure_media: 
+    :link_flair_text: Dead
+    :id: 22mnyz
+    :gilded: 0
+    :secure_media_embed: {}
+    :clicked: false
+    :stickied: false
+    :author: Wolfgang1234
+    :media: 
+    :score: 6
+    :approved_by: 
+    :over_18: false
+    :hidden: false
+    :thumbnail: ''
+    :subreddit_id: t5_2tgoz
+    :edited: false
+    :link_flair_css_class: dead
+    :author_flair_css_class: 
+    :downs: 1
+    :saved: false
+    :is_self: true
+    :permalink: "/r/HITsWorthTurkingFor/comments/22mnyz/us_facebook_post_categorization_and_evaluation/"
+    :name: t3_22mnyz
+    :created: 1397099000.0
+    :url: http://www.reddit.com/r/HITsWorthTurkingFor/comments/22mnyz/us_facebook_post_categorization_and_evaluation/
+    :author_flair_text: 
+    :title: US - Facebook Post Categorization and Evaluation Task. View a Facebook
+      post and answer some questions about it. Takes &lt; 5 mins. - Andrew Stephen
+      - $0.35/4 mins - &gt;50 &gt;95% [BATCH]
+    :created_utc: 1397070200.0
+    :ups: 7
+    :num_comments: 3
+    :visited: false
+    :num_reports: 
+    :distinguished: 
+    :kind: t3
+- !ruby/object:RedditKit::Link
+  attributes:
+    :domain: self.HITsWorthTurkingFor
+    :banned_by: 
+    :media_embed: {}
+    :subreddit: HITsWorthTurkingFor
+    :selftext_html: |-
+      &lt;!-- SC_OFF --&gt;&lt;div class="md"&gt;&lt;p&gt;You have to pass a short screening test first to show your knowledge of design principles. If you fail, you get .10 for your time. If you pass you receive a $2.90 bonus to rate various poster designs.&lt;/p&gt;
+
+      &lt;p&gt;&lt;a href="http://adf.ly/jHKdi"&gt;http://adf.ly/jHKdi&lt;/a&gt;&lt;/p&gt;
+      &lt;/div&gt;&lt;!-- SC_ON --&gt;
+    :selftext: |-
+      You have to pass a short screening test first to show your knowledge of design principles. If you fail, you get .10 for your time. If you pass you receive a $2.90 bonus to rate various poster designs.
+
+      http://adf.ly/jHKdi
+    :likes: 
+    :secure_media: 
+    :link_flair_text: Dead
+    :id: 22mmrj
+    :gilded: 0
+    :secure_media_embed: {}
+    :clicked: false
+    :stickied: false
+    :author: recoveringhipster
+    :media: 
+    :score: 8
+    :approved_by: 
+    :over_18: false
+    :hidden: false
+    :thumbnail: ''
+    :subreddit_id: t5_2tgoz
+    :edited: false
+    :link_flair_css_class: dead
+    :author_flair_css_class: coin
+    :downs: 1
+    :saved: false
+    :is_self: true
+    :permalink: "/r/HITsWorthTurkingFor/comments/22mmrj/us_rate_a_set_of_poster_designs_earn_up_to_300/"
+    :name: t3_22mmrj
+    :created: 1397098234.0
+    :url: http://www.reddit.com/r/HITsWorthTurkingFor/comments/22mmrj/us_rate_a_set_of_poster_designs_earn_up_to_300/
+    :author_flair_text: Pool Contributor!
+    :title: US - Rate a set of poster designs (earn up to $3.00) - CMU-HCII-research
+      $3.00/20 min - (&gt;50) (&gt;90%)
+    :created_utc: 1397069434.0
+    :ups: 9
+    :num_comments: 27
+    :visited: false
+    :num_reports: 
+    :distinguished: 
+    :kind: t3
+- !ruby/object:RedditKit::Link
+  attributes:
+    :domain: self.HITsWorthTurkingFor
+    :banned_by: 
+    :media_embed: {}
+    :subreddit: HITsWorthTurkingFor
+    :selftext_html: |-
+      &lt;!-- SC_OFF --&gt;&lt;div class="md"&gt;&lt;p&gt;&lt;a href="http://adf.ly/jHJPm"&gt;http://adf.ly/jHJPm&lt;/a&gt;&lt;/p&gt;
+
+      &lt;p&gt;New TO, so fast&lt;/p&gt;
+      &lt;/div&gt;&lt;!-- SC_ON --&gt;
+    :selftext: |-
+      http://adf.ly/jHJPm
+
+      New TO, so fast
+    :likes: 
+    :secure_media: 
+    :link_flair_text: Dead
+    :id: 22mlvf
+    :gilded: 0
+    :secure_media_embed: {}
+    :clicked: false
+    :stickied: false
+    :author: according_to_science
+    :media: 
+    :score: 0
+    :approved_by: 
+    :over_18: false
+    :hidden: false
+    :thumbnail: ''
+    :subreddit_id: t5_2tgoz
+    :edited: false
+    :link_flair_css_class: dead
+    :author_flair_css_class: 
+    :downs: 2
+    :saved: false
+    :is_self: true
+    :permalink: "/r/HITsWorthTurkingFor/comments/22mlvf/us_answer_5_brief_questions_about_yourself_45/"
+    :name: t3_22mlvf
+    :created: 1397097681.0
+    :url: http://www.reddit.com/r/HITsWorthTurkingFor/comments/22mlvf/us_answer_5_brief_questions_about_yourself_45/
+    :author_flair_text: 
+    :title: US - Answer 5 brief questions about yourself (45 seconds) - Jeffrey K
+      Naecker - $0.15/30 seconds - No qual
+    :created_utc: 1397068881.0
+    :ups: 1
+    :num_comments: 3
+    :visited: false
+    :num_reports: 
+    :distinguished: 
+    :kind: t3
+- !ruby/object:RedditKit::Link
+  attributes:
+    :domain: self.HITsWorthTurkingFor
+    :banned_by: 
+    :media_embed: {}
+    :subreddit: HITsWorthTurkingFor
+    :selftext_html: |-
+      &lt;!-- SC_OFF --&gt;&lt;div class="md"&gt;&lt;p&gt;&lt;a href="http://adf.ly/jHIZS"&gt;http://adf.ly/jHIZS&lt;/a&gt;&lt;/p&gt;
+
+      &lt;p&gt;Batch of 9000. Enjoy :)&lt;/p&gt;
+      &lt;/div&gt;&lt;!-- SC_ON --&gt;
+    :selftext: |-
+      http://adf.ly/jHIZS
+
+      Batch of 9000. Enjoy :)
+    :likes: 
+    :secure_media: 
+    :link_flair_text: 
+    :id: 22ml40
+    :gilded: 0
+    :secure_media_embed: {}
+    :clicked: false
+    :stickied: false
+    :author: tylerbronson1216
+    :media: 
+    :score: 4
+    :approved_by: 
+    :over_18: false
+    :hidden: false
+    :thumbnail: ''
+    :subreddit_id: t5_2tgoz
+    :edited: false
+    :link_flair_css_class: 
+    :author_flair_css_class: 
+    :downs: 1
+    :saved: false
+    :is_self: true
+    :permalink: "/r/HITsWorthTurkingFor/comments/22ml40/uswhat_would_you_call_this_item_if_you_were_to/"
+    :name: t3_22ml40
+    :created: 1397097214.0
+    :url: http://www.reddit.com/r/HITsWorthTurkingFor/comments/22ml40/uswhat_would_you_call_this_item_if_you_were_to/
+    :author_flair_text: 
+    :title: US-What would you call this item if you were to put it on your shopping
+      list-shiver-.05/20sec-(&gt;1000 &gt;95%) BATCH
+    :created_utc: 1397068414.0
+    :ups: 5
+    :num_comments: 7
+    :visited: false
+    :num_reports: 
+    :distinguished: 
+    :kind: t3
+- !ruby/object:RedditKit::Link
+  attributes:
+    :domain: self.HITsWorthTurkingFor
+    :banned_by: 
+    :media_embed: {}
+    :subreddit: HITsWorthTurkingFor
+    :selftext_html: |-
+      &lt;!-- SC_OFF --&gt;&lt;div class="md"&gt;&lt;p&gt;&lt;a href="http://adf.ly/jHHTp"&gt;http://adf.ly/jHHTp&lt;/a&gt;&lt;/p&gt;
+
+      &lt;p&gt;AC Good TO&lt;/p&gt;
+      &lt;/div&gt;&lt;!-- SC_ON --&gt;
+    :selftext: |-
+      http://adf.ly/jHHTp
+
+      AC Good TO
+    :likes: 
+    :secure_media: 
+    :link_flair_text: Dead
+    :id: 22mkki
+    :gilded: 0
+    :secure_media_embed: {}
+    :clicked: false
+    :stickied: false
+    :author: Derek573
+    :media: 
+    :score: 5
+    :approved_by: 
+    :over_18: false
+    :hidden: false
+    :thumbnail: ''
+    :subreddit_id: t5_2tgoz
+    :edited: false
+    :link_flair_css_class: dead
+    :author_flair_css_class: 
+    :downs: 1
+    :saved: false
+    :is_self: true
+    :permalink: "/r/HITsWorthTurkingFor/comments/22mkki/us_help_with_a_short_research_questionnaire_about/"
+    :name: t3_22mkki
+    :created: 1397096889.0
+    :url: http://www.reddit.com/r/HITsWorthTurkingFor/comments/22mkki/us_help_with_a_short_research_questionnaire_about/
+    :author_flair_text: 
+    :title: US - Help with a short research questionnaire about health goals, $0.50/5min
+      - Scott Wallace - $0.50/2 Mins - ( &gt;100, &gt;95%)
+    :created_utc: 1397068089.0
+    :ups: 6
+    :num_comments: 3
+    :visited: false
+    :num_reports: 
+    :distinguished: 
+    :kind: t3
+- !ruby/object:RedditKit::Link
+  attributes:
+    :domain: self.HITsWorthTurkingFor
+    :banned_by: 
+    :media_embed: {}
+    :subreddit: HITsWorthTurkingFor
+    :selftext_html: |-
+      &lt;!-- SC_OFF --&gt;&lt;div class="md"&gt;&lt;p&gt;&lt;a href="http://adf.ly/jHI7k"&gt;http://adf.ly/jHI7k&lt;/a&gt;&lt;/p&gt;
+
+      &lt;p&gt;Decent TO, very quick&lt;/p&gt;
+      &lt;/div&gt;&lt;!-- SC_ON --&gt;
+    :selftext: |-
+      http://adf.ly/jHI7k
+
+      Decent TO, very quick
+    :likes: 
+    :secure_media: 
+    :link_flair_text: Dead
+    :id: 22mkvs
+    :gilded: 0
+    :secure_media_embed: {}
+    :clicked: false
+    :stickied: false
+    :author: according_to_science
+    :media: 
+    :score: 4
+    :approved_by: 
+    :over_18: false
+    :hidden: false
+    :thumbnail: ''
+    :subreddit_id: t5_2tgoz
+    :edited: false
+    :link_flair_css_class: dead
+    :author_flair_css_class: 
+    :downs: 1
+    :saved: false
+    :is_self: true
+    :permalink: "/r/HITsWorthTurkingFor/comments/22mkvs/us_help_with_a_short_research_questionnaire_about/"
+    :name: t3_22mkvs
+    :created: 1397097076.0
+    :url: http://www.reddit.com/r/HITsWorthTurkingFor/comments/22mkvs/us_help_with_a_short_research_questionnaire_about/
+    :author_flair_text: 
+    :title: US - Help with a short research questionnaire about health goals, $0.50/5
+      min - Scott Wallace - $0.50/2 min - &gt; 95% &gt;100
+    :created_utc: 1397068276.0
+    :ups: 5
+    :num_comments: 2
+    :visited: false
+    :num_reports: 
+    :distinguished: 
+    :kind: t3
+- !ruby/object:RedditKit::Link
+  attributes:
+    :domain: self.HITsWorthTurkingFor
+    :banned_by: 
+    :media_embed: {}
+    :subreddit: HITsWorthTurkingFor
+    :selftext_html: |-
+      &lt;!-- SC_OFF --&gt;&lt;div class="md"&gt;&lt;p&gt;&lt;a href="http://adf.ly/jHGNi"&gt;http://adf.ly/jHGNi&lt;/a&gt;&lt;/p&gt;
+
+      &lt;p&gt;AC / MC&lt;/p&gt;
+
+      &lt;p&gt;Decent TO&lt;/p&gt;
+      &lt;/div&gt;&lt;!-- SC_ON --&gt;
+    :selftext: |-
+      http://adf.ly/jHGNi
+
+      AC / MC
+
+      Decent TO
+    :likes: 
+    :secure_media: 
+    :link_flair_text: Dead
+    :id: 22mk1f
+    :gilded: 0
+    :secure_media_embed: {}
+    :clicked: false
+    :stickied: false
+    :author: Derek573
+    :media: 
+    :score: 9
+    :approved_by: 
+    :over_18: false
+    :hidden: false
+    :thumbnail: ''
+    :subreddit_id: t5_2tgoz
+    :edited: false
+    :link_flair_css_class: dead
+    :author_flair_css_class: 
+    :downs: 0
+    :saved: false
+    :is_self: true
+    :permalink: "/r/HITsWorthTurkingFor/comments/22mk1f/us_music_study_tom_meyvis_0606_mins_95/"
+    :name: t3_22mk1f
+    :created: 1397096568.0
+    :url: http://www.reddit.com/r/HITsWorthTurkingFor/comments/22mk1f/us_music_study_tom_meyvis_0606_mins_95/
+    :author_flair_text: 
+    :title: US - Music Study - Tom Meyvis - $0.60/6 Mins - (&gt;95%)
+    :created_utc: 1397067768.0
+    :ups: 9
+    :num_comments: 6
+    :visited: false
+    :num_reports: 
+    :distinguished: 
+    :kind: t3
+- !ruby/object:RedditKit::Link
+  attributes:
+    :domain: self.HITsWorthTurkingFor
+    :banned_by: 
+    :media_embed: {}
+    :subreddit: HITsWorthTurkingFor
+    :selftext_html: |-
+      &lt;!-- SC_OFF --&gt;&lt;div class="md"&gt;&lt;p&gt;&lt;a href="http://adf.ly/jHFSR"&gt;http://adf.ly/jHFSR&lt;/a&gt;&lt;/p&gt;
+      &lt;/div&gt;&lt;!-- SC_ON --&gt;
+    :selftext: http://adf.ly/jHFSR
+    :likes: 
+    :secure_media: 
+    :link_flair_text: Dead
+    :id: 22mjmv
+    :gilded: 0
+    :secure_media_embed: {}
+    :clicked: false
+    :stickied: false
+    :author: tylerbronson1216
+    :media: 
+    :score: 0
+    :approved_by: 
+    :over_18: false
+    :hidden: false
+    :thumbnail: ''
+    :subreddit_id: t5_2tgoz
+    :edited: false
+    :link_flair_css_class: dead
+    :author_flair_css_class: 
+    :downs: 1
+    :saved: false
+    :is_self: true
+    :permalink: "/r/HITsWorthTurkingFor/comments/22mjmv/usbrief_survey_12_minutes_about_personality/"
+    :name: t3_22mjmv
+    :created: 1397096303.0
+    :url: http://www.reddit.com/r/HITsWorthTurkingFor/comments/22mjmv/usbrief_survey_12_minutes_about_personality/
+    :author_flair_text: 
+    :title: US-Brief survey (1-2 minutes) about personality traits that can or cannot
+      be improved-Nadav Klien-.15/1:15-(&gt;95%)
+    :created_utc: 1397067503.0
+    :ups: 1
+    :num_comments: 2
+    :visited: false
+    :num_reports: 
+    :distinguished: 
+    :kind: t3
+- !ruby/object:RedditKit::Link
+  attributes:
+    :domain: self.HITsWorthTurkingFor
+    :banned_by: 
+    :media_embed: {}
+    :subreddit: HITsWorthTurkingFor
+    :selftext_html: |-
+      &lt;!-- SC_OFF --&gt;&lt;div class="md"&gt;&lt;p&gt;&lt;a href="http://adf.ly/jHEPw"&gt;http://adf.ly/jHEPw&lt;/a&gt;&lt;/p&gt;
+
+      &lt;p&gt;Lacking Sufficient TO&lt;/p&gt;
+      &lt;/div&gt;&lt;!-- SC_ON --&gt;
+    :selftext: |-
+      http://adf.ly/jHEPw
+
+      Lacking Sufficient TO
+    :likes: 
+    :secure_media: 
+    :link_flair_text: Dead
+    :id: 22mj36
+    :gilded: 0
+    :secure_media_embed: {}
+    :clicked: false
+    :stickied: false
+    :author: Derek573
+    :media: 
+    :score: 0
+    :approved_by: 
+    :over_18: false
+    :hidden: false
+    :thumbnail: ''
+    :subreddit_id: t5_2tgoz
+    :edited: false
+    :link_flair_css_class: dead
+    :author_flair_css_class: 
+    :downs: 1
+    :saved: false
+    :is_self: true
+    :permalink: "/r/HITsWorthTurkingFor/comments/22mj36/us_answer_a_3_minute_survey_anthonyb_03525_mins_90/"
+    :name: t3_22mj36
+    :created: 1397095977.0
+    :url: http://www.reddit.com/r/HITsWorthTurkingFor/comments/22mj36/us_answer_a_3_minute_survey_anthonyb_03525_mins_90/
+    :author_flair_text: 
+    :title: US - Answer a 3 minute survey - AnthonyB - $0.35/2.5 Mins - (&gt;90%)
+    :created_utc: 1397067177.0
+    :ups: 1
+    :num_comments: 2
+    :visited: false
+    :num_reports: 
+    :distinguished: 
+    :kind: t3
+- !ruby/object:RedditKit::Link
+  attributes:
+    :domain: self.HITsWorthTurkingFor
+    :banned_by: 
+    :media_embed: {}
+    :subreddit: HITsWorthTurkingFor
+    :selftext_html: |-
+      &lt;!-- SC_OFF --&gt;&lt;div class="md"&gt;&lt;p&gt;&lt;a href="http://adf.ly/jHDGc"&gt;http://adf.ly/jHDGc&lt;/a&gt;&lt;/p&gt;
+      &lt;/div&gt;&lt;!-- SC_ON --&gt;
+    :selftext: http://adf.ly/jHDGc
+    :likes: 
+    :secure_media: 
+    :link_flair_text: Dead
+    :id: 22mijf
+    :gilded: 0
+    :secure_media_embed: {}
+    :clicked: false
+    :stickied: false
+    :author: tylerbronson1216
+    :media: 
+    :score: 19
+    :approved_by: 
+    :over_18: false
+    :hidden: false
+    :thumbnail: ''
+    :subreddit_id: t5_2tgoz
+    :edited: false
+    :link_flair_css_class: dead
+    :author_flair_css_class: 
+    :downs: 1
+    :saved: false
+    :is_self: true
+    :permalink: "/r/HITsWorthTurkingFor/comments/22mijf/usvery_short_2_minute_surveyelizabeth/"
+    :name: t3_22mijf
+    :created: 1397095643.0
+    :url: http://www.reddit.com/r/HITsWorthTurkingFor/comments/22mijf/usvery_short_2_minute_surveyelizabeth/
+    :author_flair_text: 
+    :title: US-Very Short (2 minute) Survey-Elizabeth Keenan-.15/1:30-(&gt;97%)
+    :created_utc: 1397066843.0
+    :ups: 20
+    :num_comments: 6
+    :visited: false
+    :num_reports: 
+    :distinguished: 
+    :kind: t3
+- !ruby/object:RedditKit::Link
+  attributes:
+    :domain: self.HITsWorthTurkingFor
+    :banned_by: 
+    :media_embed: {}
+    :subreddit: HITsWorthTurkingFor
+    :selftext_html: |-
+      &lt;!-- SC_OFF --&gt;&lt;div class="md"&gt;&lt;p&gt;These are awesome. They initially take 3-4mins, but by the time you get into it, 2:15 or so each. Enjoy! &lt;/p&gt;
+
+      &lt;p&gt;2 ACs. Same every time, though.&lt;/p&gt;
+
+      &lt;p&gt;&lt;a href="http://adf.ly/jHBfy"&gt;http://adf.ly/jHBfy&lt;/a&gt;&lt;/p&gt;
+
+      &lt;p&gt;communicativity:                                5.00 / 5
+      generosity     :                                3.92 / 5
+      fairness       :                                4.60 / 5
+      promptness     :                                5.00 / 5&lt;/p&gt;
+      &lt;/div&gt;&lt;!-- SC_ON --&gt;
+    :selftext: "These are awesome. They initially take 3-4mins, but by the time you
+      get into it, 2:15 or so each. Enjoy! \n\n2 ACs. Same every time, though.\n\nhttp://adf.ly/jHBfy\n\ncommunicativity:
+      \                               5.00 / 5\ngenerosity     :                                3.92
+      / 5\nfairness       :                                4.60 / 5\npromptness     :
+      \                               5.00 / 5\n\n"
+    :likes: 
+    :secure_media: 
+    :link_flair_text: Dead
+    :id: 22mi0e
+    :gilded: 0
+    :secure_media_embed: {}
+    :clicked: false
+    :stickied: false
+    :author: TerpWork
+    :media: 
+    :score: 1
+    :approved_by: 
+    :over_18: false
+    :hidden: false
+    :thumbnail: ''
+    :subreddit_id: t5_2tgoz
+    :edited: 1397067294.0
+    :link_flair_css_class: dead
+    :author_flair_css_class: coinstar
+    :downs: 1
+    :saved: false
+    :is_self: true
+    :permalink: "/r/HITsWorthTurkingFor/comments/22mi0e/us_acebook_post_categorization_and_evaluation/"
+    :name: t3_22mi0e
+    :created: 1397095333.0
+    :url: http://www.reddit.com/r/HITsWorthTurkingFor/comments/22mi0e/us_acebook_post_categorization_and_evaluation/
+    :author_flair_text: Top &amp; Pool Contributor!
+    :title: US - acebook Post Categorization and Evaluation Task. View a Facebook
+      post and answer some questions about it. Takes &lt; 5 mins. - Andrew Stephen
+      - $0.35/3mins - &gt;50 &gt;90%[BATCH]
+    :created_utc: 1397066533.0
+    :ups: 2
+    :num_comments: 5
+    :visited: false
+    :num_reports: 
+    :distinguished: 
+    :kind: t3
+- !ruby/object:RedditKit::Link
+  attributes:
+    :domain: self.HITsWorthTurkingFor
+    :banned_by: 
+    :media_embed: {}
+    :subreddit: HITsWorthTurkingFor
+    :selftext_html: |-
+      &lt;!-- SC_OFF --&gt;&lt;div class="md"&gt;&lt;p&gt;&lt;a href="https://www.mturk.com/mturk/searchbar?selectedSearchType=hitgroups&amp;amp;searchWords=Ackerman+Lab&amp;amp;minReward=0.00&amp;amp;x=0&amp;amp;y=0"&gt;direct&lt;/a&gt;&lt;/p&gt;
+
+      &lt;p&gt;If you like it, here&amp;#39;s the adfly, but I know it&amp;#39;s possibly a bit less than 10c/min. &lt;a href="http://adf.ly/jH9nw"&gt;http://adf.ly/jH9nw&lt;/a&gt;&lt;/p&gt;
+      &lt;/div&gt;&lt;!-- SC_ON --&gt;
+    :selftext: |-
+      [direct](https://www.mturk.com/mturk/searchbar?selectedSearchType=hitgroups&amp;searchWords=Ackerman+Lab&amp;minReward=0.00&amp;x=0&amp;y=0)
+
+      If you like it, here's the adfly, but I know it's possibly a bit less than 10c/min. http://adf.ly/jH9nw
+    :likes: 
+    :secure_media: 
+    :link_flair_text: Dead
+    :id: 22mgxk
+    :gilded: 0
+    :secure_media_embed: {}
+    :clicked: false
+    :stickied: false
+    :author: dovaidu
+    :media: 
+    :score: 4
+    :approved_by: 
+    :over_18: false
+    :hidden: false
+    :thumbnail: ''
+    :subreddit_id: t5_2tgoz
+    :edited: false
+    :link_flair_css_class: dead
+    :author_flair_css_class: 
+    :downs: 1
+    :saved: false
+    :is_self: true
+    :permalink: "/r/HITsWorthTurkingFor/comments/22mgxk/us_people_and_products_survey_ackerman_lab_25c3/"
+    :name: t3_22mgxk
+    :created: 1397094694.0
+    :url: http://www.reddit.com/r/HITsWorthTurkingFor/comments/22mgxk/us_people_and_products_survey_ackerman_lab_25c3/
+    :author_flair_text: 
+    :title: US - People and Products Survey - Ackerman Lab - 25c/~3 minutes (&gt;95%)
+    :created_utc: 1397065894.0
+    :ups: 5
+    :num_comments: 5
+    :visited: false
+    :num_reports: 
+    :distinguished: 
+    :kind: t3
+- !ruby/object:RedditKit::Link
+  attributes:
+    :domain: self.HITsWorthTurkingFor
+    :banned_by: 
+    :media_embed: {}
+    :subreddit: HITsWorthTurkingFor
+    :selftext_html: |-
+      &lt;!-- SC_OFF --&gt;&lt;div class="md"&gt;&lt;p&gt;&lt;a href="http://adf.ly/jHAOs"&gt;http://adf.ly/jHAOs&lt;/a&gt;&lt;/p&gt;
+      &lt;/div&gt;&lt;!-- SC_ON --&gt;
+    :selftext: http://adf.ly/jHAOs
+    :likes: 
+    :secure_media: 
+    :link_flair_text: Dead
+    :id: 22mh7j
+    :gilded: 0
+    :secure_media_embed: {}
+    :clicked: false
+    :stickied: false
+    :author: jacksprat870
+    :media: 
+    :score: 1
+    :approved_by: 
+    :over_18: false
+    :hidden: false
+    :thumbnail: ''
+    :subreddit_id: t5_2tgoz
+    :edited: false
+    :link_flair_css_class: dead
+    :author_flair_css_class: 
+    :downs: 1
+    :saved: false
+    :is_self: true
+    :permalink: "/r/HITsWorthTurkingFor/comments/22mh7j/us_write_a_haiku_about_mturk_mturk_research_53/"
+    :name: t3_22mh7j
+    :created: 1397094859.0
+    :url: http://www.reddit.com/r/HITsWorthTurkingFor/comments/22mh7j/us_write_a_haiku_about_mturk_mturk_research_53/
+    :author_flair_text: 
+    :title: US - Write a Haiku about MTURK - MTurk Research - .5/&lt;3 minutes - &gt;99%
+    :created_utc: 1397066059.0
+    :ups: 2
+    :num_comments: 2
+    :visited: false
+    :num_reports: 
+    :distinguished: 
+    :kind: t3
+- !ruby/object:RedditKit::Link
+  attributes:
+    :domain: self.HITsWorthTurkingFor
+    :banned_by: 
+    :media_embed: {}
+    :subreddit: HITsWorthTurkingFor
+    :selftext_html: |-
+      &lt;!-- SC_OFF --&gt;&lt;div class="md"&gt;&lt;p&gt;&lt;a href="https://www.mturk.com/mturk/searchbar?selectedSearchType=hitgroups&amp;amp;searchWords=Write+a+Haiku&amp;amp;minReward=0.00&amp;amp;x=0&amp;amp;y=0"&gt;https://www.mturk.com/mturk/searchbar?selectedSearchType=hitgroups&amp;amp;searchWords=Write+a+Haiku&amp;amp;minReward=0.00&amp;amp;x=0&amp;amp;y=0&lt;/a&gt;&lt;/p&gt;
+
+      &lt;p&gt;Repost from 21 hours ago.&lt;/p&gt;
+
+      &lt;p&gt;You need to make a haiku, so you could finish faster or slower depending on how quickly you can come up with one. Otherwise it&amp;#39;s pretty damn simple, if a little weird. Decent TO.&lt;/p&gt;
+      &lt;/div&gt;&lt;!-- SC_ON --&gt;
+    :selftext: |-
+      https://www.mturk.com/mturk/searchbar?selectedSearchType=hitgroups&amp;searchWords=Write+a+Haiku&amp;minReward=0.00&amp;x=0&amp;y=0
+
+      Repost from 21 hours ago.
+
+      You need to make a haiku, so you could finish faster or slower depending on how quickly you can come up with one. Otherwise it's pretty damn simple, if a little weird. Decent TO.
+    :likes: 
+    :secure_media: 
+    :link_flair_text: Dead
+    :id: 22mhcn
+    :gilded: 0
+    :secure_media_embed: {}
+    :clicked: false
+    :stickied: false
+    :author: cheburashechka
+    :media: 
+    :score: 5
+    :approved_by: 
+    :over_18: false
+    :hidden: false
+    :thumbnail: ''
+    :subreddit_id: t5_2tgoz
+    :edited: false
+    :link_flair_css_class: dead
+    :author_flair_css_class: star4
+    :downs: 1
+    :saved: false
+    :is_self: true
+    :permalink: "/r/HITsWorthTurkingFor/comments/22mhcn/us_write_a_haiku_about_mturk_mturk_research/"
+    :name: t3_22mhcn
+    :created: 1397094945.0
+    :url: http://www.reddit.com/r/HITsWorthTurkingFor/comments/22mhcn/us_write_a_haiku_about_mturk_mturk_research/
+    :author_flair_text: Top Contirbutor!
+    :title: US - Write a Haiku about MTURK - MTurk Research - .5/1.5min- &gt;95%
+    :created_utc: 1397066145.0
+    :ups: 6
+    :num_comments: 6
+    :visited: false
+    :num_reports: 
+    :distinguished: 
+    :kind: t3
+- !ruby/object:RedditKit::Link
+  attributes:
+    :domain: self.HITsWorthTurkingFor
+    :banned_by: 
+    :media_embed: {}
+    :subreddit: HITsWorthTurkingFor
+    :selftext_html: |-
+      &lt;!-- SC_OFF --&gt;&lt;div class="md"&gt;&lt;p&gt;Good TO. Short writing task (took me about 2 minutes to do it). &lt;/p&gt;
+
+      &lt;p&gt;&lt;a href="http://adf.ly/jH8mF"&gt;http://adf.ly/jH8mF&lt;/a&gt;&lt;/p&gt;
+      &lt;/div&gt;&lt;!-- SC_ON --&gt;
+    :selftext: "Good TO. Short writing task (took me about 2 minutes to do it). \n\nhttp://adf.ly/jH8mF"
+    :likes: 
+    :secure_media: 
+    :link_flair_text: Dead
+    :id: 22mgio
+    :gilded: 0
+    :secure_media_embed: {}
+    :clicked: false
+    :stickied: false
+    :author: suuserx
+    :media: 
+    :score: 6
+    :approved_by: 
+    :over_18: false
+    :hidden: false
+    :thumbnail: ''
+    :subreddit_id: t5_2tgoz
+    :edited: false
+    :link_flair_css_class: dead
+    :author_flair_css_class: 
+    :downs: 1
+    :saved: false
+    :is_self: true
+    :permalink: "/r/HITsWorthTurkingFor/comments/22mgio/us_research_study_on_information_processing/"
+    :name: t3_22mgio
+    :created: 1397094420.0
+    :url: http://www.reddit.com/r/HITsWorthTurkingFor/comments/22mgio/us_research_study_on_information_processing/
+    :author_flair_text: 
+    :title: US - Research Study on Information Processing - Anne-Christin Posten -
+      $0.50/5 min + possible bonus - (&gt;95%)
+    :created_utc: 1397065620.0
+    :ups: 7
+    :num_comments: 5
+    :visited: false
+    :num_reports: 
+    :distinguished: 
+    :kind: t3
+- !ruby/object:RedditKit::Link
+  attributes:
+    :domain: self.HITsWorthTurkingFor
+    :banned_by: 
+    :media_embed: {}
+    :subreddit: HITsWorthTurkingFor
+    :selftext_html: |-
+      &lt;!-- SC_OFF --&gt;&lt;div class="md"&gt;&lt;p&gt;good TO
+      &lt;a href="http://adf.ly/jH3w0"&gt;http://adf.ly/jH3w0&lt;/a&gt;&lt;/p&gt;
+      &lt;/div&gt;&lt;!-- SC_ON --&gt;
+    :selftext: |-
+      good TO
+      http://adf.ly/jH3w0
+    :likes: 
+    :secure_media: 
+    :link_flair_text: Dead
+    :id: 22mehz
+    :gilded: 0
+    :secure_media_embed: {}
+    :clicked: false
+    :stickied: false
+    :author: rachelpoo
+    :media: 
+    :score: 0
+    :approved_by: 
+    :over_18: false
+    :hidden: false
+    :thumbnail: ''
+    :subreddit_id: t5_2tgoz
+    :edited: false
+    :link_flair_css_class: dead
+    :author_flair_css_class: coin
+    :downs: 2
+    :saved: false
+    :is_self: true
+    :permalink: "/r/HITsWorthTurkingFor/comments/22mehz/ussurvey_regarding_your_experience_and_your/"
+    :name: t3_22mehz
+    :created: 1397093208.0
+    :url: http://www.reddit.com/r/HITsWorthTurkingFor/comments/22mehz/ussurvey_regarding_your_experience_and_your/
+    :author_flair_text: Pool Contributor!
+    :title: US-Survey regarding your experience and your leader at work -Mark R. Byers-$.50/2.5-(&gt;95%)
+    :created_utc: 1397064408.0
+    :ups: 2
+    :num_comments: 4
+    :visited: false
+    :num_reports: 
+    :distinguished: 
+    :kind: t3
+- !ruby/object:RedditKit::Link
+  attributes:
+    :domain: self.HITsWorthTurkingFor
+    :banned_by: 
+    :media_embed: {}
+    :subreddit: HITsWorthTurkingFor
+    :selftext_html: |-
+      &lt;!-- SC_OFF --&gt;&lt;div class="md"&gt;&lt;p&gt;good TO
+      &lt;a href="http://adf.ly/jH27M"&gt;http://adf.ly/jH27M&lt;/a&gt;&lt;/p&gt;
+      &lt;/div&gt;&lt;!-- SC_ON --&gt;
+    :selftext: |-
+      good TO
+      http://adf.ly/jH27M
+    :likes: 
+    :secure_media: 
+    :link_flair_text: Dead
+    :id: 22mdtx
+    :gilded: 0
+    :secure_media_embed: {}
+    :clicked: false
+    :stickied: false
+    :author: rachelpoo
+    :media: 
+    :score: 4
+    :approved_by: 
+    :over_18: false
+    :hidden: false
+    :thumbnail: ''
+    :subreddit_id: t5_2tgoz
+    :edited: false
+    :link_flair_css_class: dead
+    :author_flair_css_class: coin
+    :downs: 1
+    :saved: false
+    :is_self: true
+    :permalink: "/r/HITsWorthTurkingFor/comments/22mdtx/usmarketing_sloganjl553min97/"
+    :name: t3_22mdtx
+    :created: 1397092807.0
+    :url: http://www.reddit.com/r/HITsWorthTurkingFor/comments/22mdtx/usmarketing_sloganjl553min97/
+    :author_flair_text: Pool Contributor!
+    :title: us-Marketing Slogan-jl-$.55/&lt;3min-(&gt;97%)
+    :created_utc: 1397064007.0
+    :ups: 5
+    :num_comments: 3
+    :visited: false
+    :num_reports: 
+    :distinguished: 
+    :kind: t3
+- !ruby/object:RedditKit::Link
+  attributes:
+    :domain: self.HITsWorthTurkingFor
+    :banned_by: 
+    :media_embed: {}
+    :subreddit: HITsWorthTurkingFor
+    :selftext_html: |-
+      &lt;!-- SC_OFF --&gt;&lt;div class="md"&gt;&lt;p&gt;&lt;a href="http://adf.ly/jH04p"&gt;http://adf.ly/jH04p&lt;/a&gt;
+      good TO, AC&amp;#39;s&lt;/p&gt;
+      &lt;/div&gt;&lt;!-- SC_ON --&gt;
+    :selftext: |-
+      http://adf.ly/jH04p
+      good TO, AC's
+    :likes: 
+    :secure_media: 
+    :link_flair_text: Dead
+    :id: 22md29
+    :gilded: 0
+    :secure_media_embed: {}
+    :clicked: false
+    :stickied: false
+    :author: rachelpoo
+    :media: 
+    :score: 17
+    :approved_by: 
+    :over_18: false
+    :hidden: false
+    :thumbnail: ''
+    :subreddit_id: t5_2tgoz
+    :edited: false
+    :link_flair_css_class: dead
+    :author_flair_css_class: coin
+    :downs: 4
+    :saved: false
+    :is_self: true
+    :permalink: "/r/HITsWorthTurkingFor/comments/22md29/icabeliefs_about_human_behavior_surveymark/"
+    :name: t3_22md29
+    :created: 1397092317.0
+    :url: http://www.reddit.com/r/HITsWorthTurkingFor/comments/22md29/icabeliefs_about_human_behavior_surveymark/
+    :author_flair_text: Pool Contributor!
+    :title: ICA-Beliefs about human behavior survey-mark rivardo-$.50/4.5-no quals
+    :created_utc: 1397063517.0
+    :ups: 21
+    :num_comments: 8
+    :visited: false
+    :num_reports: 
+    :distinguished: 
+    :kind: t3
+- !ruby/object:RedditKit::Link
+  attributes:
+    :domain: self.HITsWorthTurkingFor
+    :banned_by: 
+    :media_embed: {}
+    :subreddit: HITsWorthTurkingFor
+    :selftext_html: |-
+      &lt;!-- SC_OFF --&gt;&lt;div class="md"&gt;&lt;p&gt;(removed)&lt;/p&gt;
+      &lt;/div&gt;&lt;!-- SC_ON --&gt;
+    :selftext: "(removed)"
+    :likes: 
+    :secure_media: 
+    :link_flair_text: Dead
+    :id: 22mcql
+    :gilded: 0
+    :secure_media_embed: {}
+    :clicked: false
+    :stickied: false
+    :author: dovaidu
+    :media: 
+    :score: 3
+    :approved_by: 
+    :over_18: false
+    :hidden: false
+    :thumbnail: ''
+    :subreddit_id: t5_2tgoz
+    :edited: 1397064907.0
+    :link_flair_css_class: dead
+    :author_flair_css_class: 
+    :downs: 2
+    :saved: false
+    :is_self: true
+    :permalink: "/r/HITsWorthTurkingFor/comments/22mcql/ica_short_survey_involving_sculptures_math_and/"
+    :name: t3_22mcql
+    :created: 1397092097.0
+    :url: http://www.reddit.com/r/HITsWorthTurkingFor/comments/22mcql/ica_short_survey_involving_sculptures_math_and/
+    :author_flair_text: 
+    :title: ICA - Short survey involving sculptures, math, and beliefs -Mark D. Cloud
+      - 20c/~2 minutes (&gt;500, &gt;95)
+    :created_utc: 1397063297.0
+    :ups: 5
+    :num_comments: 6
+    :visited: false
+    :num_reports: 
+    :distinguished: 
+    :kind: t3
+- !ruby/object:RedditKit::Link
+  attributes:
+    :domain: self.HITsWorthTurkingFor
+    :banned_by: 
+    :media_embed: {}
+    :subreddit: HITsWorthTurkingFor
+    :selftext_html: |-
+      &lt;!-- SC_OFF --&gt;&lt;div class="md"&gt;&lt;p&gt;&lt;a href="http://adf.ly/jGsqk"&gt;http://adf.ly/jGsqk&lt;/a&gt;&lt;/p&gt;
+
+      &lt;p&gt;It looks like this hit gets put up regularly, and she only wants you to do it once. So beforwarned.&lt;/p&gt;
+      &lt;/div&gt;&lt;!-- SC_ON --&gt;
+    :selftext: |-
+      http://adf.ly/jGsqk
+
+      It looks like this hit gets put up regularly, and she only wants you to do it once. So beforwarned.
+    :likes: 
+    :secure_media: 
+    :link_flair_text: 
+    :id: 22maqw
+    :gilded: 0
+    :secure_media_embed: {}
+    :clicked: false
+    :stickied: false
+    :author: dovaidu
+    :media: 
+    :score: 5
+    :approved_by: 
+    :over_18: false
+    :hidden: false
+    :thumbnail: ''
+    :subreddit_id: t5_2tgoz
+    :edited: 1397062849.0
+    :link_flair_css_class: 
+    :author_flair_css_class: 
+    :downs: 2
+    :saved: false
+    :is_self: true
+    :permalink: "/r/HITsWorthTurkingFor/comments/22maqw/us_answer_a_quick_survey_about_your_perceptions/"
+    :name: t3_22maqw
+    :created: 1397090907.0
+    :url: http://www.reddit.com/r/HITsWorthTurkingFor/comments/22maqw/us_answer_a_quick_survey_about_your_perceptions/
+    :author_flair_text: 
+    :title: US - Answer a quick survey about your perceptions - Cindy Nordstrom -
+      50c/&lt;5 minutes (&gt;100, &gt;95%)
+    :created_utc: 1397062107.0
+    :ups: 7
+    :num_comments: 4
+    :visited: false
+    :num_reports: 
+    :distinguished: 
+    :kind: t3
+- !ruby/object:RedditKit::Link
+  attributes:
+    :domain: self.HITsWorthTurkingFor
+    :banned_by: 
+    :media_embed: {}
+    :subreddit: HITsWorthTurkingFor
+    :selftext_html: |-
+      &lt;!-- SC_OFF --&gt;&lt;div class="md"&gt;&lt;p&gt;&lt;a href="http://adf.ly/jGsFF"&gt;http://adf.ly/jGsFF&lt;/a&gt;&lt;/p&gt;
+
+      &lt;p&gt;TO looks iffy, but i have taken hits from requester with no prob.,&lt;/p&gt;
+      &lt;/div&gt;&lt;!-- SC_ON --&gt;
+    :selftext: |-
+      http://adf.ly/jGsFF
+
+      TO looks iffy, but i have taken hits from requester with no prob.,
+    :likes: 
+    :secure_media: 
+    :link_flair_text: Dead
+    :id: 22ma3g
+    :gilded: 0
+    :secure_media_embed: {}
+    :clicked: false
+    :stickied: false
+    :author: rachelpoo
+    :media: 
+    :score: 2
+    :approved_by: 
+    :over_18: false
+    :hidden: false
+    :thumbnail: ''
+    :subreddit_id: t5_2tgoz
+    :edited: false
+    :link_flair_css_class: dead
+    :author_flair_css_class: coin
+    :downs: 1
+    :saved: false
+    :is_self: true
+    :permalink: "/r/HITsWorthTurkingFor/comments/22ma3g/uspsychology_experiment_decision_making_in_the/"
+    :name: t3_22ma3g
+    :created: 1397090503.0
+    :url: http://www.reddit.com/r/HITsWorthTurkingFor/comments/22ma3g/uspsychology_experiment_decision_making_in_the/
+    :author_flair_text: Pool Contributor!
+    :title: US-[Psychology Experiment] Decision making in the workplace - 8 minutes-
+      JN R8-$.75/7-(&gt;500,&gt;95%)
+    :created_utc: 1397061703.0
+    :ups: 3
+    :num_comments: 3
+    :visited: false
+    :num_reports: 
+    :distinguished: 
+    :kind: t3
+- !ruby/object:RedditKit::Link
+  attributes:
+    :domain: self.HITsWorthTurkingFor
+    :banned_by: 
+    :media_embed: {}
+    :subreddit: HITsWorthTurkingFor
+    :selftext_html: |-
+      &lt;!-- SC_OFF --&gt;&lt;div class="md"&gt;&lt;p&gt;&lt;a href="http://adf.ly/jGs61"&gt;http://adf.ly/jGs61&lt;/a&gt;&lt;/p&gt;
+
+      &lt;p&gt;Good TO. Some odd questions, but relatively easy. Tiny bit of writing.&lt;/p&gt;
+      &lt;/div&gt;&lt;!-- SC_ON --&gt;
+    :selftext: |-
+      http://adf.ly/jGs61
+
+      Good TO. Some odd questions, but relatively easy. Tiny bit of writing.
+    :likes: 
+    :secure_media: 
+    :link_flair_text: Dead
+    :id: 22ma9d
+    :gilded: 0
+    :secure_media_embed: {}
+    :clicked: false
+    :stickied: false
+    :author: jamielynnb
+    :media: 
+    :score: 6
+    :approved_by: 
+    :over_18: false
+    :hidden: false
+    :thumbnail: ''
+    :subreddit_id: t5_2tgoz
+    :edited: false
+    :link_flair_css_class: dead
+    :author_flair_css_class: 
+    :downs: 1
+    :saved: false
+    :is_self: true
+    :permalink: "/r/HITsWorthTurkingFor/comments/22ma9d/us_predicting_world_events_10_min_050_chance_of/"
+    :name: t3_22ma9d
+    :created: 1397090600.0
+    :url: http://www.reddit.com/r/HITsWorthTurkingFor/comments/22ma9d/us_predicting_world_events_10_min_050_chance_of/
+    :author_flair_text: 
+    :title: US - Predicting world events (10 min., $0.50, chance of $10 bonus) - Barb
+      Mellers - $0.50/5 min - (not &lt;95%)
+    :created_utc: 1397061800.0
+    :ups: 7
+    :num_comments: 8
+    :visited: false
+    :num_reports: 
+    :distinguished: 
+    :kind: t3
+- !ruby/object:RedditKit::Link
+  attributes:
+    :domain: self.HITsWorthTurkingFor
+    :banned_by: 
+    :media_embed: {}
+    :subreddit: HITsWorthTurkingFor
+    :selftext_html: |-
+      &lt;!-- SC_OFF --&gt;&lt;div class="md"&gt;&lt;p&gt;&lt;a href="https://www.mturk.com/mturk/searchbar?selectedSearchType=hitgroups&amp;amp;requesterId=A39O6ZITQB83OS"&gt;https://www.mturk.com/mturk/searchbar?selectedSearchType=hitgroups&amp;amp;requesterId=A39O6ZITQB83OS&lt;/a&gt;&lt;/p&gt;
+
+      &lt;p&gt;Very good TO. Very simple and easy but lots of pages with just 1 bubble question each, so a little annoying.&lt;/p&gt;
+      &lt;/div&gt;&lt;!-- SC_ON --&gt;
+    :selftext: |-
+      https://www.mturk.com/mturk/searchbar?selectedSearchType=hitgroups&amp;requesterId=A39O6ZITQB83OS
+
+      Very good TO. Very simple and easy but lots of pages with just 1 bubble question each, so a little annoying.
+    :likes: 
+    :secure_media: 
+    :link_flair_text: Dead
+    :id: 22maen
+    :gilded: 0
+    :secure_media_embed: {}
+    :clicked: false
+    :stickied: false
+    :author: cheburashechka
+    :media: 
+    :score: 2
+    :approved_by: 
+    :over_18: false
+    :hidden: false
+    :thumbnail: ''
+    :subreddit_id: t5_2tgoz
+    :edited: false
+    :link_flair_css_class: dead
+    :author_flair_css_class: star4
+    :downs: 1
+    :saved: false
+    :is_self: true
+    :permalink: "/r/HITsWorthTurkingFor/comments/22maen/us_reading_and_information_processing_ua_research/"
+    :name: t3_22maen
+    :created: 1397090689.0
+    :url: http://www.reddit.com/r/HITsWorthTurkingFor/comments/22maen/us_reading_and_information_processing_ua_research/
+    :author_flair_text: Top Contirbutor!
+    :title: US - Reading and Information Processing - UA Research Group - .6/4.5min-
+      &gt;97%
+    :created_utc: 1397061889.0
+    :ups: 3
+    :num_comments: 7
+    :visited: false
+    :num_reports: 
+    :distinguished: 
+    :kind: t3

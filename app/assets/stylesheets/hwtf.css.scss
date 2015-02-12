@@ -1,0 +1,33 @@
+// Place all the styles related to the hwtf controller here.
+// They will automatically be included in application.css.
+// You can use Sass (SCSS) here: http://sass-lang.com/
+
+body {
+  background-color: lightgray;
+}
+
+div {
+  background-color:#aaaaaa;
+}
+
+.fresh {
+  background-color:#aaaaff;
+  
+}
+.stale {
+  background-color:#aaffff;
+  
+}
+.old {
+  background-color: salmon;
+  
+}
+ul li {
+    list-style-type: none;
+}
+
+
+a:visited {
+    background-color: lightgray;
+
+}

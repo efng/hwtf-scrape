@@ -1,0 +1,31 @@
+<input type="button" value="Stop Auto Refresh" id="stopAutoRefresh" onClick="disableAutoRefresh();" />
+<input type="button" value="Delay refresh for 15 minutes" onClick="updatePageRefresh(900000);" />
+<p>
+
+<!-- hours back: < %= params[:hours_back] if params[:hours_back]  %>, id found: < %= session[:id] %> <br /> -->
+
+<%= form_tag do %>
+  click the number of hours back from now you want to start scraping
+  <% [1,3,6,12,24].each do |hours| %>
+    <%= submit_tag hours, :name => 'hours_back' %>
+  <% end %>
+<% end %>
+
+<h1>Last updated at <%= Time.now %></h1>
+<p>just found mturkgrind links: <%= @mturkgrind %></p>
+<p>just found reddit HITsWorthTurkingFor links: <%= @reddithwtf %></p>
+<ul>
+  <% @mturk_links.each do |link| %>
+  <div>
+    <p>
+      <li>post: <%= link_to link.title, link.url %></li>
+      <li><%= link.selftext %></li>
+  </div>
+      <li>direct link: <%= link_to link.working_url, link.working_url,
+                            class: link.link_flair_css_class %></li>
+    </p>
+
+  <% end %>
+</ul>
+
+<%= "No results returned. Connection issue." if @mturk_links.empty? %>
