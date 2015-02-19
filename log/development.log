@@ -1,0 +1,8 @@
+[ActiveJob] Enqueued ScrapeMturkGrindJob (Job ID: 9f5ac9d3-e0f6-4f87-a8f6-265bd553ad4d) to DelayedJob(mturk_grind)
+[ActiveJob]   [1m[36m (0.2ms)[0m  [1mbegin transaction[0m
+[ActiveJob]   [1m[35mSQL (10.1ms)[0m  INSERT INTO "delayed_jobs" ("created_at", "handler", "queue", "run_at", "updated_at") VALUES (?, ?, ?, ?, ?)  [["created_at", Thu, 19 Feb 2015 07:10:40 UTC +00:00], ["handler", "--- !ruby/object:Delayed::PerformableMethod\nobject: !ruby/object:ActiveJob::QueueAdapters::DelayedJobAdapter::JobWrapper {}\nmethod_name: :perform\nargs:\n- job_class: ScrapeMturkGrindJob\n  job_id: 9f5ac9d3-e0f6-4f87-a8f6-265bd553ad4d\n  queue_name: mturk_grind\n  arguments: []\n"], ["queue", "mturk_grind"], ["run_at", Thu, 19 Feb 2015 07:10:40 UTC +00:00], ["updated_at", Thu, 19 Feb 2015 07:10:40 UTC +00:00]]
+[ActiveJob]   [1m[36m (33.7ms)[0m  [1mcommit transaction[0m
+[ActiveJob] Enqueued ScrapeRedditHWTFJob (Job ID: 9070b595-0b6e-4448-b919-1691e74cc2d0) to DelayedJob(reddit_hwtf)
+[ActiveJob]   [1m[35m (0.2ms)[0m  begin transaction
+[ActiveJob]   [1m[36mSQL (1.5ms)[0m  [1mINSERT INTO "delayed_jobs" ("created_at", "handler", "queue", "run_at", "updated_at") VALUES (?, ?, ?, ?, ?)[0m  [["created_at", Thu, 19 Feb 2015 07:10:40 UTC +00:00], ["handler", "--- !ruby/object:Delayed::PerformableMethod\nobject: !ruby/object:ActiveJob::QueueAdapters::DelayedJobAdapter::JobWrapper {}\nmethod_name: :perform\nargs:\n- job_class: ScrapeRedditHWTFJob\n  job_id: 9070b595-0b6e-4448-b919-1691e74cc2d0\n  queue_name: reddit_hwtf\n  arguments: []\n"], ["queue", "reddit_hwtf"], ["run_at", Thu, 19 Feb 2015 07:10:40 UTC +00:00], ["updated_at", Thu, 19 Feb 2015 07:10:40 UTC +00:00]]
+[ActiveJob]   [1m[35m (18.0ms)[0m  commit transaction
