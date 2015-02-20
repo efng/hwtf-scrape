@@ -12,3 +12,5 @@ scrapes reddit &amp; mturkgrind for new mturk links
     Mechnize[https://github.com/sparklemotion/mechanize] to webscrape mturkgrind for valid links
     RedditKit[https://github.com/samsymons/RedditKit.rb] to scrape /r/HITsWorthTurkingFor[http://www.reddit.com/r/HITsWorthTurkingFor/]
 * nokogiri[https://github.com/sparklemotion/nokogiri]
+
+say what
